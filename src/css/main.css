@@ -344,12 +344,17 @@ main {
 
     .burger-nav {
         display: inline-block;
+        position: relative;
+        pointer-events: all;
+        opacity: 1;
+        color: black;
         border: 0;
+        border-radius: 0;
         background: none;
         outline: 0;
         padding: 0;
         cursor: pointer;
-        border-bottom: 6px solid currentColor;
+        border-bottom: 4px solid currentColor;
         width: 28px;
         -o-transition: border-bottom 1s ease-in-out;
         transition: border-bottom 1s ease-in-out;
@@ -365,9 +370,9 @@ main {
     .burger-nav:before {
         content: "";
         display: block;
-        border-bottom: 6px solid currentColor;
+        border-bottom: 4px solid currentColor;
         width: 100%;
-        margin-bottom: 6px;
+        margin-bottom: 4px;
         transition: -webkit-transform 0.5s ease-in-out;
         -o-transition: transform 0.5s ease-in-out;
         transition: transform 0.5s ease-in-out;
@@ -378,9 +383,9 @@ main {
     .burger-nav:after {
         content: "";
         display: block;
-        border-bottom: 6px solid currentColor;
+        border-bottom: 4px solid currentColor;
         width: 100%;
-        margin-bottom: 6px;
+        margin-bottom: 4px;
         transition: -webkit-transform 0.5s ease-in-out;
         -o-transition: transform 0.5s ease-in-out;
         transition: transform 0.5s ease-in-out;
@@ -389,7 +394,7 @@ main {
     }
     
     .burger-check:checked ~ .burger-nav {
-      border-bottom: 6px solid transparent;
+      border-bottom: 4px solid transparent;
       -o-transition: border-bottom 0.8s ease-in-out;
       transition: border-bottom 0.8s ease-in-out;
       -webkit-transition: border-bottom 0.8s ease-in-out;
