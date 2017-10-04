@@ -86,10 +86,9 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+/* NEW CSS FOR PR NOW */
 
-
-/* NEW CSS FOR STATIC SITE */
-
+@import './imports/_pr_now_site';
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,800');
 
@@ -100,7 +99,8 @@ html {
 
 body {
     margin: 0;
-		font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 .wrapper {
