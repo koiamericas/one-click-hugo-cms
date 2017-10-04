@@ -1,3 +1,7 @@
+a:focus, button:focus, input:focus, textarea:focus {
+    box-shadow: none;
+}
+
 .main-banner {
     width: 100vw;
     height: calc(100vw / 2.5);
@@ -36,7 +40,7 @@
 
 .main-banner p.top {
     display: inline-block;
-    margin: 50px auto 90px;
+    margin: 60px auto 90px;
     padding: 0 20px 10px;
     border-bottom: 1px solid #ffffff;
     border-bottom: 1px solid rgb(255, 255, 255);
@@ -58,4 +62,53 @@
     text-decoration: none;
     color: white;
     background: #92BA01;
+}
+
+.info-bar {
+    width: 80vw;
+    max-width: 1170px;
+    height: 80px;
+    background: #92BA01;
+    display: block;
+    margin: 40px auto;
+    color: white;
+}
+
+.info-bar .dark-content {
+    float: left;
+    background: #7B9D00;
+    font-size: 20px;
+    font-weight: bold;
+    height: 80px;
+    line-height: 80px;
+    padding: 0;
+    width: 15%;
+    text-align: center;
+}
+
+.info-bar .dark-arrow {
+    float: left;
+    width: 0px;
+    height: 0px;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-left: 20px solid #7B9D00;
+}
+
+.info-bar .content {
+    float: right;
+    text-align: center;
+    width: calc(85% - 60px);
+    height: 80px;
+}
+
+.info-bar .content p {
+    width: 30%;
+    text-align: left;
+    font-size: 12px;
+    display: inline-block;
+    height: 80px;
+    padding: 10px 5px;  
+    vertical-align: top;
+    line-height: 13px;
 }
