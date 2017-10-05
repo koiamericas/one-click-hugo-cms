@@ -319,41 +319,17 @@
         text-align: left;
         overflow: hidden;
         height: auto;
-        max-height: 1000vh;
-        -webkit-transition: max-height 1s ease-in;
-        -moz-transition: max-height 1s ease-in; 
-        -ms-transition: max-height 1s ease-in; 
-        -o-transition: max-height 1s ease-in; 
-        transition: max-height 1s ease-in;
+        max-height: none;
     }
-    
-    .message-container .message.show-less {
-        max-height: 999vh !important;
-        -webkit-transition: max-height 1s ease-in; 
-        -moz-transition: max-height 1s ease-in; 
-        -ms-transition: max-height 1s ease-in; 
-        -o-transition: max-height 1s ease-in; 
-        transition: max-height 1s ease-in;
-    }
-    
+
     .message-container .message p {
         max-height: 1000vh;
         overflow: hidden;
-        -webkit-transition: max-height 1s ease-in; 
-        -moz-transition: max-height 1s ease-in; 
-        -ms-transition: max-height 1s ease-in; 
-        -o-transition: max-height 1s ease-in; 
-        transition: max-height 1s ease-in;
     }
 
     .message-container .message.show-less p {
         max-height: 1px;
         margin: 0;
-        -webkit-transition: max-height 1s ease-in; 
-        -moz-transition: max-height 1s ease-in; 
-        -ms-transition: max-height 1s ease-in; 
-        -o-transition: max-height 1s ease-in; 
-        transition: max-height 1s ease-in;
     }
 
     .message-container .message.show-less p.first-p {
@@ -367,21 +343,28 @@
         display: block;
         line-height: 16px;
         width: 150px;
-        padding: 10px 5px;
+        padding: 0;
         margin: 25px 0 0 0;
         cursor: pointer;
+        pointer-events: all;
+    }
+
+    .message-container .show-more-btn .text {
+        padding: 10px 5px;
+        display: inline-block;
+        pointer-events: none;
     }
     
     .message-container .show-more-btn img {
         height: 12px;
         width: auto;
-        display: inline-block;
         vertical-align: middle;
-        padding: 0 0 0 10px;
+        pointer-events: none;
+        float: right;
+        margin: 12px 10px 0 0;
     }
 
-    .message-container .show-more-btn img.rotate {
-        padding: 0 10px 0 0;
+    .message-container .show-more-btn img.rotate {  
         -webkit-transform: rotate(180deg);
         -moz-transform: rotate(180deg);
         -o-transform: rotate(180deg);
@@ -413,6 +396,7 @@
         position: absolute;
         right: calc(5vw);
         transform: translate(0, -175px);
+        pointer-events: none;
     }
 
 }

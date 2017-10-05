@@ -16,9 +16,9 @@ var message = document.getElementById("izquiero-message");
 btn.addEventListener("click", function() {
   if (message.classList.contains("show-less")){
     message.classList.remove("show-less");
-    btn.innerHTML = "Show less" + "<img src='/img/icons/down-white-arrow.svg' class='down-white-arrow show-mobile-only rotate'/>";
+    btn.innerHTML = "<div class='text'>Show less</div><img src='/img/icons/down-white-arrow.svg' class='down-white-arrow show-mobile-only rotate'/>";
   } else {
     message.classList.add("show-less");
-    btn.innerHTML = "Keep reading" + "<img src='/img/icons/down-white-arrow.svg' class='down-white-arrow show-mobile-only'/>";
+    btn.innerHTML = "<div class='text'>Keep reading</div><img src='/img/icons/down-white-arrow.svg' class='down-white-arrow show-mobile-only'/>";
   }
 });
