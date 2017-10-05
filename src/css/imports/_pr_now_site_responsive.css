@@ -1,5 +1,9 @@
 @media (max-width: 1135px) {
 
+    .show-mobile-only {
+        display: block;
+    }
+
     .burger-nav {
         display: inline-block;
         position: relative;
@@ -223,6 +227,72 @@
 
     .new-footer b {
         font-weight: normal;
+    }
+
+    .main-banner {
+        height: 420px;
+    }
+
+    .main-banner p {
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+        padding: 15px 0 0 0;
+    }
+    
+    .main-banner p.small {
+        font-size: 14px;
+    }
+    
+    .main-banner p.big {
+        font-size: 22px;
+    }
+    
+    .main-banner p.top {
+        padding: 30px 20px 10px;
+        margin: 0 auto;
+    }
+
+    .main-banner p.banner-mobile-copy {
+        padding: 5px 0 15px 0;
+        font-size: 12px;
+    }
+    
+    .main-banner a {
+        margin: 5px auto 0;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 0 20px;
+    }
+
+    .main-banner .down-white-arrow {
+        display: block;
+        margin: 0 auto;
+        height: 20px;
+        width: auto;
+        padding: 40px 0 0 0;
+    }
+    
+    .info-bar {
+
+    }
+    
+    .info-bar .dark-content {
+
+    }
+    
+    .info-bar .dark-arrow {
+
+    }
+    
+    .info-bar .content {
+
+    }
+    
+    .info-bar .content p {
+
     }
 
 }
