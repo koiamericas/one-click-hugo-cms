@@ -7,7 +7,7 @@
     <p class="small top">
         Your Travel Information Portal
     </p>
-    
+
     <p class="big">
         Welcome to your home for travel updates.
     </p>
@@ -17,7 +17,7 @@
     </p>
 
     <a href="http://messenger.providesupport.com/messenger/eddinc.html" target="_blank">
-        LIVE CHAT   
+        LIVE CHAT
     </a>
 
     <p class="big bold">
@@ -41,15 +41,33 @@
         </p>
 
         <p>
-            Many hotels have reopened, but are not taking reservations yet. Click on “Hotels” below for more info. 
+            Many hotels have reopened, but are not taking reservations yet. Click on “Hotels” below for more info.
         </p>
 
         <p>
-            San Juan Harbor is open and these other ports are open during daylight hours: Guayanilla, Tallaboa, Salinas, Fajardo, Culebra, Vieques, Guayama.                
+            San Juan Harbor is open and these other ports are open during daylight hours: Guayanilla, Tallaboa, Salinas, Fajardo, Culebra, Vieques, Guayama.
         </p>
 
     </div>
 
 </div>
+
+
+
+  {{ range .Data.Pages }}
+  {{if eq .RelPermalink "/index.html" }}
+  <div class="mw6 center ph3 pv4">
+    <div class="cms mw6">
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="entry_image" />{{ end }}
+      <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
+      <div class="flex justify-between grey-3">
+        <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
+      </div>
+      {{ .Content }}
+    </div>
+  </div>
+
+  {{end}}
+{{ end }}
 
 {{ partial "footer" . }}
