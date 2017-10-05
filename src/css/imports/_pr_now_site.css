@@ -105,10 +105,11 @@ a:focus, button:focus, input:focus, textarea:focus {
 .info-bar .content p {
     width: 30%;
     text-align: left;
-    font-size: 12px;
+    font-size: 13px;
     display: inline-block;
     height: 80px;
-    padding: 10px 5px;  
+    padding: 10px 5px;
     vertical-align: top;
     line-height: 13px;
+    font-weight: 600;
 }
