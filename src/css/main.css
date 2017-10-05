@@ -578,11 +578,11 @@ main {
     }
 
     .new-footer .footer-row .footer-row-entry .footer-row-entry-img {
-        border-top: 1px solid #BFBFBF;
+        border-top: 1px solid #bfbfbf;
         padding: 15px 50px;
         margin: 0 auto;
-        height: 97px;
-        width: 320px;
+        height: 67px;
+        width: 220px;
     }
 
     .new-footer b {
