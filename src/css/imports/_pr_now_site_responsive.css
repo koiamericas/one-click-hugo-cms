@@ -276,23 +276,143 @@
     }
     
     .info-bar {
-
+        width: 90vw;
     }
     
     .info-bar .dark-content {
-
-    }
-    
-    .info-bar .dark-arrow {
-
+        display: none;
     }
     
     .info-bar .content {
-
+        width: calc(100% - 40px);
     }
     
     .info-bar .content p {
+        font-size: 12px;
+        font-weight: 400;
+        width: 100%;
+        line-height: 12px;
+        padding: 5px;
+        margin: 10px 0 0 0;
+    }
 
+    .message-container {
+        width: 90vw;
+        max-width: 1170px;
+        height: auto;
+        background: #1E4369;
+        display: block;
+        margin: 10px auto;
+        color: white;
+        padding: 25px 10px;
+    }
+    
+    .message-container .title {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    
+    .message-container .message {
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 18px;
+        text-align: left;
+        overflow: hidden;
+        height: auto;
+        max-height: 1000vh;
+        -webkit-transition: max-height 1s ease-in;
+        -moz-transition: max-height 1s ease-in; 
+        -ms-transition: max-height 1s ease-in; 
+        -o-transition: max-height 1s ease-in; 
+        transition: max-height 1s ease-in;
+    }
+    
+    .message-container .message.show-less {
+        max-height: 999vh !important;
+        -webkit-transition: max-height 1s ease-in; 
+        -moz-transition: max-height 1s ease-in; 
+        -ms-transition: max-height 1s ease-in; 
+        -o-transition: max-height 1s ease-in; 
+        transition: max-height 1s ease-in;
+    }
+    
+    .message-container .message p {
+        max-height: 1000vh;
+        overflow: hidden;
+        -webkit-transition: max-height 1s ease-in; 
+        -moz-transition: max-height 1s ease-in; 
+        -ms-transition: max-height 1s ease-in; 
+        -o-transition: max-height 1s ease-in; 
+        transition: max-height 1s ease-in;
+    }
+
+    .message-container .message.show-less p {
+        max-height: 1px;
+        margin: 0;
+        -webkit-transition: max-height 1s ease-in; 
+        -moz-transition: max-height 1s ease-in; 
+        -ms-transition: max-height 1s ease-in; 
+        -o-transition: max-height 1s ease-in; 
+        transition: max-height 1s ease-in;
+    }
+
+    .message-container .message.show-less p.first-p {
+        max-height: 1000vh;
+    }
+    
+    .message-container .show-more-btn {
+        font-size: 14px;
+        font-weight: bold;
+        border: 3px solid white;
+        display: block;
+        line-height: 16px;
+        width: 150px;
+        padding: 10px 5px;
+        margin: 25px 0 0 0;
+        cursor: pointer;
+    }
+    
+    .message-container .show-more-btn img {
+        height: 12px;
+        width: auto;
+        display: inline-block;
+        vertical-align: middle;
+        padding: 0 0 0 10px;
+    }
+
+    .message-container .show-more-btn img.rotate {
+        padding: 0 10px 0 0;
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+
+    .message-container .signature {
+        display: block;
+        margin: 30px 0 0 0;
+    }
+    
+    .message-container .signature .signature-name {
+        width: auto;
+        font-weight: bold;
+        font-size: 18px;
+        margin: 0 0 10px 0;
+    }
+    
+    .message-container .signature .signature-position {
+        width: 60%;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .message-container .izquiero-mask {
+        width: auto;
+        height: 200px;
+        position: absolute;
+        right: calc(5vw);
+        transform: translate(0, -175px);
     }
 
 }

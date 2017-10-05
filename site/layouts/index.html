@@ -32,9 +32,9 @@
 
 </div>
 
-<div class="info-bar">
+<div class="info-bar show-mobile-only">
 
-    <div class="dark-content">
+    <div class="dark-content hide-on-mobile">
         This just in
     </div>
 
@@ -42,11 +42,11 @@
 
     <div class="content">
 
-        <p>
+        <p class="hide-on-mobile">
             Luis Muñoz Marín International Airport  is operating from 7:00 AM to 5:00PM EDT with 39 commercial flights per day.
         </p>
 
-        <p>
+        <p class="hide-on-mobile">
             Many hotels have reopened, but are not taking reservations yet. Click on “Hotels” below for more info.
         </p>
 
@@ -58,6 +58,50 @@
 
 </div>
 
+<div class="message-container show-mobile-only">
+    
+    <p class="title">
+        Message from the Executive Director 
+    </p>
+
+    <div id="izquiero-message" class="message show-less">
+            
+        <p class="first-p">
+            “The past week has been a very difficult time for Puerto Rico and all its residents, families of Puerto Ricans living outside the Island, and travelers on the Island whom have not been able to go back home. Safety and security remains our priority as we continue to provide relief as quickly as possible. What has truly kept the spirit of the Puerto Rican people alive and lifted during these days has been the overwhelming support from not only the emergency crews and government agencies providing critical help on the ground, but also the tremendous support from the private sector and notable celebrities and individuals. From the bottom of our hearts, we thank everyone so much for the outpouring of generosity.
+        </p>
+            
+        <p>
+            Our relief efforts have been significantly augmented by the help received from our most loyal travel partners. Efforts like the Royal Caribbean Cruise Lines Adventure of the Seas’ humanitarian mission happening today to deliver donated supplies and take evacuees to Florida have been awe-inspiring. Royal Caribbean modified a voyage to help with these recovery efforts. Delta is another travel partner who is going above and beyond. They flew a flight full of law enforcement and National Guard to the Island from JFK and the flight will be returning later today on a humanitarian mission to JFK full of evacuees. As a legacy partner to the Island, we cannot be more thankful.
+        </p>
+            
+        <p>
+            We are deeply grateful to our most loyal travel partners for their committed support and generosity. What will continue to keep us strong and on a path to rebuilding will be continued assistance like this and I’m hopeful we’ll continue to receive support from other partners. We remain confident that Puerto Rico will quickly recover and the resiliency and strength of our people will get us through the days ahead.”
+        </p>
+
+    </div>
+
+    <div id="show-more-btn" class="show-more-btn">
+        Keep reading
+        <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+    </div>
+
+    <div class="signature">
+
+        <p class="signature-name">
+            Jose Izquierdo
+        </p>
+
+        <p class="signature-position">
+            Executive Director of the Puerto Rico Tourism Company     
+        </p>
+
+    </div>
+
+    <img src="/img/icons/izquierdo-mask.svg" class="izquiero-mask" />
+
+</div>
+
+<!--
 {{ range .Data.Pages }}
   {{if eq .RelPermalink "/index.html" }}
     <div class="mw6 center ph3 pv4">
@@ -71,5 +115,6 @@
     </div>
   {{end}}
 {{ end }}
+-->
 
 {{ partial "footer" . }}

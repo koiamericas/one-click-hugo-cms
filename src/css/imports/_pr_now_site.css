@@ -369,3 +369,23 @@ a:focus, button:focus, input:focus, textarea:focus {
     line-height: 13px;
     font-weight: 600;
 }
+
+.message-container {}
+
+.message-container .title {}
+
+.message-container .message {}
+
+.message-container .message.show-less {}
+
+.message-container .message p {}
+
+.message-container .show-more-btn {}
+
+.message-container .show-more-btn img {}
+
+.message-container .signature .signature {}
+
+.message-container .signature .signature-name {}
+
+.message-container .signature .signature-position {}
