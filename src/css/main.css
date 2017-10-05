@@ -350,13 +350,13 @@ main {
 
 @media (max-width: 1104px) {
 
-    .main-banner {
+    /* .main-banner {
         display: none !important;
-    }
+    } */
 
-    .info-bar {
+    /* .info-bar {
         display: none !important;
-    }
+    } */
     .entry_image {
         height: auto !important;
     }
