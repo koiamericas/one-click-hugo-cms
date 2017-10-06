@@ -2,7 +2,7 @@
 type: Homepage
 url: "index.html"
 title: A Message to Travelers
-date: 2017-10-05T09:30:00.000Z
+date: 2017-10-06T09:20:00.000Z
 image: /img/main_banner_img.jpg
 ---
 
@@ -62,7 +62,6 @@ The following hotels are closed and not taking new reservations until further no
 *   Coral by the Sea Hotel
 *   Wyndham Grand Rio Mar Beach Resort & Spa
 *   Royal Isabela
-*   ESJ Azul
 
 The following hotels are open, but not taking new reservations prior to the dates shown.
 
@@ -80,6 +79,7 @@ The following hotels are open, but not taking new reservations prior to the date
 *   El San Juan Hotel, Curio Collection (31-Oct-17)
 *   Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
 *   Embassy Suites San Juan Hotel & Casino (31-Oct-17)
+*   ESJ Azul (15-Oct-17)
 *   Hampton Inn & Suites San Juan (31-Oct-17)
 *   Hilton Ponce Golf & Casino Resort (31-Oct-17)
 *   Holiday Inn Express San Juan Condado Hotel (22-Oct-17)
