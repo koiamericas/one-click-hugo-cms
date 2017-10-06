@@ -229,6 +229,15 @@
         font-weight: normal;
     }
 
+    .centered-box-content-mobile {
+        width: 90vw;
+        max-width: 1170px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .main-banner {
         height: 420px;
     }
@@ -274,9 +283,9 @@
         width: auto;
         padding: 40px 0 0 0;
     }
-    
+
     .info-bar {
-        width: 90vw;
+        height: 80px;
     }
     
     .info-bar .dark-content {
@@ -297,11 +306,7 @@
     }
 
     .message-container {
-        width: 90vw;
-        max-width: 1170px;
-        height: auto;
         background: #1E4369;
-        display: block;
         margin: 10px auto;
         color: white;
         padding: 25px 10px;
@@ -397,6 +402,214 @@
         right: calc(5vw);
         transform: translate(0, -175px);
         pointer-events: none;
+    }
+
+    .green-cards-container {
+        background: transparent;
+        margin: 10px auto;
+        color: white;
+        padding: 0;
+    }
+    
+    .green-cards-container .title {
+        width: 75vw;
+        display: block;
+        margin: 35px auto 20px auto;
+        text-align: center;
+        color: #4E4E4E;
+        font-size: 26px;
+        font-weight: normal;
+    }
+    
+    .green-cards-container .green-card {
+        background: #92BA01;
+        width: 100%;
+        height: 320px;
+        margin: 0 auto 10px auto;
+        padding: 20px 0;
+    }
+    
+    .green-cards-container .green-card img {
+        width: 200px;
+        height: 100px;
+        display: block;
+        margin: 0 auto 20px auto;
+    }
+
+    .green-cards-container .green-card p {
+        width: 75%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .green-cards-container .green-card p.card-title {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    
+    .green-cards-container .green-card p.card-text {
+        font-size: 18px;
+        font-weight: normal;
+    }
+    
+    .green-cards-container .green-card a {
+        width: 50%;
+        height: 40px;
+        border: 3px solid white;
+        padding: 0 15px;
+        text-align: center;
+        line-height: 40px;
+        display: block;
+        margin: 15px auto 0;
+        font-weight: bold;
+    }
+
+    .status-pr-box {
+        background: #4D4D4D;
+        height: 270px;
+        margin: 20px auto;
+        display: table;
+    }
+
+    .status-pr-box .items-container {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .status-pr-box .items-container p {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 0;
+        color: white;
+    }
+
+    .status-pr-box .items-container img {
+        width: 235px;
+        height: 55px;
+        display: block;
+        margin: 15px auto 0 auto;
+    }
+
+    .united-for-pr-box {
+        height: 215px;
+        margin: 20px auto;
+        display: table;
+        background-image: url('/img/united-for-pr.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    
+    .united-for-pr-box .items-container {
+        display: table-cell;
+        vertical-align: middle;
+    }
+    
+    .united-for-pr-box .items-container p {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        padding: 0;
+        color: white;
+    }
+    
+    .united-for-pr-box .items-container a {
+        width: 60%;
+        height: 50px;
+        border: none;
+        background: #92BA01;
+        color: white;
+        padding: 0 10px;
+        text-align: center;
+        display: block;
+        margin: 15px auto 0;
+        font-weight: bold;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+    }
+
+    .mailer {
+        background: transparent;
+        margin: 25px auto 10px auto;
+    }
+    
+    .mailer .title {
+        width: 75vw;
+        display: block;
+        margin: 35px auto 20px auto;
+        text-align: center;
+        color: #4E4E4E;
+        font-size: 26px;
+        font-weight: normal;
+    }
+    
+    .mailer .email-input-box {
+        background: transparent;
+        border: 3px solid #92BA01;
+        padding: 5px 10px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .mailer .email-input-box::selection,
+    .mailer .email-input-box::-moz-selection,
+    .mailer .email-input-box::-o-selection,
+    .mailer .email-input-box::-ms-selection,
+    .mailer .email-input-box::-webkit-selection {
+        background: #92BA01;
+        color: white;
+    }
+    
+    .mailer .email-input-box img {
+        height: 18px;
+        width: auto;
+        display: inline-block;
+        padding: 8px 0;
+    }
+    
+    .mailer .email-input-box .email-input {
+        height: 26px;
+        width: calc(100% - 40px);
+        display: inline-block;
+        font-size: 20px;
+        font-weight: bold;
+        color: #4E4E4E;
+        background: white;
+        padding: 0 5px 0 10px;
+        vertical-align: super;
+    }
+
+    .mailer .email-input-box .email-input::-webkit-input-placeholder,
+    .mailer .email-input-box .email-input:-moz-placeholder,
+    .mailer .email-input-box .email-input::-moz-placeholder,
+    .mailer .email-input-box .email-input:-ms-input-placeholder {
+        font-size: 18px;
+        font-weight: bold;
+        color: #4E4E4E;
+    }
+
+    .mailer .register-to-mailer-btn {
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        background: #92BA01;
+        cursor: pointer;
+        margin: 15px auto 50px;
     }
 
 }

@@ -9,6 +9,10 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    text-decoration: none;
+}
+
 .wrapper {
     margin: 0;
     width: 100%;
@@ -301,8 +305,8 @@ a:focus, button:focus, input:focus, textarea:focus {
     border-bottom: 1px solid #ffffff;
     border-bottom: 1px solid rgb(255, 255, 255);
     border-bottom: 1px solid rgba(255, 255, 255, .75);
-    -webkit-background-clip: padding-box; /* for Safari */
-    background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
 }
 
 .main-banner a {
@@ -389,3 +393,45 @@ a:focus, button:focus, input:focus, textarea:focus {
 .message-container .signature .signature-name {}
 
 .message-container .signature .signature-position {}
+
+.green-cards-container {}
+
+.green-cards-container .title {}
+
+.green-cards-container .green-card {}
+
+.green-cards-container .green-card img {}
+
+.green-cards-container .green-card .card-title {}
+
+.green-cards-container .green-card .card-text {}
+
+.green-cards-container .green-card a {}
+
+.status-pr-box {}
+
+.status-pr-box .items-container {}
+
+.status-pr-box .items-container p {}
+
+.status-pr-box .items-container img {}
+
+.united-for-pr-box {}
+
+.united-for-pr-box .items-container {}
+
+.united-for-pr-box .items-container p {}
+
+.united-for-pr-box .items-container a {}
+
+.mailer {}
+
+.mailer .title {}
+
+.mailer .email-input-box {}
+
+.mailer .email-input-box img {}
+
+.mailer .email-input-box input {}
+
+.mailer .register-to-mailer-btn {}
