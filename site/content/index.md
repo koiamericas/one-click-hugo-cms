@@ -2,7 +2,7 @@
 type: Homepage
 url: "index.html"
 title: A Message to Travelers
-date: 2017-10-06T15:30:00.000Z
+date: 2017-10-07T19:00:00.000Z
 image: /img/main_banner_img.jpg
 ---
 
@@ -52,62 +52,56 @@ San Juan Harbor is open and expected to resume homeporting operations by Saturda
 
 **Lodging Updates:**
 
-The following hotels are closed and not taking new reservations until further notice. If you have an existing reservation in the coming days, please contact the hotel directly for rebooking.
+The following hotels are only able to take new reservations for stays starting after the date shown.
 
-*   Dorado Beach, a Ritz-Carlton Reserve
-*   W Retreat & Spa in Vieques
-*   Gran Melia
-*   Coral by the Sea Hotel
-*   Wyndham Grand Rio Mar Beach Resort & Spa
-*   Royal Isabela
-
-The following hotels are open, but not taking new reservations prior to the dates shown.
-
-*   AC Hotel San Juan Condado (22-Oct-17)
-*   At Wind Chimes Boutique Hotel (22-Oct-17)
-*   Best Western Condado Palm Inn & Suites (02-Oct-17)
-*   Canario Boutique Hotel (22-Oct-17)
-*   Caribe Hilton (31-Oct-17)
-*   Comfort Inn San Juan (22-Oct-17)
-*   Condado Vanderbilt Hotel (02-Oct-17)
-*   Coral Princess Hotel (22-Oct-17)
-*   Courtyard by Marriott Isla Verde Beach (02-Oct-17)
-*   DoubleTree by Hilton Hotel San Juan (02-Oct-17)
-*   El Conquistador, a Waldorf Astoria Resort (31-Dec-17)
-*   El San Juan Hotel, Curio Collection (31-Oct-17)
-*   Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
-*   Embassy Suites San Juan Hotel & Casino (31-Oct-17)
-*   ESJ Azul (15-Oct-17)
-*   Hampton Inn & Suites San Juan (31-Oct-17)
-*   Hilton Ponce Golf & Casino Resort (31-Oct-17)
-*   Holiday Inn Express San Juan Condado Hotel (22-Oct-17)
-*   Hotel El Convento (02-Oct-17)
-*   Hotel Miramar (22-Oct-17)
-*   Hotel Villa Montaña & Spa (22-Oct-17)
-*   Hyatt Hacienda del Mar, Dorado (22-Oct-17)
-*   Hyatt House San Juan (15-Oct-17)
-*   Hyatt Place San Juan (15-Oct-17)
-*   InterContinental San Juan, Isla Verde (22-Oct-17)
-*   La Concha Resort (02-Oct-17)
-*   Las Casitas Village at El Conquistador (31-Dec-17)
-*   San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
-*   San Juan Water Beach Club (31-Oct-17)
-*   Sheraton Puerto Rico Hotel & Casino (09-Jan-18)
-*   The Condado Plaza Hilton (31-Oct-17)
-*   The Lazy Parrot Inn, Rincón (22-Oct-17)
-*   The Wave Hotel (22-Oct-17)
-*   Verdanza Hotel (15-Oct-17)
+*	AC Hotel San Juan Condado (22-Oct-17)
+*	At Wind Chimes Boutique Hotel (22-Oct-17)
+*	Best Western Condado Palm Inn & Suites (02-Oct-17)
+*	Canario Boutique Hotel (22-Oct-17)
+*	Caribe Hilton (31-Oct-17)
+*	Comfort Inn San Juan (22-Oct-17)
+*	Condado Vanderbilt Hotel (02-Oct-17)
+*	Coral by the Sea Hotel (TBD)
+*	Coral Princess Hotel (22-Oct-17)
+*	Courtyard by Marriott Isla Verde Beach (02-Oct-17)
+*	Dorado Beach, a Ritz-Carlton Reserve (TBD)
+*	DoubleTree by Hilton Hotel San Juan (02-Oct-17)
+*	El Conquistador, a Waldorf Astoria Resort (31-Dec-17)
+*	El San Juan Hotel, Curio Collection (31-Oct-17)
+*	Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
+*	Embassy Suites San Juan Hotel & Casino (31-Oct-17)
+*	ESJ Azul (15-Oct-17)
+*	Gran Melia (TBD)
+*	Hampton Inn & Suites San Juan (31-Oct-17)
+*	Hilton Ponce Golf & Casino Resort (31-Oct-17)
+*	Holiday Inn Express San Juan Condado Hotel (22-Oct-17)
+*	Hotel El Convento (02-Oct-17)
+*	Hotel Miramar (22-Oct-17)
+*	Hotel Villa Montaña & Spa (22-Oct-17)
+*	Hyatt Hacienda del Mar, Dorado (22-Oct-17)
+*	Hyatt House San Juan (15-Oct-17)
+*	Hyatt Place San Juan (15-Oct-17)
+*	InterContinental San Juan, Isla Verde (22-Oct-17)
+*	La Concha Resort (02-Oct-17)
+*	Las Casitas Village at El Conquistador (31-Dec-17)
+*	Royal Isabela (TBD)
+*	San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
+*	San Juan Water Beach Club (31-Oct-17)
+*	Sheraton Puerto Rico Hotel & Casino (09-Jan-18)
+*	The Condado Plaza Hilton (31-Oct-17)
+*	The Lazy Parrot Inn, Rincón (22-Oct-17)
+*	The Wave Hotel (22-Oct-17)
+*	Verdanza Hotel (15-Oct-17)
+*	W Retreat & Spa in Vieques (TBD)
+*	Wyndham Grand Rio Mar Beach Resort & Spa (TBD)
 
 If you have a trip scheduled for this upcoming week and through October 15, we recommend you call your hotel or travel agent directly and consider rebooking for a later date.
 
 **This is some contact information that may prove useful:**
 
 *   Hilton Hotels | [1-800-445-8667][1] | <a target="_blank" style="color: red !important;" href="http://www3.hilton.com/">hilton.com </a>
-
 *   Marriott Hotels | [1-800-721-7033][2] | <a target="_blank" style="color: red !important;" href="https://www.marriott.com">marriott.com</a>
-
 *   Hyatt Hotels | [1-800-323-7249][3] | <a target="_blank" style="color: red !important;" href="https://www.hyatt.com/">hyatt.com</a>
-
 *   Wyndham Hotels | [1-800-466-1589][4] | <a target="_blank" style="color: red !important;" href="https://www.wyndhamhotels.com/">wyndhamhotels.com </a>
 
 **Puerto Rico Tourism Company Travelers Support Center:**
