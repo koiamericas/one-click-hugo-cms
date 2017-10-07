@@ -1,6 +1,6 @@
 ---
-type: Homepage
-url: "index.html"
+type: Info
+page: /info.html
 title: A Message to Travelers
 date: 2017-10-05T09:30:00.000Z
 image: /img/main_banner_img.jpg
@@ -26,7 +26,7 @@ We are deeply grateful to our most loyal travel partners for their committed sup
 
 *Luis Muñoz Marín International Airport (SJU)*
 
-The airport is fully operational with scheduled domestic and international flights. 
+The airport is fully operational with scheduled domestic and international flights.
 
 *Other Puerto Rico Airports*
 
