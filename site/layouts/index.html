@@ -12,8 +12,12 @@
         Welcome to your home for travel updates.
     </p>
 
-    <p class="small">
+    <p class="small hide-on-mobile">
         If you're thinking about visiting Puerto Rico or already have booked a trip, we can help you.
+    </p>
+
+    <p class="small show-mobile-only banner-mobile-copy">
+        If you’re thinking about visiting Puerto Rico or already have booked a trip, we can help you stay informed. For any immediate questions, we’re always available to talk:
     </p>
 
     <a href="http://messenger.providesupport.com/messenger/eddinc.html" target="_blank">
@@ -24,12 +28,13 @@
         Hotline: 787-522-5960
     </p>
 
+    <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+
 </div>
 
-<!--
-<div class="info-bar">
+<div class="info-bar centered-box-content-mobile show-mobile-only">
 
-    <div class="dark-content">
+    <div class="dark-content hide-on-mobile">
         This just in
     </div>
 
@@ -37,11 +42,11 @@
 
     <div class="content">
 
-        <p>
+        <p class="hide-on-mobile">
             Luis Muñoz Marín International Airport  is operating from 7:00 AM to 5:00PM EDT with 39 commercial flights per day.
         </p>
 
-        <p>
+        <p class="hide-on-mobile">
             Many hotels have reopened, but are not taking reservations yet. Click on “Hotels” below for more info.
         </p>
 
@@ -52,22 +57,178 @@
     </div>
 
 </div>
--->
+
+<div class="message-container centered-box-content-mobile show-mobile-only">
+
+    <p class="title">
+        Message from the Executive Director
+    </p>
+
+    <div id="izquiero-message" class="message show-less">
+
+        <p class="first-p">
+            “For the past few weeks, the PRTC has been collaborating with government agencies and the private sector to provide immediate relief while ensuring the safety of all visitors and residents. The support received to date has been remarkable and we continue to welcome relief efforts from partners who are interested in helping the people of Puerto Rico as we focus on rebuilding our Island.
+        </p>
+
+        <p>
+                Recent advancements on major tourism infrastructure, like our main airport fully operational with back to normal schedules and operational cruise ports and hotels, show a steady pace on our rebuilding path. Assessment continues as we have been in constant communication with our tourism partners across the Island. We are glad to report that the preparedness measures put into place have allowed for what we are expecting to be a full recovery for our tourism industry. We look forward to getting back on our feet in the hopes of welcoming visitors to the Island in the weeks ahead. We are confident that with the continuous support of our industry partners, we can build a stronger Puerto Rico.”
+        </p>
+
+    </div>
+
+    <div id="show-more-btn" class="show-more-btn">
+
+        <div class="text">
+            Keep reading
+        </div>
+
+        <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+
+    </div>
+
+    <div class="signature">
+
+        <p class="signature-name">
+            Jose Izquierdo
+        </p>
+
+        <p class="signature-position">
+            Executive Director of the Puerto Rico Tourism Company
+        </p>
+
+    </div>
+
+    <img src="/img/icons/izquierdo-mask.svg" class="izquiero-mask" />
+
+</div>
+
+<div class="green-cards-container centered-box-content-mobile show-mobile-only">
+
+    <div class="title">
+        Check out the latest on transportation and lodging.
+    </div>
+
+    <div class="green-card">
+
+        <img src="/img/icons/plane.svg" />
+
+        <p class="card-title">
+            Airports
+        </p>
+
+        <p class="card-text">
+            See which locations are flying.
+        </p>
+
+        <a href="/info">
+            SEE MORE
+        </a>
+
+    </div>
+
+    <div class="green-card">
+
+        <img src="/img/icons/hotel.svg" />
+
+        <p class="card-title">
+            Hotels
+        </p>
+
+        <p class="card-text">
+            Explore available accommodations.
+        </p>
+
+        <a href="/info">
+            SEE MORE
+        </a>
+
+    </div>
+
+    <div class="green-card">
+
+        <img src="/img/icons/boat.svg" />
+
+        <p class="card-title">
+            Ports
+        </p>
+
+        <p class="card-text">
+            Check up on cruise ships and ferries.
+        </p>
+
+        <a href="/info">
+            SEE MORE
+        </a>
+
+    </div>
+
+</div>
+
+<div class="status-pr-box centered-box-content-mobile show-mobile-only">
+
+    <div class="items-container">
+
+        <p>
+            Stay informed on infrastructure improvements from gas and electricity to supermarkets,  ATMs, and more.
+        </p>
+        <a href="http://status.pr/?lng=en">
+            <img src="/img/status-pr-logo.png" />
+        </a>
+
+    </div>
+
+</div>
+
+<div class="united-for-pr-box centered-box-content-mobile show-mobile-only">
+
+    <div class="items-container">
+
+        <p>
+            United for Puerto Rico: Together Changing Paths
+        </p>
+
+        <a href="http://unitedforpuertorico.com" target="_blank">
+            JOIN US AND SHOW YOUR SUPPORT
+        </a>
+
+    </div>
+
+</div>
+
+<!-- <div class="mailer centered-box-content-mobile show-mobile-only">
+
+    <p class="title">
+        Register to receive notifications from See Puerto Rico
+    </p>
+
+    <div class="email-input-box">
+
+        <img src="/img/icons/email.svg" />
+
+        <input type="email" name="email" id="email" placeholder="Email" class="email-input" />
+
+    </div>
+
+    <div id="register-to-mailer-btn" class="register-to-mailer-btn">
+        REGISTER
+    </div>
+
+</div> -->
+
 
 {{ range .Data.Pages }}
   {{if eq .RelPermalink "/index.html" }}
-  <div class="mw6 center ph3 pv4">
-    <div class="cms mw6">
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="entry_image" />{{ end }}
-      <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
-      <div class="flex justify-between grey-3">
-        <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
-      </div>
-      {{ .Content }}
+    <div class="mw6 center ph3 pv4 index-info">
+        <div class="cms mw6">
+            <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
+            <div class="flex justify-between grey-3">
+                <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
+            </div>
+            {{ .Content }}
+        </div>
     </div>
-  </div>
-
   {{end}}
 {{ end }}
+
 
 {{ partial "footer" . }}

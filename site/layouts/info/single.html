@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+<div class="mw6 center ph3 pv4">
+  <div class="cms mw6">
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="entry_image" />{{ end }}
+    <!-- <h2 class="f3 lh-title b mb3">{{.Title}}</h2> -->
+    <div class="flex justify-between grey-3">
+      <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
+    </div>
+    {{ .Content }}
+  </div>
+</div>
+
+{{ partial "footer" . }}
