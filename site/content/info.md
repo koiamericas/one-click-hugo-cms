@@ -5,21 +5,6 @@ title: A Message to Travelers
 date: 2017-10-05T09:30:00.000Z
 image: /img/main_banner_img.jpg
 ---
-
-If you’re thinking of visiting Puerto Rico or have travel plans booked in the coming weeks, we’re here to keep you informed.
-
-The safety and security of everyone on the Island is our biggest priority in the aftermath of Hurricane Maria. We continue working with state and federal government agencies and collaborating with our industry partners to assess the impact and continue to provide updates to you.
-
-*Message from José Izquierdo Executive Director of the Puerto Rico Tourism Company*
-
-* * *
-
-“The past week has been a very difficult time for Puerto Rico and all its residents, families of Puerto Ricans living outside the Island, and travelers on the Island whom have not been able to go back home. Safety and security remains our priority as we continue to provide relief as quickly as possible. What has truly kept the spirit of the Puerto Rican people alive and lifted during these days has been the overwhelming support from not only the emergency crews and government agencies providing critical help on the ground, but also the tremendous support from the private sector and notable celebrities and individuals. From the bottom of our hearts, we thank everyone so much for the outpouring of generosity.
-
-Our relief efforts have been significantly augmented by the help received from our most loyal travel partners. Efforts like the Royal Caribbean Cruise Lines Adventure of the Seas’ humanitarian mission happening today to deliver donated supplies and take evacuees to Florida have been awe-inspiring. Royal Caribbean modified a voyage to help with these recovery efforts. Delta is another travel partner who is going above and beyond. They flew a flight full of law enforcement and National Guard to the Island from JFK and the flight will be returning later today on a humanitarian mission to JFK full of evacuees. As a legacy partner to the Island, we cannot be more thankful.
-
-We are deeply grateful to our most loyal travel partners for their committed support and generosity. What will continue to keep us strong and on a path to rebuilding will be continued assistance like this and I’m hopeful we’ll continue to receive support from other partners. We remain confident that Puerto Rico will quickly recover and the resiliency and strength of our people will get us through the days ahead.”
-
 * * *
 
 **Airport Updates:**
