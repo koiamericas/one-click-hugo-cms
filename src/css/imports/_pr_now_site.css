@@ -332,6 +332,7 @@ a:focus, button:focus, input:focus, textarea:focus {
     display: block;
     margin: 40px auto;
     color: white;
+    display: none;
 }
 
 .info-bar .dark-content {

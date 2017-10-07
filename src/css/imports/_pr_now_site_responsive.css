@@ -4,6 +4,10 @@
         display: block;
     }
 
+    .index-info{
+        display: none;
+    }
+
     .burger-nav {
         display: inline-block;
         position: relative;
@@ -248,15 +252,15 @@
         margin: 0 auto;
         padding: 15px 0 0 0;
     }
-    
+
     .main-banner p.small {
         font-size: 14px;
     }
-    
+
     .main-banner p.big {
         font-size: 22px;
     }
-    
+
     .main-banner p.top {
         padding: 30px 20px 10px;
         margin: 0 auto;
@@ -266,7 +270,7 @@
         padding: 5px 0 15px 0;
         font-size: 12px;
     }
-    
+
     .main-banner a {
         margin: 5px auto 0;
         height: 40px;
@@ -287,15 +291,15 @@
     .info-bar {
         height: 80px;
     }
-    
+
     .info-bar .dark-content {
         display: none;
     }
-    
+
     .info-bar .content {
         width: calc(100% - 40px);
     }
-    
+
     .info-bar .content p {
         font-size: 12px;
         font-weight: 400;
@@ -311,12 +315,12 @@
         color: white;
         padding: 25px 10px;
     }
-    
+
     .message-container .title {
         font-size: 24px;
         font-weight: bold;
     }
-    
+
     .message-container .message {
         font-size: 14px;
         font-weight: normal;
@@ -340,7 +344,7 @@
     .message-container .message.show-less p.first-p {
         max-height: 1000vh;
     }
-    
+
     .message-container .show-more-btn {
         font-size: 14px;
         font-weight: bold;
@@ -359,7 +363,7 @@
         display: inline-block;
         pointer-events: none;
     }
-    
+
     .message-container .show-more-btn img {
         height: 12px;
         width: auto;
@@ -369,7 +373,7 @@
         margin: 12px 10px 0 0;
     }
 
-    .message-container .show-more-btn img.rotate {  
+    .message-container .show-more-btn img.rotate {
         -webkit-transform: rotate(180deg);
         -moz-transform: rotate(180deg);
         -o-transform: rotate(180deg);
@@ -381,14 +385,14 @@
         display: block;
         margin: 30px 0 0 0;
     }
-    
+
     .message-container .signature .signature-name {
         width: auto;
         font-weight: bold;
         font-size: 18px;
         margin: 0 0 10px 0;
     }
-    
+
     .message-container .signature .signature-position {
         width: 60%;
         font-size: 14px;
@@ -410,7 +414,7 @@
         color: white;
         padding: 0;
     }
-    
+
     .green-cards-container .title {
         width: 75vw;
         display: block;
@@ -420,7 +424,7 @@
         font-size: 26px;
         font-weight: normal;
     }
-    
+
     .green-cards-container .green-card {
         background: #92BA01;
         width: 100%;
@@ -428,7 +432,7 @@
         margin: 0 auto 10px auto;
         padding: 20px 0;
     }
-    
+
     .green-cards-container .green-card img {
         width: 200px;
         height: 100px;
@@ -442,17 +446,17 @@
         margin: 0 auto;
         text-align: center;
     }
-    
+
     .green-cards-container .green-card p.card-title {
         font-size: 22px;
         font-weight: bold;
     }
-    
+
     .green-cards-container .green-card p.card-text {
         font-size: 18px;
         font-weight: normal;
     }
-    
+
     .green-cards-container .green-card a {
         width: 50%;
         height: 40px;
@@ -504,12 +508,12 @@
         background-repeat: no-repeat;
         background-position: center center;
     }
-    
+
     .united-for-pr-box .items-container {
         display: table-cell;
         vertical-align: middle;
     }
-    
+
     .united-for-pr-box .items-container p {
         width: 90%;
         display: block;
@@ -520,7 +524,7 @@
         padding: 0;
         color: white;
     }
-    
+
     .united-for-pr-box .items-container a {
         width: 60%;
         height: 50px;
@@ -543,7 +547,7 @@
         background: transparent;
         margin: 25px auto 10px auto;
     }
-    
+
     .mailer .title {
         width: 75vw;
         display: block;
@@ -553,7 +557,7 @@
         font-size: 26px;
         font-weight: normal;
     }
-    
+
     .mailer .email-input-box {
         background: transparent;
         border: 3px solid #92BA01;
@@ -570,14 +574,14 @@
         background: #92BA01;
         color: white;
     }
-    
+
     .mailer .email-input-box img {
         height: 18px;
         width: auto;
         display: inline-block;
         padding: 8px 0;
     }
-    
+
     .mailer .email-input-box .email-input {
         height: 26px;
         width: calc(100% - 40px);
