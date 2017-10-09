@@ -1,10 +1,4 @@
-html {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
 body {
-    margin: 0;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
 }
@@ -13,16 +7,25 @@ a {
     text-decoration: none;
 }
 
-.wrapper {
-    margin: 0;
-    width: 100%;
-    max-width: none;
-    padding: 0;
-	overflow: hidden;
+.hidden {
+    display: none !important;
 }
 
-.hidden {
-    display: none;
+.centered-box-content-all {
+    width: 1170px;
+    max-width: none;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered-box-content-desktop {
+    width: 1170px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .show-mobile-only {
@@ -375,25 +378,61 @@ a:focus, button:focus, input:focus, textarea:focus {
     font-weight: 600;
 }
 
-.message-container {}
+.message-container {
+    background: #1E4369;
+    margin: 10px auto;
+    color: white;
+    padding: 25px;
+}
 
-.message-container .title {}
+.message-container .title {
+    font-size: 36px;
+    font-weight: bold;
+}
 
-.message-container .message {}
+.message-container .message {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 18px;
+    text-align: left;
+    overflow: hidden;
+    height: auto;
+    max-height: none;
 
-.message-container .message.show-less {}
+    max-width: 700px;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+    display: inline-block;
+}
 
-.message-container .message p {}
+.message-container .signature {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
 
-.message-container .show-more-btn {}
+.message-container .signature .signature-name {
+    width: auto;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0 0 10px 0;
+}
 
-.message-container .show-more-btn img {}
+.message-container .signature .signature-position {
+    width: 60%;
+    font-size: 14px;
+    margin: 0;
+}
 
-.message-container .signature .signature {}
+.message-container .izquiero-mask {
+    width: auto;
+    position: absolute;
+    pointer-events: none;
 
-.message-container .signature .signature-name {}
-
-.message-container .signature .signature-position {}
+    height: 350px;
+    left: calc(((100vw - 1170px) / 2) + (1170px - 470px));
+    transform: translate(0px, -60px);
+}
 
 .green-cards-container {}
 
