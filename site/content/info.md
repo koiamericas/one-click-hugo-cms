@@ -2,7 +2,7 @@
 type: Info
 page: /info.html
 title: A Message to Travelers
-date: 2017-10-09T18:00:00.000Z
+date: 2017-10-09T17:20:00.000Z
 image: /img/main_banner_img.jpg
 ---
 * * *
