@@ -199,7 +199,8 @@
 
 </div>
 
-<div class="mailer centered-box-content-all show-mobile-only">
+<!--
+<div class="mailer centered-box-content-all">
 
     <p class="title">
         Register to receive notifications from See Puerto Rico
@@ -218,21 +219,6 @@
     </div>
 
 </div>
-
-<!--
-{{ range .Data.Pages }}
-  {{if eq .RelPermalink "/index.html" }}
-    <div class="mw6 center ph3 pv4 index-info hide-on-mobile">
-        <div class="cms mw6">
-            <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
-            <div class="flex justify-between grey-3">
-                <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
-            </div>
-            {{ .Content }}
-        </div>
-    </div>
-  {{end}}
-{{ end }}
 -->
 
 {{ partial "footer" . }}
