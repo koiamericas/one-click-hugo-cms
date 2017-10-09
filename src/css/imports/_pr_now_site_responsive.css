@@ -312,6 +312,7 @@
     }
 
     .message-container {
+        margin: 10px auto;
         padding: 25px 10px;
     }
 
@@ -389,68 +390,26 @@
     }
 
     .green-cards-container {
-        background: transparent;
         margin: 10px auto;
-        color: white;
-        padding: 0;
     }
 
     .green-cards-container .title {
         width: 75vw;
-        display: block;
-        margin: 35px auto 20px auto;
-        text-align: center;
-        color: #4E4E4E;
         font-size: 26px;
-        font-weight: normal;
     }
 
-    .green-cards-container .green-card {
-        background: #92BA01;
+    .green-cards-container .gren-cards-wrapper {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    .green-cards-container .gren-cards-wrapper .green-card {
         width: 100%;
-        height: 320px;
         margin: 0 auto 10px auto;
-        padding: 20px 0;
-    }
-
-    .green-cards-container .green-card img {
-        width: 200px;
-        height: 100px;
-        display: block;
-        margin: 0 auto 20px auto;
-    }
-
-    .green-cards-container .green-card p {
-        width: 75%;
-        display: block;
-        margin: 0 auto;
-        text-align: center;
-    }
-
-    .green-cards-container .green-card p.card-title {
-        font-size: 22px;
-        font-weight: bold;
-    }
-
-    .green-cards-container .green-card p.card-text {
-        font-size: 18px;
-        font-weight: normal;
-    }
-
-    .green-cards-container .green-card a {
-        width: 50%;
-        height: 40px;
-        border: 3px solid white;
-        padding: 0 15px;
-        text-align: center;
-        line-height: 40px;
-        display: block;
-        margin: 15px auto 0;
-        font-weight: bold;
     }
 
     .status-pr-box {
-        background: #4D4D4D;
         height: 270px;
         margin: 20px auto;
         display: table;
@@ -468,13 +427,11 @@
         text-align: center;
         font-size: 16px;
         font-weight: bold;
-        padding: 0;
-        color: white;
+        float: none;
     }
 
     .status-pr-box .items-container img {
-        width: 235px;
-        height: 55px;
+        float: none;
         display: block;
         margin: 15px auto 0 auto;
     }
