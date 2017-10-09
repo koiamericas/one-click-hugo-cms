@@ -530,13 +530,49 @@ a:focus, button:focus, input:focus, textarea:focus {
     margin: 5px 25px 0 0;
 }
 
-.united-for-pr-box {}
+.united-for-pr-box {
+    height: 215px;
+    margin: 25px auto;
+    display: table;
+    background-image: url('/img/united-for-pr.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 
-.united-for-pr-box .items-container {}
+.united-for-pr-box .items-container {
+    display: table-cell;
+    vertical-align: middle;
+}
 
-.united-for-pr-box .items-container p {}
+.united-for-pr-box .items-container p {
+    width: 95%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 0;
+    color: white;
+}
 
-.united-for-pr-box .items-container a {}
+.united-for-pr-box .items-container a {
+    width: 320px;
+    height: 50px;
+    border: none;
+    background: #92BA01;
+    color: white;
+    padding: 0 10px;
+    text-align: center;
+    display: block;
+    margin: 15px auto 0;
+    font-weight: bold;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
 
 .mailer {}
 
