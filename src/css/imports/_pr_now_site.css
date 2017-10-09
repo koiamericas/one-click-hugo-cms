@@ -380,7 +380,7 @@ a:focus, button:focus, input:focus, textarea:focus {
 
 .message-container {
     background: #1E4369;
-    margin: 10px auto;
+    margin: 25px auto;
     color: white;
     padding: 25px;
 }
@@ -398,7 +398,6 @@ a:focus, button:focus, input:focus, textarea:focus {
     overflow: hidden;
     height: auto;
     max-height: none;
-
     max-width: 700px;
     -moz-column-count: 2;
     -webkit-column-count: 2;
@@ -428,33 +427,108 @@ a:focus, button:focus, input:focus, textarea:focus {
     width: auto;
     position: absolute;
     pointer-events: none;
-
     height: 350px;
     left: calc(((100vw - 1170px) / 2) + (1170px - 470px));
     transform: translate(0px, -60px);
 }
 
-.green-cards-container {}
+.green-cards-container {
+    background: transparent;
+    color: white;
+    padding: 0;
+    margin: 25px auto;
+}
 
-.green-cards-container .title {}
+.green-cards-container .title {
+    display: block;
+    margin: 35px auto 20px auto;
+    text-align: center;
+    color: #4E4E4E;
+    font-weight: normal;
+    width: 1170px;
+    font-size: 36px;
+}
 
-.green-cards-container .green-card {}
+.green-cards-container .gren-cards-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-direction: row;
+}
 
-.green-cards-container .green-card img {}
+.green-cards-container .gren-cards-wrapper .green-card {
+    background: #92BA01;
+    height: 320px;
+    padding: 20px 0;
+    width: 30%;
+    margin: 0;
+}
 
-.green-cards-container .green-card .card-title {}
+.green-cards-container .gren-cards-wrapper .green-card img {
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
 
-.green-cards-container .green-card .card-text {}
+.green-cards-container .gren-cards-wrapper .green-card p {
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
 
-.green-cards-container .green-card a {}
+.green-cards-container .gren-cards-wrapper .green-card p.card-title {
+    font-size: 22px;
+    font-weight: bold;
+}
 
-.status-pr-box {}
+.green-cards-container .gren-cards-wrapper .green-card p.card-text {
+    font-size: 18px;
+    font-weight: normal;
+}
 
-.status-pr-box .items-container {}
+.green-cards-container .gren-cards-wrapper .green-card a {
+    width: 50%;
+    height: 40px;
+    border: 3px solid white;
+    padding: 0 15px;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+    margin: 15px auto 0;
+    font-weight: bold;
+}
 
-.status-pr-box .items-container p {}
+.status-pr-box {
+    background: #4D4D4D;
+    margin: 25px auto;
+    display: table;
+    height: 120px;
+}
 
-.status-pr-box .items-container img {}
+.status-pr-box .items-container {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.status-pr-box .items-container p {
+    padding: 0;
+    color: white;
+    float: left;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0 0 0 25px;
+    width: auto;
+    text-align: left;
+}
+
+.status-pr-box .items-container img {
+    width: 235px;
+    height: 55px;
+    float: right;
+    margin: 5px 25px 0 0;
+}
 
 .united-for-pr-box {}
 
