@@ -1,11 +1,35 @@
-@media (max-width: 1135px) {
+@media (max-width: 1200px) {
+
+    .centered-box-content-all {
+        width: 90vw;
+        max-width: 1170px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .centered-box-content-desktop {
+        width: auto;
+        max-width: none;
+        margin: 0;
+    }
+
+    .centered-box-content-mobile {
+        width: 90vw;
+        max-width: 1170px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     .show-mobile-only {
         display: block;
     }
 
-    .index-info{
-        display: none;
+    .hide-on-mobile {
+        display: none !important;
     }
 
     .burger-nav {
@@ -163,19 +187,6 @@
         width: 130px;
     }
 
-    .hide-on-mobile, .new-header .header-row .header-menu,
-    .new-header .header-row .header-buttons-container .header-buttons-container-row.header-buttons-container-row-top,
-    .new-header .header-row .header-buttons-container .header-buttons-container-row .phone-box,
-    .new-header .header-row .header-buttons-container .header-buttons-container-row .phone-span,
-    .new-header .header-row .header-buttons-container .header-buttons-container-row .icon-container,
-    .new-header .header-row .header-buttons-container .header-buttons-container-row .header-icon {
-        display: none !important;
-        opacity: 0 !important;
-        height: 0 !important;
-        width: 0 !important;
-        overflow: hidden !important;
-    }
-
     .new-header .header-row .header-buttons-container .header-buttons-container-row .live-chat-button {
         display: inline-block;
         color: #FFFFFF;
@@ -231,15 +242,6 @@
 
     .new-footer b {
         font-weight: normal;
-    }
-
-    .centered-box-content-mobile {
-        width: 90vw;
-        max-width: 1170px;
-        height: auto;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .main-banner {
@@ -310,25 +312,19 @@
     }
 
     .message-container {
-        background: #1E4369;
-        margin: 10px auto;
-        color: white;
         padding: 25px 10px;
     }
 
     .message-container .title {
         font-size: 24px;
-        font-weight: bold;
     }
 
     .message-container .message {
-        font-size: 14px;
-        font-weight: normal;
-        line-height: 18px;
-        text-align: left;
-        overflow: hidden;
-        height: auto;
-        max-height: none;
+        max-width: none;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+        display: block;
     }
 
     .message-container .message p {
@@ -386,26 +382,10 @@
         margin: 30px 0 0 0;
     }
 
-    .message-container .signature .signature-name {
-        width: auto;
-        font-weight: bold;
-        font-size: 18px;
-        margin: 0 0 10px 0;
-    }
-
-    .message-container .signature .signature-position {
-        width: 60%;
-        font-size: 14px;
-        margin: 0;
-    }
-
     .message-container .izquiero-mask {
-        width: auto;
         height: 200px;
-        position: absolute;
-        right: calc(5vw);
-        transform: translate(0, -175px);
-        pointer-events: none;
+        left: calc(95vw - 263px);
+        transform: translate(0px, -175px);
     }
 
     .green-cards-container {

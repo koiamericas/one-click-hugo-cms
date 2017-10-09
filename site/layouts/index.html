@@ -32,7 +32,7 @@
 
 </div>
 
-<div class="info-bar centered-box-content-mobile show-mobile-only">
+<div class="info-bar centered-box-content-all show-mobile-only">
 
     <div class="dark-content hide-on-mobile">
         This just in
@@ -58,7 +58,7 @@
 
 </div>
 
-<div class="message-container centered-box-content-mobile show-mobile-only">
+<div class="message-container centered-box-content-all ">
 
     <p class="title">
         Message from the Executive Director
@@ -71,12 +71,12 @@
         </p>
 
         <p>
-                Recent advancements on major tourism infrastructure, like our main airport fully operational with back to normal schedules and operational cruise ports and hotels, show a steady pace on our rebuilding path. Assessment continues as we have been in constant communication with our tourism partners across the Island. We are glad to report that the preparedness measures put into place have allowed for what we are expecting to be a full recovery for our tourism industry. We look forward to getting back on our feet in the hopes of welcoming visitors to the Island in the weeks ahead. We are confident that with the continuous support of our industry partners, we can build a stronger Puerto Rico.”
+            Recent advancements on major tourism infrastructure, like our main airport fully operational with back to normal schedules and operational cruise ports and hotels, show a steady pace on our rebuilding path. Assessment continues as we have been in constant communication with our tourism partners across the Island. We are glad to report that the preparedness measures put into place have allowed for what we are expecting to be a full recovery for our tourism industry. We look forward to getting back on our feet in the hopes of welcoming visitors to the Island in the weeks ahead. We are confident that with the continuous support of our industry partners, we can build a stronger Puerto Rico.”
         </p>
 
     </div>
 
-    <div id="show-more-btn" class="show-more-btn">
+    <div id="show-more-btn" class="show-more-btn show-mobile-only">
 
         <div class="text">
             Keep reading
@@ -102,7 +102,7 @@
 
 </div>
 
-<div class="green-cards-container centered-box-content-mobile show-mobile-only">
+<div class="green-cards-container centered-box-content-all show-mobile-only">
 
     <div class="title">
         Check out the latest on transportation and lodging.
@@ -164,7 +164,7 @@
 
 </div>
 
-<div class="status-pr-box centered-box-content-mobile show-mobile-only">
+<div class="status-pr-box centered-box-content-all show-mobile-only">
 
     <div class="items-container">
 
@@ -179,7 +179,7 @@
 
 </div>
 
-<div class="united-for-pr-box centered-box-content-mobile show-mobile-only">
+<div class="united-for-pr-box centered-box-content-all show-mobile-only">
 
     <div class="items-container">
 
@@ -195,7 +195,7 @@
 
 </div>
 
-<!-- <div class="mailer centered-box-content-mobile show-mobile-only">
+<div class="mailer centered-box-content-all show-mobile-only">
 
     <p class="title">
         Register to receive notifications from See Puerto Rico
@@ -213,12 +213,12 @@
         REGISTER
     </div>
 
-</div> -->
+</div>
 
-
+<!--
 {{ range .Data.Pages }}
   {{if eq .RelPermalink "/index.html" }}
-    <div class="mw6 center ph3 pv4 index-info">
+    <div class="mw6 center ph3 pv4 index-info hide-on-mobile">
         <div class="cms mw6">
             <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
             <div class="flex justify-between grey-3">
@@ -229,6 +229,6 @@
     </div>
   {{end}}
 {{ end }}
-
+-->
 
 {{ partial "footer" . }}
