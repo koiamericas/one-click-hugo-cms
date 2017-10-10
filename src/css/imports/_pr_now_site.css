@@ -686,3 +686,7 @@ a:focus, button:focus, input:focus, textarea:focus {
     margin: 0 0 0 15px;
     vertical-align: middle;
 }
+
+.single-head-title {
+    text-transform: capitalize !important;
+}

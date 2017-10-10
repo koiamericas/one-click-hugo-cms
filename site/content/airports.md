@@ -7,10 +7,6 @@ date: 2017-10-10T08:00:00.000Z
 image: /img/ariports_banner.png
 ---
 
-### **Airport Updates:** Luis Muñoz Marín International Airport (SJU)
-\
-
-
 The airport is fully operational with scheduled domestic and international flights.
 
 *Other Puerto Rico Airports*

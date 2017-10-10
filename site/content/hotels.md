@@ -7,10 +7,6 @@ date: 2017-10-10T08:00:00.000Z
 image: /img/slider_hotel.png
 ---
 
-### **Lodging Updates:**
-\
-
-
 The following hotels are only able to take new reservations for stays starting after the date shown.
 
 *	AC Hotel San Juan Condado (22-Oct-17)
