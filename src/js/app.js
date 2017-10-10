@@ -16,10 +16,10 @@ const userFeed = new Instafeed({
   // clientId: "02b47e1b98ce4f04adc271ffbd26611d",
   accessToken: "1720585271.1677ed0.e125bc0032d2415e8aa8a4a6a330ba53",
   resolution: "standard_resolution",
-  template: '<div><div class="instagram-card" ><img src="{{image}}" /> <div class="instagram-card-container"><p class="instagram-caption">{{caption}}</p> <p class="instagram-image-text-container"> <img src="{{model.user.profile_picture}}" class="instagram-profile-picture"/> <span class="instagram-username"> {{model.user.username}} {{model.created_time}}</span></p></div></div> </div>',
+  template: '<div><div class="instagram-card"><a href="{{link}}" target="_blank"><img src="{{image}}"/></a><div class="instagram-card-container"><p class="instagram-caption">{{caption}}</p><p class="instagram-image-text-container"><img src="{{model.user.profile_picture}}" class="instagram-profile-picture"/><a href="{{link}}" target="_blank"><span class="instagram-username">{{model.user.username}} • {{model.created_time}}</span></a></p></div></div></div>',
   sortBy: "most-recent",
-  limit: 32,
-  links: false,
+  limit: 12,
+  links: true,
   orientation: "portrait",
   height: 200,
   filter: function(image) {
@@ -58,11 +58,18 @@ window.onload = function() {
     container: "#instafeed",
     items: 1,
     slideBy: "page",
+    controlsText: ['', ''],
+    arrowKeys: true,
+    speed: 500,
     autoplay: true,
+    autoplayTimeout: 7500,
     gutter: 10,
     responsive: {
-      750: {
+      860: {
         items: 3,
+      },
+      650: {
+        items: 2,
       }
     }
   });
