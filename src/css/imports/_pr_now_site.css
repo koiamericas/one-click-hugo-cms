@@ -77,6 +77,8 @@ a {
     height: 133px;
     padding: 27px 0;
     text-align: center;
+    position: relative;
+    z-index: 10;
 }
 
 .new-header .header-row .header-logo img {
