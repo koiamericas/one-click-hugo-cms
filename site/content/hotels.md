@@ -1,43 +1,11 @@
 ---
-type: Info
-page: /airports.html
-title: Luis Muñoz Marín International Airpor(SJU)
-date: 2017-10-09T17:20:00.000Z
-image: /img/main_banner_img.jpg
+type: internal
+page: /hotels.html
+title: Hotels
+subtitle: Explore available accommodations.
+date: 2017-10-10T08:00:00.000Z
+image: /img/slider_hotel.png
 ---
-* * *
-
-**Airport Updates:**
-
-*Luis Muñoz Marín International Airport (SJU)*
-
-The airport is fully operational with scheduled domestic and international flights.
-
-*Other Puerto Rico Airports*
-
-The following airports are operational and offering limited service:
-
-*   Rafael Hernández Airport (Aguadilla)
-*   Mercedita Airport (Ponce)
-*   José Aponte de la Torre Airport (Ceiba)
-*   Fernando Luis Ribas Dominicci Airport (Isla Grande)
-*   Antonio Rivera Rodriguez Airport (Vieques)
-
-*Please note that all this information is subject to change. We encourage travelers to contact airlines directly, as they have the most up-to-date information specific to each traveler’s circumstances.*
-
-**Port Updates:**
-
-San Juan Harbor is open and expected to resume homeporting operations by Saturday, October 7, with the departure of Royal Caribbean Cruise Line’s Adventure of the Seas. Beyond San Juan, the following ports are open with restrictions (daylight transit only):
-
-*   Guayanilla
-*   Tallaboa
-*   Salinas
-*   Fajardo
-*   Culebra
-*   Vieques
-*   Guayama
-
-**Lodging Updates:**
 
 The following hotels are only able to take new reservations for stays starting after the date shown.
 
@@ -107,28 +75,13 @@ If you have a trip scheduled for this upcoming week and through October 15, we r
 **This is some contact information that may prove useful:**
 
 *   Hilton Hotels | [1-800-445-8667][1] | <a target="_blank" style="color: red !important;" href="http://www3.hilton.com/">hilton.com </a>
-
 *   Marriott Hotels | [1-800-721-7033][2] | <a target="_blank" style="color: red !important;" href="https://www.marriott.com">marriott.com</a>
-
 *   Hyatt Hotels | [1-800-323-7249][3] | <a target="_blank" style="color: red !important;" href="https://www.hyatt.com/">hyatt.com</a>
-
 *   Wyndham Hotels | [1-800-466-1589][4] | <a target="_blank" style="color: red !important;" href="https://www.wyndhamhotels.com/">wyndhamhotels.com </a>
 
 **Puerto Rico Tourism Company Travelers Support Center:**
 
 We are online and standing by to support you. If you have questions about your upcoming travel plans, please call: [787-522-5960][5] or talk to us via our <a target="_blank" style="color: red !important;" href="http://messenger.providesupport.com/messenger/eddinc.html">Live Chat</a>.
-
-**Aid and Support:**
-
-Many of you have inquired about ways to help us get back on our feet. Your support means a lot to us and is greatly appreciated. Please visit <a target="_blank" style="color: red !important;" href="http://unitedforpuertorico.com"> unitedforpuertorico.com</a> for information on how you can make a difference.
-
-United for Puerto Rico is an initiative brought forth by the First Lady of Puerto Rico, Beatriz Rosselló, in collaboration with the private sector, with the purpose of providing aid and support to those affected in Puerto Rico by the passage of Hurricane Irma and Hurricane María.
-
-<div style="width: 100%;height: 60px;"></div>
-
-*We are confident that Puerto Rico will quickly recover. We came together not long ago to help our Caribbean neighbors post-Irma and it’s this generosity, the hospitality of our people, and the beauty of our Island that we know will continue to entice millions of travelers like you to visit us.*
-
-*Please continue to check back with us here and thank you for your continued interest in visiting us. We’re looking forward to welcoming you to our Island once again.*
 
  [1]: tel:+18004458667
  [2]: tel:+18007217033

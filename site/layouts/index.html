@@ -32,7 +32,7 @@
 
 </div>
 
-<div class="info-bar centered-box-content-mobile show-mobile-only">
+<div class="info-bar centered-box-content-all show-mobile-only">
 
     <div class="dark-content hide-on-mobile">
         This just in
@@ -58,7 +58,7 @@
 
 </div>
 
-<div class="message-container centered-box-content-mobile show-mobile-only">
+<div class="message-container centered-box-content-all ">
 
     <p class="title">
         Message from the Executive Director
@@ -71,12 +71,12 @@
         </p>
 
         <p>
-                Recent advancements on major tourism infrastructure, like our main airport fully operational with back to normal schedules and operational cruise ports and hotels, show a steady pace on our rebuilding path. Assessment continues as we have been in constant communication with our tourism partners across the Island. We are glad to report that the preparedness measures put into place have allowed for what we are expecting to be a full recovery for our tourism industry. We look forward to getting back on our feet in the hopes of welcoming visitors to the Island in the weeks ahead. We are confident that with the continuous support of our industry partners, we can build a stronger Puerto Rico.”
+            Recent advancements on major tourism infrastructure, like our main airport fully operational with back to normal schedules and operational cruise ports and hotels, show a steady pace on our rebuilding path. Assessment continues as we have been in constant communication with our tourism partners across the Island. We are glad to report that the preparedness measures put into place have allowed for what we are expecting to be a full recovery for our tourism industry. We look forward to getting back on our feet in the hopes of welcoming visitors to the Island in the weeks ahead. We are confident that with the continuous support of our industry partners, we can build a stronger Puerto Rico.”
         </p>
 
     </div>
 
-    <div id="show-more-btn" class="show-more-btn">
+    <div id="show-more-btn" class="show-more-btn show-mobile-only">
 
         <div class="text">
             Keep reading
@@ -102,69 +102,73 @@
 
 </div>
 
-<div class="green-cards-container centered-box-content-mobile show-mobile-only">
+<div class="green-cards-container centered-box-content-all">
 
     <div class="title">
         Check out the latest on transportation and lodging.
     </div>
 
-    <div class="green-card">
+    <div class="gren-cards-wrapper">
 
-        <img src="/img/icons/plane.svg" />
+        <div class="green-card">
 
-        <p class="card-title">
-            Airports
-        </p>
+            <img src="/img/icons/plane.svg" />
 
-        <p class="card-text">
-            See which locations are flying.
-        </p>
+            <p class="card-title">
+                Airports
+            </p>
 
-        <a href="/info">
-            SEE MORE
-        </a>
+            <p class="card-text">
+                See which locations are flying.
+            </p>
 
-    </div>
+            <a href="/airports">
+                SEE MORE
+            </a>
 
-    <div class="green-card">
+        </div>
 
-        <img src="/img/icons/hotel.svg" />
+        <div class="green-card">
 
-        <p class="card-title">
-            Hotels
-        </p>
+            <img src="/img/icons/hotel.svg" />
 
-        <p class="card-text">
-            Explore available accommodations.
-        </p>
+            <p class="card-title">
+                Hotels
+            </p>
 
-        <a href="/info">
-            SEE MORE
-        </a>
+            <p class="card-text">
+                Explore available accommodations.
+            </p>
 
-    </div>
+            <a href="/hotels">
+                SEE MORE
+            </a>
 
-    <div class="green-card">
+        </div>
 
-        <img src="/img/icons/boat.svg" />
+        <div class="green-card">
 
-        <p class="card-title">
-            Ports
-        </p>
+            <img src="/img/icons/boat.svg" />
 
-        <p class="card-text">
-            Check up on cruise ships and ferries.
-        </p>
+            <p class="card-title">
+                Ports
+            </p>
 
-        <a href="/info">
-            SEE MORE
-        </a>
+            <p class="card-text">
+                Check up on cruise ships and ferries.
+            </p>
+
+            <a href="/ports">
+                SEE MORE
+            </a>
+
+        </div>
 
     </div>
 
 </div>
 
-<div class="status-pr-box centered-box-content-mobile show-mobile-only">
+<div class="status-pr-box centered-box-content-all">
 
     <div class="items-container">
 
@@ -179,7 +183,7 @@
 
 </div>
 
-<div class="united-for-pr-box centered-box-content-mobile show-mobile-only">
+<div class="united-for-pr-box centered-box-content-all">
 
     <div class="items-container">
 
@@ -195,7 +199,7 @@
 
 </div>
 
-<!-- <div class="mailer centered-box-content-mobile show-mobile-only">
+<div class="mailer centered-box-content-all hidden">
 
     <p class="title">
         Register to receive notifications from See Puerto Rico
@@ -213,22 +217,6 @@
         REGISTER
     </div>
 
-</div> -->
-
-
-{{ range .Data.Pages }}
-  {{if eq .RelPermalink "/index.html" }}
-    <div class="mw6 center ph3 pv4 index-info">
-        <div class="cms mw6">
-            <h2 class="f3 lh-title b mb3">{{.Title}}</h2>
-            <div class="flex justify-between grey-3">
-                <p>Last Update: {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</p>
-            </div>
-            {{ .Content }}
-        </div>
-    </div>
-  {{end}}
-{{ end }}
-
+</div>
 
 {{ partial "footer" . }}
