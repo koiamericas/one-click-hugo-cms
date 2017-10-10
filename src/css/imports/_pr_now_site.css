@@ -312,6 +312,10 @@ a:focus, button:focus, input:focus, textarea:focus {
     background-clip: padding-box;
 }
 
+.main-banner p.banner-mobile-copy {
+    display: none;
+}
+
 .main-banner a {
     text-align: center;
     width: auto;

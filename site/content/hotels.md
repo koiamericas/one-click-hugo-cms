@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-09T17:20:00.000Z
+date: 2017-10-09T22:30:00.000Z
 image: /img/slider_hotel.png
 ---
 
