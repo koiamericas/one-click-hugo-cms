@@ -322,7 +322,6 @@
 
     .message-container .message {
         max-width: none;
-        -moz-column-count: 1;
         -webkit-column-count: 1;
         column-count: 1;
         display: block;
@@ -372,8 +371,6 @@
 
     .message-container .show-more-btn img.rotate {
         -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
         -ms-transform: rotate(180deg);
         transform: rotate(180deg);
     }
@@ -386,7 +383,9 @@
     .message-container .izquiero-mask {
         height: 200px;
         left: calc(95vw - 263px);
-        transform: translate(0px, -175px);
+        -webkit-transform: translate(0px, -175px);
+            -ms-transform: translate(0px, -175px);
+                transform: translate(0px, -175px);
     }
 
     .green-cards-container {
