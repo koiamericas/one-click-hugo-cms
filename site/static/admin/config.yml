@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/hotels.md"
-        label: "Ports Page"
+        label: "Hotels Page"
         name: "hotels"
         fields: # The fields each document in this collection have
           - {label: type, name: type, widget: hidden, default: internal}
@@ -42,8 +42,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/airports.md"
-        label: "Ports Page"
-        name: "ports"
+        label: "Airports Page"
+        name: "airports"
         fields: # The fields each document in this collection have
           - {label: type, name: type, widget: hidden, default: internal}
           - {label: page, name: page, widget: hidden, default: "/airports.html"}
