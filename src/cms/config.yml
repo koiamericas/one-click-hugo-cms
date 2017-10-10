@@ -26,8 +26,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "ports"
         fields: # The fields each document in this collection have
           - {label: type, name: type, widget: hidden, default: internal}
-          - {label: title, name: title, widget: string}
           - {label: page, name: page, widget: hidden, default: "/ports.html"}
+          - {label: title, name: title, widget: string}
           - {label: subtitle, name: subtitle, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Image, name: image, widget: image, required: true}
