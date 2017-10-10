@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-09T22:30:00.000Z
+date: 2017-10-10T08:00:00.000Z
 image: /img/slider_hotel.png
 ---
 
@@ -86,18 +86,6 @@ If you have a trip scheduled for this upcoming week and through October 15, we r
 **Puerto Rico Tourism Company Travelers Support Center:**
 
 We are online and standing by to support you. If you have questions about your upcoming travel plans, please call: [787-522-5960][5] or talk to us via our <a target="_blank" style="color: red !important;" href="http://messenger.providesupport.com/messenger/eddinc.html">Live Chat</a>.
-
-**Aid and Support:**
-
-Many of you have inquired about ways to help us get back on our feet. Your support means a lot to us and is greatly appreciated. Please visit <a target="_blank" style="color: red !important;" href="http://unitedforpuertorico.com"> unitedforpuertorico.com</a> for information on how you can make a difference.
-
-United for Puerto Rico is an initiative brought forth by the First Lady of Puerto Rico, Beatriz Rosselló, in collaboration with the private sector, with the purpose of providing aid and support to those affected in Puerto Rico by the passage of Hurricane Irma and Hurricane María.
-
-<div style="width: 100%;height: 60px;"></div>
-
-*We are confident that Puerto Rico will quickly recover. We came together not long ago to help our Caribbean neighbors post-Irma and it’s this generosity, the hospitality of our people, and the beauty of our Island that we know will continue to entice millions of travelers like you to visit us.*
-
-*Please continue to check back with us here and thank you for your continued interest in visiting us. We’re looking forward to welcoming you to our Island once again.*
 
  [1]: tel:+18004458667
  [2]: tel:+18007217033
