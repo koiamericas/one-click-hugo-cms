@@ -12,7 +12,8 @@ image: /img/ariports_banner.png
 
 The airport is fully operational with scheduled domestic and international flights.
 
-*Other Puerto Rico Airports*
+### *Other Puerto Rico Airports*
+\
 
 The following airports are operational and offering limited service:
 
