@@ -3,6 +3,16 @@ body {
     overflow-x: hidden;
 }
 
+body::selection,
+body::-moz-selection,
+body::-o-selection,
+body::-ms-selection,
+body::-webkit-selection {
+    background: #92BA01;
+    background-color: #91BA01;
+    color: white;
+}
+
 a {
     text-decoration: none;
 }
@@ -626,21 +636,13 @@ a:focus, button:focus, input:focus, textarea:focus {
     vertical-align: middle;
 }
 
-.mailer .email-input-box::-moz-selection,
-.mailer .email-input-box::-moz-selection,
-.mailer .email-input-box::-o-selection,
-.mailer .email-input-box::-ms-selection,
-.mailer .email-input-box::-webkit-selection {
-    background: #92BA01;
-    color: white;
-}
-
 .mailer .email-input-box::selection,
 .mailer .email-input-box::-moz-selection,
 .mailer .email-input-box::-o-selection,
 .mailer .email-input-box::-ms-selection,
 .mailer .email-input-box::-webkit-selection {
     background: #92BA01;
+    background-color: #91BA01;
     color: white;
 }
 
@@ -689,4 +691,29 @@ a:focus, button:focus, input:focus, textarea:focus {
 
 .single-head-title {
     text-transform: capitalize !important;
+}
+
+.internal-content {
+
+}
+
+.internal-content .single-content {
+    font-weight: normal;
+}
+
+.internal-content .single-content .update-time-entry {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.internal-content .single-content p {
+    font-size: 22px;
+}
+
+.internal-content .single-content ul {
+    
+}
+
+.internal-content .single-content li {
+    font-size: 22px;
 }

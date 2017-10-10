@@ -1,5 +1,7 @@
 ::selection {
-  background-color: var(--highlight);
+  background: #92BA01;
+  background-color: #91BA01;
+  color: white;
 }
 
 /* Used in the navbar */

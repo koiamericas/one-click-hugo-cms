@@ -13,10 +13,10 @@
     </h6>
   </div>
 </div>
-<div class="mw7 center ph3 pv4">
-  <div class="mw7 cms single-content ">
+<div class="mw7 center ph3 pv4 internal-content">
+  <div class="mw7 cms single-content">
     <div class="flex justify-between date-info">
-      <h3>The latest updates as of: <span>{{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</span></h3>
+      <h4 class="update-time-entry">The latest updates as of {{ .Date.Format "Mon, Jan 2, 2006 15:04" }} EDT</h4>
     </div>
 
     {{ .Content }}

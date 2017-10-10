@@ -79,10 +79,6 @@ If you have a trip scheduled for this upcoming week and through October 15, we r
 *   Hyatt Hotels | [1-800-323-7249][3] | <a target="_blank" style="color: red !important;" href="https://www.hyatt.com/">hyatt.com</a>
 *   Wyndham Hotels | [1-800-466-1589][4] | <a target="_blank" style="color: red !important;" href="https://www.wyndhamhotels.com/">wyndhamhotels.com </a>
 
-**Puerto Rico Tourism Company Travelers Support Center:**
-
-We are online and standing by to support you. If you have questions about your upcoming travel plans, please call: [787-522-5960][5] or talk to us via our <a target="_blank" style="color: red !important;" href="http://messenger.providesupport.com/messenger/eddinc.html">Live Chat</a>.
-
  [1]: tel:+18004458667
  [2]: tel:+18007217033
  [3]: tel:+18003237249
