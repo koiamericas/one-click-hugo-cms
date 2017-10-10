@@ -20,9 +20,8 @@ Recent advancements on major tourism infrastructure, like our main airport fully
 
 * * *
 
-**Airport Updates:**
+### **Airport Updates:** Luis Muñoz Marín International Airport (SJU)
 
-*Luis Muñoz Marín International Airport (SJU)*
 
 The airport is fully operational with scheduled domestic and international flights.
 
@@ -52,7 +51,7 @@ San Juan Harbor is open and expected to resume homeporting operations by Saturda
 
 **Lodging Updates:**
 
-The following hotels are only able to take new reservations for stays starting after the date shown. 
+The following hotels are only able to take new reservations for stays starting after the date shown.
 
 *	AC Hotel San Juan Condado (22-Oct-17)
 *	Aquaris Club Boquerón (TBD)
