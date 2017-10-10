@@ -1,0 +1,41 @@
+.instagram-container {
+    max-width: 1000px;
+    margin: 0 auto ;
+}
+
+.instagram-card {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    transition: 0.3s;
+    margin: 0 10px;
+}
+
+.instagram-card img {
+    border-radius: 0;
+}
+
+.instagram-card-container {
+    margin: 5px 15px;
+}
+
+.instagram-profile-picture {
+    border-radius: 50% !important;
+    width:50px;
+}
+
+.instagram-caption {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 110px;
+    font-size: 15px;
+}
+
+.instagram-username {
+    font-size: 13px;
+    margin-left: 10px
+}
+
+.instagram-image-text {
+    display: flex;
+    align-items: center;
+}

@@ -1,10 +1,69 @@
-// JS Goes here - ES6 supported
+import Instafeed from "instafeed.js";
+
 if (window.netlifyIdentity) {
-  window.netlifyIdentity.on("init", user => {
+  window.netlifyIdentity.on("init", (user) => {
     if (!user) {
       window.netlifyIdentity.on("login", () => {
         document.location.href = "/admin/";
       });
+    }
+  });
+}
+
+const userFeed = new Instafeed({
+  get: "user",
+  userId: "1720585271",
+  // clientId: "02b47e1b98ce4f04adc271ffbd26611d",
+  accessToken: "1720585271.1677ed0.e125bc0032d2415e8aa8a4a6a330ba53",
+  resolution: "standard_resolution",
+  template: '<div><div class="instagram-card" ><img src="{{image}}" /> <div class="instagram-card-container"><p class="instagram-caption">{{caption}}</p> <p class="instagram-image-text-container"> <img src="{{model.user.profile_picture}}" class="instagram-profile-picture"/> <span class="instagram-username"> {{model.user.username}} {{model.created_time}}</span></p></div></div> </div>',
+  sortBy: "most-recent",
+  limit: 32,
+  links: false,
+  orientation: "portrait",
+  height: 200,
+  filter: function(image) {
+
+    var date = new Date(image.created_time * 1000);
+    var m = date.getMonth();
+    var d = date.getDate();
+    var y = date.getFullYear();
+
+    var month_names = new Array ();
+    month_names[month_names.length] = "Jan";
+    month_names[month_names.length] = "Feb";
+    month_names[month_names.length] = "Mar";
+    month_names[month_names.length] = "Apr";
+    month_names[month_names.length] = "May";
+    month_names[month_names.length] = "Jun";
+    month_names[month_names.length] = "Jul";
+    month_names[month_names.length] = "Aug";
+    month_names[month_names.length] = "Sep";
+    month_names[month_names.length] = "Oct";
+    month_names[month_names.length] = "Nov";
+    month_names[month_names.length] = "Dec";
+
+    var thetime = month_names[m] + " " + d + " " + y;
+
+    image.created_time = thetime;
+
+    return true;
+  }
+});
+
+userFeed.run();
+
+window.onload = function() {
+  var slider = tns({
+    container: "#instafeed",
+    items: 1,
+    slideBy: "page",
+    autoplay: true,
+    gutter: 10,
+    responsive: {
+      750: {
+        items: 3,
+      }
     }
   });
 }
