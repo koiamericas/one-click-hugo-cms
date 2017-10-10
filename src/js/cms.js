@@ -21,4 +21,6 @@ CMS.registerPreviewStyle("/css/main.css");
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("ports", InternalPreview);
+CMS.registerPreviewTemplate("airports", InternalPreview);
+CMS.registerPreviewTemplate("hotels", InternalPreview);
 CMS.registerWidget("color", ColorControl);

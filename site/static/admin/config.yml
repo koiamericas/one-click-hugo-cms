@@ -30,6 +30,28 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/hotels.md"
+        label: "Ports Page"
+        name: "hotels"
+        fields: # The fields each document in this collection have
+          - {label: type, name: type, widget: hidden, default: internal}
+          - {label: page, name: page, widget: hidden, default: "/hotels.html"}
+          - {label: title, name: title, widget: string}
+          - {label: subtitle, name: subtitle, widget: string}
+          - {label: Publish Date, name: date, widget: datetime}
+          - {label: Image, name: image, widget: image, required: true}
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/airports.md"
+        label: "Ports Page"
+        name: "ports"
+        fields: # The fields each document in this collection have
+          - {label: type, name: type, widget: hidden, default: internal}
+          - {label: page, name: page, widget: hidden, default: "/airports.html"}
+          - {label: title, name: title, widget: string}
+          - {label: subtitle, name: subtitle, widget: string}
+          - {label: Publish Date, name: date, widget: datetime}
+          - {label: Image, name: image, widget: image, required: true}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/products.md"
         label: "Products Page"
         name: "products"
