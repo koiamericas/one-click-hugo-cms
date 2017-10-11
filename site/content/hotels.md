@@ -25,7 +25,7 @@ The following hotels are open and accepting reservations now:
 * Parador Guánica 1929
 * Parador Villa Parguera
 
-The following hotels are only able to take new reservations for stays starting after the date shown:
+The following hotels are open and able to take reservations for stays starting after the date shown:
 
 * AC Hotel San Juan Condado (22-Oct-17)
 * At Wind Chimes Boutique Hotel (22-Oct-17)
@@ -53,7 +53,6 @@ The following hotels are only able to take new reservations for stays starting a
 * The Wave Hotel (22-Oct-17)
 * Verdanza Hotel (15-Oct-17)
 * Villa Montaña Beach Resort (15-Dec-17)
-
 
 The following hotels are temporarily closed:
 
