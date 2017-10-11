@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 10/11/2017 2:35 PM
+date: 2017-10-11T14:35:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -13,7 +13,7 @@ The following hotels are open and accepting reservations now:
 * Cofresí Beach Hotel
 * Combate Beach Hotel
 * Condado Vanderbilt Hotel
-* Courtyard by Marriott Isla Verde Beach 
+* Courtyard by Marriott Isla Verde Beach
 * DoubleTree by Hilton Hotel San Juan
 * Estancia La Jamaica
 * Holiday Inn Mayagüez
@@ -54,7 +54,8 @@ The following hotels are only able to take new reservations for stays starting a
 * Verdanza Hotel (15-Oct-17)
 * Villa Montaña Beach Resort (15-Dec-17)
 
-The following hotels are temporarily closed:
+
+The following hotels are temporarily closed:
 
 * Aquaris Club Boquerón
 * Caribe Hilton
@@ -64,10 +65,10 @@ The following hotels are only able to take new reservations for stays starting a
 * Condado Plaza Hilton
 * Coral by the Sea Hotel
 * Da’ House Hotel
-* Dorado Beach, a Ritz-Carlton Reserve 
+* Dorado Beach, a Ritz-Carlton Reserve
 * El Canario by the Lagoon
 * El Conquistador, a Waldorf Astoria Resort
-* El San Juan Hotel, Curio Collection 
+* El San Juan Hotel, Curio Collection
 * Gran Melia
 * Hix Island House
 * Hotel Decanter
