@@ -407,34 +407,27 @@ a:focus, button:focus, input:focus, textarea:focus {
 }
 
 .message-container .message {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: normal;
-    line-height: 18px;
+    line-height: 20px;
     text-align: left;
     overflow: hidden;
     height: auto;
     max-height: none;
-    max-width: 700px;
-    -webkit-column-count: 2;
-    column-count: 2;
+    width: 100%;
+    -webkit-column-count: 3;
+    column-count: 3;
     display: inline-block;
 }
 
-.message-container .signature {
-    display: inline-block;
-    margin: 0 0 0 15px;
-}
-
-.message-container .signature .signature-name {
-    width: auto;
+.message-container .message .signature-name {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 22px;
     margin: 0 0 10px 0;
 }
 
-.message-container .signature .signature-position {
-    width: 60%;
-    font-size: 14px;
+.message-container .message .signature-position {
+    font-size: 18px;
     margin: 0;
 }
 

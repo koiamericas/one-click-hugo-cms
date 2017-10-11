@@ -333,7 +333,7 @@
     }
 
     .message-container .message.show-less p {
-        max-height: 1px;
+        max-height: 0px;
         margin: 0;
     }
 
