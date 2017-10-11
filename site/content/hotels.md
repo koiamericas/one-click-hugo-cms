@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-10T20:42:00-04:00
+date: 2017-10-11T00:42:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are only able to take new reservations for stays starting after the date shown.
@@ -17,7 +17,7 @@ The following hotels are only able to take new reservations for stays starting a
 * Cielo Mar Hotel (02-Oct-17)
 * Cofresí Beach Hotel (02-Oct-17)
 * Combate Beach Hotel (02-Oct-17)
-* Copa Marina Resort & Spa (18-Oct-17)
+* Copamarina Resort & Spa (18-Oct-17)
 * Comfort Inn San Juan (22-Oct-17)
 * Condado Vanderbilt Hotel (02-Oct-17)
 * Coral by the Sea Hotel (TBD)
