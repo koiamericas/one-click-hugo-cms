@@ -106,12 +106,16 @@
     margin: 0 10px;
     height: 560px;
     padding: 0;
+    text-align: center;
 }
 
 .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card a img {
     border-radius: 0;
-    height: 320px;
-    width: 100%;
+    width: auto;
+    height: auto;
+    max-height: 320px;
+    margin: 0 auto;
+    display: inline-block;
 }
 
 .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container {
@@ -119,13 +123,16 @@
 }
 
 .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container .instagram-caption {
+    text-align: left;
     overflow: hidden;
     text-overflow: ellipsis;
     max-height: 110px;
     font-size: 15px;
 }
 
-.instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container .instagram-image-text-container {}
+.instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container .instagram-image-text-container {
+    text-align: left;
+}
 
 .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container .instagram-image-text-container .instagram-profile-picture {
     border-radius: 50% !important;
@@ -264,7 +271,7 @@
     }
     
     .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card a img {
-        height: 300px;
+        max-height: 300px;
     }
     
     .instagram-container .tns-outer .tns-inner .tns-slider .tns-item .instagram-card .instagram-card-container {}
