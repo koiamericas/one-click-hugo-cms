@@ -162,47 +162,6 @@
     line-height: 50px;
 }
 
-/* -------------------------------------------------------------------------------- */
-/* -------------------------------------------------------------------------------- */
-/* -------------------------------------------------------------------------------- */
-
-.instagram-container .tns-outer.v2 .tns-inner .tns-slider {
-    height: 700px !important;
-}
-
-.instagram-container .tns-outer.v2 .tns-inner .tns-slider .tns-item {
-    height: 700px !important;
-}
-
-.instagram-container .tns-outer.v2 .tns-inner .tns-slider .tns-item .instagram-card {
-    height: 680px !important;
-}
-
-.instagram-container .tns-outer.v2 .tns-inner .tns-slider .tns-item .instagram-card a img {
-    height: auto !important;
-}
-
-.instagram-container .tns-outer.v3 .tns-inner .tns-slider {
-    height: auto !important;
-}
-
-.instagram-container .tns-outer.v3 .tns-inner .tns-slider .tns-item {
-    height: auto !important;
-}
-
-.instagram-container .tns-outer.v3 .tns-inner .tns-slider .tns-item .instagram-card {
-    height: auto !important;
-    padding: 0 0 5px 0;
-}
-
-.instagram-container .tns-outer.v3 .tns-inner .tns-slider .tns-item .instagram-card a img {
-    height: auto !important;
-}
-
-/* -------------------------------------------------------------------------------- */
-/* -------------------------------------------------------------------------------- */
-/* -------------------------------------------------------------------------------- */
-
 @media (max-width: 1200px) {
 
     .instagram-container {
@@ -295,25 +254,5 @@
         height: 25px;
         line-height: 25px;
     }
-
-    /* -------------------------------------------------------------------------------- */
-    /* -------------------------------------------------------------------------------- */
-    /* -------------------------------------------------------------------------------- */
-
-    .instagram-container .tns-outer.v2 .tns-inner .tns-slider {
-        height: 550px !important;
-    }
-    
-    .instagram-container .tns-outer.v2 .tns-inner .tns-slider .tns-item {
-        height: 550px !important;
-    }
-    
-    .instagram-container .tns-outer.v2 .tns-inner .tns-slider .tns-item .instagram-card {
-        height: 525px !important;
-    }
-
-    /* -------------------------------------------------------------------------------- */
-    /* -------------------------------------------------------------------------------- */
-    /* -------------------------------------------------------------------------------- */
 
 }
