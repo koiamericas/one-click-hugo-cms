@@ -1,4 +1,4 @@
-.single-head{
+.single-head {
   border-radius: 0;
   position: relative;
   width: 100%;
@@ -7,6 +7,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
 .single-head-background {
   position:absolute;
   top: 0;
@@ -17,35 +18,41 @@
   filter: brightness(60%) blur(1px);
   z-index: 1;
 }
+
 .single-head-text {
   color: white;
   position:relative;
   z-index: 10;
   width: 100%;
 }
-.single-head-title{
 
+.single-head-title {
   font-size: 58px;
   font-weight: 600;
   text-transform: uppercase;
   line-height: 58px;
 }
-.single-head-subtitle{
+
+.single-head-subtitle {
   font-size: 20px;
   font-weight: 400;
   text-transform: unset;
 }
+
 .single-content h3 {
   font-size: 24px;
 }
+
 .single-content p {
   font-size: 18px;
   max-width: 100%
 }
+
 .date-info h3{
   font-weight: 700;
   margin-bottom: 20px;
 }
+
 .date-info span {
   font-weight: 400;
 }
