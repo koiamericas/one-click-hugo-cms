@@ -16,8 +16,6 @@ class ColorControl extends React.Component {
     />;
   }
 }
-const element = document.getElementsByClassName("rdt")[0].children[0];
-element.readOnly = true;
 
 CMS.registerPreviewStyle("/css/main.css");
 CMS.registerPreviewTemplate("post", PostPreview);
