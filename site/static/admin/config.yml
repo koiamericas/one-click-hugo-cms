@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
         fields: # The fields each document in this collection have
           - {label: type, name: type, widget: hidden, default: home}
           - {label: url, name: url, widget: hidden, default: "index.html"}
-          - {label: First (no hidde), name: first, widget: string}
-          - {label: Content, name: paragraph, widget: string}
+          - {label: First (no hidde), name: first, widget: text}
+          - {label: Content, name: paragraph, widget: text}
 
 

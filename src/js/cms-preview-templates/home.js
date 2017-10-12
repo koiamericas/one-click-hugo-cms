@@ -12,15 +12,15 @@ export default class PostPreview extends React.Component {
     }
 
     return <div>
-      <div class="message-container centered-box-content-all ">
+      <div className="message-container centered-box-content-all ">
 
-        <p class="title">
+        <p className="title">
             Message from the Executive Director
         </p>
 
-        <div id="izquiero-message" class="message show-less">
+        <div id="izquiero-message" className="message show-less">
 
-            <p class="first-p">
+            <p className="first-p">
             { entry.getIn(["data", "first"]) }
             </p>
 
@@ -28,23 +28,23 @@ export default class PostPreview extends React.Component {
             { entry.getIn(["data", "paragraph"]) }
             </p>
 
-            <p class="signature-name">
+            <p className="signature-name">
                 Jose Izquierdo
             </p>
 
-            <p class="signature-position">
+            <p className="signature-position">
                 Executive Director of the Puerto Rico Tourism Company
             </p>
 
         </div>
 
-        <div id="show-more-btn" class="show-more-btn show-mobile-only">
+        <div id="show-more-btn" className="show-more-btn show-mobile-only">
 
-            <div class="text">
+            <div className="text">
                 Keep reading
             </div>
 
-            <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+            <img src="/img/icons/down-white-arrow.svg" className="down-white-arrow show-mobile-only"/>
 
         </div>
 
