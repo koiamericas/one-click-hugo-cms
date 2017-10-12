@@ -3,7 +3,7 @@ type: internal
 page: /airports.html
 title: Airports
 subtitle: See which locations are flying.
-date: 10/11/2017 10:00 AM
+date: 2017-10-11T10:00:00.000Z
 image: /img/ariports_banner.png
 ---
 
