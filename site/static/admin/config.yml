@@ -41,3 +41,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/home.md"
+        label: "Homepage"
+        name: "home"
+        fields: # The fields each document in this collection have
+          - {label: type, name: type, widget: hidden, default: home}
+          - {label: url, name: url, widget: hidden, default: "index.html"}
+          - {label: First (no hidde), name: first, widget: string}
+          - {label: Content, name: paragraph, widget: string}
+
+
