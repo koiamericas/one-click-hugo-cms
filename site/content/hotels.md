@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-11T09:35:00.000Z
+date: 2017-10-12T14:54:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -47,6 +47,7 @@ The following hotels are open and able to take reservations for stays starting a
 * InterContinental San Juan, Isla Verde (22-Oct-17)
 * San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
 * San Juan Water Beach Club (31-Oct-17)
+* Sheraton Old San Juan Hotel (01-Dec-17)
 * Sheraton Puerto Rico Hotel & Casino (09-Jan-18)
 * The Condado Plaza Hilton (31-Oct-17)
 * The Lazy Parrot Inn, Rincón (22-Oct-17)
@@ -91,7 +92,7 @@ The following hotels are temporarily closed:
 
 If you have a trip scheduled through October 15, we recommend you call your hotel or travel agent directly and consider rebooking for a later date.
 
-**This is some contact information that may prove useful:**
+**Here is some contact information that may prove useful:**
 
 * Hilton Hotels | [1-800-445-8667](tel:+18004458667) | <a target="_blank" style="color: red !important;" href="http://www3.hilton.com/">hilton.com </a>
 * Marriott Hotels | [1-800-721-7033](tel:+18007217033) | <a target="_blank" style="color: red !important;" href="https://www.marriott.com">marriott.com</a>
