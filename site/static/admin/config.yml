@@ -44,10 +44,26 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/home.md"
         label: "Homepage"
         name: "home"
-        fields: # The fields each document in this collection have
+        fields:
           - {label: type, name: type, widget: hidden, default: home}
           - {label: url, name: url, widget: hidden, default: "index.html"}
-          - {label: First (no hidde), name: first, widget: text}
-          - {label: Content, name: paragraph, widget: text}
-
+          - {label: Title, name: title, widget: string}
+          - {label: HeadingText, name: heading, widget: string}
+          - {label: Image, name: image, widget: image, required: true}
+          - {label: HeaderButton, name: headerButton, widget: object, fields: [
+           {label: Text, name: text, widget: string},
+           {label: Url, name: url, widget: string}
+          ]}
+          - {label: SubHeader, name: subHeading, widget: object, fields: [
+           {label: Desktop, name: desktop, widget: text},
+           {label: Mobile, name: mobile, widget: text}
+          ]}
+          - {label: Big Message, name: bigHeaderMessage, widget: string}
+          - {label: HeroBanner, name: heroBanner, widget: object, fields: [
+           {label: Title, name: title, widget: string},
+           {label: First paragraph(no hidde), name: first, widget: text},
+           {label: Content, name: paragraph, widget: text},
+           {label: SignatureName, name: signatureName, widget: string},
+           {label: SignaturePosition, name: signaturePosition, widget: string}
+          ]}
 

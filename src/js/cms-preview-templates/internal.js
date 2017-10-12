@@ -15,7 +15,7 @@ export default class PostPreview extends React.Component {
       <div className="pv5 ph1 cover single-head" >
         <div className="single-head-background bg-center cover" style={{
           backgroundImage: image && `url(${image})`
-        }}>></div>
+        }}></div>
         <div className="single-head-text mw7 center">
           <h1 className="single-head-title">
           { entry.getIn(["data", "title"]) }
