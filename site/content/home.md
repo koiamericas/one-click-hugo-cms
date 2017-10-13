@@ -11,7 +11,6 @@ subHeading:
   desktop: >-
     If you're thinking about visiting Puerto Rico or already have booked a trip,
     we can help you.
-  mobile: ''
 bigHeaderMessage: 'Hotline: 787-522-5960'
 heroBanner:
   first: >-

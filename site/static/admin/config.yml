@@ -55,8 +55,7 @@ collections: # A list of collections the CMS should be able to edit
            {label: Url, name: url, widget: string}
           ]}
           - {label: SubHeader, name: subHeading, widget: object, fields: [
-           {label: Desktop, name: desktop, widget: text},
-           {label: Mobile, name: mobile, widget: text}
+           {label: Desktop, name: desktop, widget: text}
           ]}
           - {label: Big Message, name: bigHeaderMessage, widget: string}
           - {label: HeroBanner, name: heroBanner, widget: object, fields: [
