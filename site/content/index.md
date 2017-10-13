@@ -30,8 +30,8 @@ herobanner:
     of welcoming visitors to the Island in the weeks ahead. We are confident
     that with the continuous support of our industry partners, we can build a
     stronger Puerto Rico.
-  signatureName: Jose Izquierdo
-  signaturePosition: Executive Director of the Puerto Rico Tourism Company
+  signaturename: Jose Izquierdo
+  signatureposition: Executive Director of the Puerto Rico Tourism Company
   title: Message from the Executive Director
 ---
 

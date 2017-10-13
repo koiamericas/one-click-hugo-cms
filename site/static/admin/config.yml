@@ -60,7 +60,7 @@ collections: # A list of collections the CMS should be able to edit
            {label: Title, name: title, widget: string},
            {label: First paragraph(no hidde), name: first, widget: text},
            {label: Content, name: paragraph, widget: text},
-           {label: SignatureName, name: signatureName, widget: string},
-           {label: SignaturePosition, name: signaturePosition, widget: string}
+           {label: SignatureName, name: signaturename, widget: string},
+           {label: SignaturePosition, name: signatureposition, widget: string}
           ]}
 
