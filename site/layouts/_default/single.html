@@ -1,5 +1,234 @@
 {{ partial "head" . }}
+
 {{ partial "nav" . }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-  {{ .Content }}
+
+{{ range .Data.Pages }}
+    {{if eq .RelPermalink "/index.html" }}
+
+        <div class="main-banner" style="background-image: url('{{.Params.image }}')">
+
+            <p class="small top">
+                {{ .Title}}
+            </p>
+
+            <p class="big">
+                {{ .Params.heading}}
+
+            </p>
+
+            <p class="small hide-on-mobile">
+                {{ .Params.subHeading}}
+            </p>
+
+            <p class="small show-mobile-only banner-mobile-copy">
+                not show yet
+            </p>
+
+            <a href="{{.Params.headerButton.url}}" target="_blank">
+                {{ .Params.headerButton.text}}
+            </a>
+
+            <p class="big bold">
+                {{ .Params.bigHeaderMessage}}
+            </p>
+            <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+
+        </div>
+
+        <div class="info-bar centered-box-content-all show-mobile-only">
+
+            <div class="dark-content hide-on-mobile">
+                This just in
+            </div>
+
+            <div class="dark-arrow"></div>
+
+            <div class="content">
+
+                <p class="hide-on-mobile">
+                    Luis Muñoz Marín International Airport  is operating from 7:00 AM to 5:00PM EDT with 39 commercial flights per day.
+                </p>
+
+                <p class="hide-on-mobile">
+                    Many hotels have reopened, but are not taking reservations yet. Click on “Hotels” below for more info.
+                </p>
+
+                <p>
+                    San Juan Harbor is open and these other ports are open during daylight hours: Guayanilla, Tallaboa, Salinas, Fajardo, Culebra, Vieques, Guayama.
+                </p>
+
+            </div>
+
+        </div>
+        <div class="message-container centered-box-content-all ">
+
+            <p class="title">
+                    {{ .Params.heroBanner.title}}
+            </p>
+
+            <div id="izquiero-message" class="message show-less">
+
+                <p class="first-p">
+                    {{ .Params.heroBanner.first}}
+                </p>
+
+                <p>
+                    {{ .Params.heroBanner.paragraph}}
+                </p>
+
+                <p class="signature-name">
+                        {{ .Params.heroBanner.signatureName}}
+                </p>
+
+                <p class="signature-position">
+                        {{ .Params.heroBanner.signaturePosition}}
+                </p>
+
+            </div>
+
+            <div id="show-more-btn" class="show-more-btn show-mobile-only">
+
+                <div class="text">
+                    Keep reading
+                </div>
+
+                <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="green-cards-container centered-box-content-all">
+
+            <div class="title">
+                Check out the latest on transportation and lodging
+            </div>
+
+            <div class="gren-cards-wrapper">
+
+                <div class="green-card">
+
+                    <img src="/img/icons/plane.svg" />
+
+                    <p class="card-title">
+                        Airports
+                    </p>
+
+                    <p class="card-text">
+                        See which locations are flying
+                    </p>
+
+                    <a href="/airports">
+                        SEE MORE
+                    </a>
+
+                </div>
+
+                <div class="green-card">
+
+                    <img src="/img/icons/hotel.svg" />
+
+                    <p class="card-title">
+                        Hotels
+                    </p>
+
+                    <p class="card-text">
+                        Explore available accommodations
+                    </p>
+
+                    <a href="/hotels">
+                        SEE MORE
+                    </a>
+
+                </div>
+
+                <div class="green-card">
+
+                    <img src="/img/icons/boat.svg" />
+
+                    <p class="card-title">
+                        Ports
+                    </p>
+
+                    <p class="card-text">
+                        Check up on cruise ships and ferries
+                    </p>
+
+                    <a href="/ports">
+                        SEE MORE
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="status-pr-box centered-box-content-all">
+
+            <div class="items-container">
+
+                <p>
+                    Stay informed on infrastructure improvements from gas and electricity to supermarkets,  ATMs, and more.
+                </p>
+                <a href="http://status.pr/?lng=en">
+                    <img src="/img/status-pr-logo.png" />
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="instagram-container centered-box-content-all">
+
+            <div class="title">
+                Latest Updates from See Puerto Rico
+            </div>
+
+            <div id="instafeed">
+
+            </div>
+
+        </div>
+
+        <div class="united-for-pr-box centered-box-content-all">
+
+            <div class="items-container">
+
+                <p>
+                    United for Puerto Rico: Together Changing Paths
+                </p>
+
+                <a href="http://unitedforpuertorico.com" target="_blank">
+                    JOIN US AND SHOW YOUR SUPPORT
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="mailer centered-box-content-all hidden">
+
+            <p class="title">
+                Register to receive notifications from See Puerto Rico
+            </p>
+
+            <div class="email-input-box">
+
+                <img src="/img/icons/email.svg" />
+
+                <input type="email" name="email" id="email" placeholder="Email" class="email-input" />
+
+            </div>
+
+            <div id="register-to-mailer-btn" class="register-to-mailer-btn">
+                REGISTER
+            </div>
+
+        </div>
+    {{end}}
+{{ end }}
+
 {{ partial "footer" . }}

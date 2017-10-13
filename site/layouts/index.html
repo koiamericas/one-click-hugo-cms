@@ -17,7 +17,7 @@
             </p>
 
             <p class="small hide-on-mobile">
-                {{ .Params.subHeading}}
+                {{ .Params.subheading}}
             </p>
 
             <p class="small show-mobile-only banner-mobile-copy">
@@ -25,11 +25,11 @@
             </p>
 
             <a href="{{.Params.headerButton.url}}" target="_blank">
-                {{ .Params.headerButton.text}}
+                {{ .Params.headerbutton.text}}
             </a>
 
             <p class="big bold">
-                {{ .Params.bigHeaderMessage}}
+                {{ .Params.bigheadermessage}}
             </p>
             <img src="/img/icons/down-white-arrow.svg" class="down-white-arrow show-mobile-only"/>
 
@@ -63,25 +63,25 @@
         <div class="message-container centered-box-content-all ">
 
             <p class="title">
-                    {{ .Params.heroBanner.title}}
+                    {{ .Params.herobanner.title}}
             </p>
 
             <div id="izquiero-message" class="message show-less">
 
                 <p class="first-p">
-                    {{ .Params.heroBanner.first}}
+                    {{ .Params.herobanner.first}}
                 </p>
 
                 <p>
-                    {{ .Params.heroBanner.paragraph}}
+                    {{ .Params.herobanner.paragraph}}
                 </p>
 
                 <p class="signature-name">
-                        {{ .Params.heroBanner.signatureName}}
+                        {{ .Params.herobanner.signatureName}}
                 </p>
 
                 <p class="signature-position">
-                        {{ .Params.heroBanner.signaturePosition}}
+                        {{ .Params.herobanner.signaturePosition}}
                 </p>
 
             </div>
@@ -228,7 +228,7 @@
             </div>
 
         </div>
-    {{end}}
+    {{ end }}
 {{ end }}
 
 {{ partial "footer" . }}

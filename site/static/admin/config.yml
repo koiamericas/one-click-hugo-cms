@@ -41,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/home.md"
+      - file: "site/content/index.md"
         label: "Homepage"
         name: "home"
         fields:
@@ -50,13 +50,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: HeadingText, name: heading, widget: string}
           - {label: Image, name: image, widget: image, required: true}
-          - {label: HeaderButton, name: headerButton, widget: object, fields: [
+          - {label: HeaderButton, name: headerbutton, widget: object, fields: [
            {label: Text, name: text, widget: string},
            {label: Url, name: url, widget: string}
           ]}
-          - {label: SubHeader, name: subHeading, widget: string}
-          - {label: Big Message, name: bigHeaderMessage, widget: string}
-          - {label: HeroBanner, name: heroBanner, widget: object, fields: [
+          - {label: SubHeader, name: subheading, widget: string}
+          - {label: Big Message, name: bigheadermessage, widget: string}
+          - {label: HeroBanner, name: herobanner, widget: object, fields: [
            {label: Title, name: title, widget: string},
            {label: First paragraph(no hidde), name: first, widget: text},
            {label: Content, name: paragraph, widget: text},

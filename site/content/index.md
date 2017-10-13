@@ -4,14 +4,14 @@ url: index.html
 title: Your Travel Information Portal
 heading: Welcome to your home for travel updates
 image: /img/main_banner_img.jpg
-headerButton:
+headerbutton:
   text: LIVE CHAT
   url: 'http://messenger.providesupport.com/messenger/eddinc.html'
-subHeading: >-
+subheading: >-
   If you're thinking about visiting Puerto Rico or already have booked a trip,
   we can help you.
-bigHeaderMessage: 'Hotline: 787-522-5960'
-heroBanner:
+bigheadermessage: 'Hotline: 787-522-5960'
+herobanner:
   first: >-
     For the past few weeks, the PRTC has been collaborating with government
     agencies and the private sector to provide immediate relief while ensuring
