@@ -2,7 +2,7 @@
 type: home
 url: index.html
 title: Your Travel Information Portal
-heading: Welcome to your home for travel updates.
+heading: Welcome to your home for travel updates
 image: /img/main_banner_img.jpg
 headerButton:
   text: LIVE CHAT
@@ -30,8 +30,8 @@ heroBanner:
     of welcoming visitors to the Island in the weeks ahead. We are confident
     that with the continuous support of our industry partners, we can build a
     stronger Puerto Rico.
-  signatureName: Jose Izquierdo.
-  signaturePosition: Executive Director of the Puerto Rico Tourism Company.
-  title: Message from the Executive Director.
+  signatureName: Jose Izquierdo
+  signaturePosition: Executive Director of the Puerto Rico Tourism Company
+  title: Message from the Executive Director
 ---
 
