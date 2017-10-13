@@ -7,8 +7,7 @@ image: /img/main_banner_img.jpg
 headerButton:
   text: LIVE CHAT
   url: 'http://messenger.providesupport.com/messenger/eddinc.html'
-subHeading: >-
-  If you're thinking about visiting Puerto Rico or already have booked a trip,
+subHeading: If you're thinking about visiting Puerto Rico or already have booked a trip,
   we can help you.
 bigHeaderMessage: 'Hotline: 787-522-5960'
 heroBanner:
