@@ -1,8 +1,8 @@
 ---
 type: home
 url: index.html
-title: Your Travel Information Portal
-heading: Welcome to your home for travel updates
+title: Your Travel Information Portal.
+heading: Welcome to your home for travel updates.
 image: /img/main_banner_img.jpg
 headerbutton:
   text: LIVE CHAT
@@ -10,7 +10,7 @@ headerbutton:
 subheading: >-
   If you're thinking about visiting Puerto Rico or already have booked a trip,
   we can help you.
-bigheadermessage: 'Hotline: 787-522-5960'
+bigheadermessage: 'Hotline: 787-522-5960.'
 herobanner:
   first: >-
     For the past few weeks, the PRTC has been collaborating with government
@@ -30,8 +30,8 @@ herobanner:
     of welcoming visitors to the Island in the weeks ahead. We are confident
     that with the continuous support of our industry partners, we can build a
     stronger Puerto Rico.
-  signaturename: Jose Izquierdo
-  signatureposition: Executive Director of the Puerto Rico Tourism Company
-  title: Message from the Executive Director
+  signaturename: Jose Izquierdo.
+  signatureposition: Executive Director of the Puerto Rico Tourism Company.
+  title: Message from the Executive Director.
 ---
 
