@@ -25,19 +25,15 @@ export default class PostPreview extends React.Component {
             </p>
 
             <p className="small hide-on-mobile">
-                { entry.getIn(["data", "subHeading", "desktop"]) }
-            </p>
-
-            <p className="small show-mobile-only banner-mobile-copy">
-                { entry.getIn(["data", "subHeading", "mobile"]) }
+                { entry.getIn(["data", "subheading"]) }
             </p>
 
             <a href="#" target="_blank">
-                { entry.getIn(["data", "headerButton", "text"]) }
+                { entry.getIn(["data", "headerbutton", "text"]) }
             </a>
 
             <p className="big bold">
-                { entry.getIn(["data", "bigHeaderMessage"]) }
+                { entry.getIn(["data", "bigheadermessage"]) }
             </p>
             <img src="/img/icons/down-white-arrow.svg" className="down-white-arrow show-mobile-only"/>
 
@@ -45,25 +41,25 @@ export default class PostPreview extends React.Component {
         <div className="message-container centered-box-content-all ">
 
         <p className="title">
-            { entry.getIn(["data", "heroBanner", "title"]) }
+            { entry.getIn(["data", "herobanner", "title"]) }
         </p>
 
         <div id="izquiero-message" className="message">
 
             <p className="first-p">
-            { entry.getIn(["data", "heroBanner", "first"]) }
+            { entry.getIn(["data", "herobanner", "first"]) }
             </p>
 
             <p>
-            { entry.getIn(["data", "heroBanner", "paragraph"]) }
+            { entry.getIn(["data", "herobanner", "paragraph"]) }
             </p>
 
             <p className="signature-name">
-                { entry.getIn(["data", "heroBanner", "signatureName"]) }
+                { entry.getIn(["data", "herobanner", "signaturename"]) }
             </p>
 
             <p className="signature-position">
-                { entry.getIn(["data", "heroBanner", "signaturePosition"]) }
+                { entry.getIn(["data", "herobanner", "signatureposition"]) }
             </p>
 
         </div>
