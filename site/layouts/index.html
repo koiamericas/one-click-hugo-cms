@@ -2,8 +2,8 @@
 
 {{ partial "nav" . }}
 
-{{ range .Data.Pages }}
-    {{if eq .RelPermalink "/index.html" }}
+{{ range where .Data.Pages "Type" "home" }}
+
 
         <div class="main-banner" style="background-image: url('{{.Params.image }}')">
 
@@ -228,7 +228,6 @@
             </div>
 
         </div>
-    {{ end }}
 {{ end }}
 
 {{ partial "footer" . }}
