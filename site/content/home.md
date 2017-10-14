@@ -18,7 +18,7 @@ herobanner:
     the safety of all visitors and residents. The support received to date has
     been remarkable and we continue to welcome relief efforts from partners who
     are interested in helping the people of Puerto Rico as we focus on
-    rebuilding our Island
+    rebuilding our Island.
   paragraph: >-
     Recent advancements on major tourism infrastructure, like our main airport
     fully operational with back to normal schedules and operational cruise ports
@@ -32,6 +32,6 @@ herobanner:
     stronger Puerto Rico
   signaturename: Jose Izquierdo
   signatureposition: Executive Director of the Puerto Rico Tourism Company
-  title: Message from the Executive Director
+  title: Message from the Executive Director.
 ---
 
