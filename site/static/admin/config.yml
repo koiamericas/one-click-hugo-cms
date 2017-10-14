@@ -46,7 +46,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: type, name: type, widget: hidden, default: home}
-          - {label: url, name: url, widget: hidden, default: "index.html"}
           - {label: page, name: page, widget: hidden, default: "/home.html"}
           - {label: Title, name: title, widget: string}
           - {label: HeadingText, name: heading, widget: string}
