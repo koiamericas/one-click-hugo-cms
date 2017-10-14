@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-13T20:31:00.000Z
+date: 2017-10-14T15:15:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
