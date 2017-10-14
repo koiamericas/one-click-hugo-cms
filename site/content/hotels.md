@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-13T16:31:00-04:00
+date: 2017-10-13T20:31:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -24,6 +24,7 @@ The following hotels are open and accepting reservations now:
 * Parador Boquemar
 * Parador Guánica 1929
 * Parador Villa Parguera
+* San Juan Airport Hotel
 
 The following hotels are open and able to take reservations for stays starting after the date shown:
 
