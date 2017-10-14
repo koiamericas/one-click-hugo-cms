@@ -47,6 +47,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: type, name: type, widget: hidden, default: home}
           - {label: url, name: url, widget: hidden, default: "index.html"}
+          - {label: page, name: page, widget: hidden, default: "/home.html"}
           - {label: Title, name: title, widget: string}
           - {label: HeadingText, name: heading, widget: string}
           - {label: Image, name: image, widget: image, required: true}
@@ -56,11 +57,6 @@ collections: # A list of collections the CMS should be able to edit
           ]}
           - {label: SubHeader, name: subheading, widget: string}
           - {label: Big Message, name: bigheadermessage, widget: string}
-          - {label: HeroBanner, name: herobanner, widget: object, fields: [
-           {label: Title, name: title, widget: string},
-           {label: First paragraph(no hidde), name: first, widget: text},
-           {label: Content, name: paragraph, widget: text},
-           {label: SignatureName, name: signaturename, widget: string},
-           {label: SignaturePosition, name: signatureposition, widget: string}
+          - {label: HeroBanner, name: herobanner, widget: object, fields: [{label: Title, name: title, widget: string},{label: First paragraph(no hidde), name: first, widget: text},{label: Content, name: paragraph, widget: text},{label: SignatureName, name: signaturename, widget: string},{label: SignaturePosition, name: signatureposition, widget: string}
           ]}
 

@@ -2,7 +2,6 @@
 
 {{ partial "nav" . }}
 
-{{ range where .Data.Pages "Type" "home" }}
 
 
         <div class="main-banner" style="background-image: url('{{.Params.image }}')">
@@ -228,10 +227,5 @@
             </div>
 
         </div>
-{{ end }}
 
 {{ partial "footer" . }}
-<script type="text/javascript">
-    var base_url = window.location.origin;
-    window.location =  base_url+"/home"
-</script>

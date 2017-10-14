@@ -1,6 +1,6 @@
 ---
 type: home
-url: index.html
+page: /home.html
 title: Your Travel Information Portal
 heading: Welcome to your home for travel updates
 image: /img/main_banner_img.jpg
