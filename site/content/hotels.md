@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-16T14:39:00.000Z
+date: 2017-10-16T12:35:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -16,9 +16,11 @@ The following hotels are open and accepting reservations now:
 * Courtyard by Marriott Isla Verde Beach
 * DoubleTree by Hilton Hotel San Juan
 * Estancia La Jamaica
+* ESJ Azul
 * Holiday Inn Mayagüez
 * Hotel El Convento
 * Howard Johnson Mayagüez
+* Hyatt House San Juan
 * Hyatt Place Manatí
 * Hyatt Place San Juan Bayamon
 * La Concha Resort
@@ -27,6 +29,7 @@ The following hotels are open and accepting reservations now:
 * Parador Guánica 1929
 * Parador Villa Parguera
 * San Juan Airport Hotel
+* Verdanza Hotel
 
 The following hotels are open and able to take reservations for stays starting after the date shown:
 
@@ -38,14 +41,12 @@ The following hotels are open and able to take reservations for stays starting a
 * Coral Princess Hotel (22-Oct-17)
 * Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
 * Embassy Suites San Juan Hotel & Casino (31-Oct-17)
-* ESJ Azul (15-Oct-17)
 * Hampton Inn & Suites San Juan (31-Oct-17)
 * Hilton Ponce Golf & Casino Resort (31-Oct-17)
 * Holiday Inn Express San Juan Condado Hotel (22-Oct-17)
 * Hotel Miramar (22-Oct-17)
 * Hotel Villa Montaña & Spa (22-Oct-17)
 * Hyatt Hacienda del Mar, Dorado (22-Oct-17)
-* Hyatt House San Juan (15-Oct-17)
 * InterContinental San Juan, Isla Verde (31-Oct-17)
 * San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
 * San Juan Water Beach Club (31-Oct-17)
@@ -54,7 +55,6 @@ The following hotels are open and able to take reservations for stays starting a
 * The Condado Plaza Hilton (31-Oct-17)
 * The Lazy Parrot Inn, Rincón (22-Oct-17)
 * The Wave Hotel (22-Oct-17)
-* Verdanza Hotel (15-Oct-17)
 * Villa Montaña Beach Resort (15-Dec-17)
 
 The following hotels are temporarily closed:
@@ -79,7 +79,7 @@ The following hotels are temporarily closed:
 * Hotel Miramar
 * Hotel Olimpo Court
 * Hotel Villa Herencia
-* Hyatt Hacienda del Mar
+* Hyatt Hacienda del Mar, Dorado
 * Las Casitas Village at El Conquistador
 * Número 1 on the Beach
 * Parador El Faro
@@ -90,8 +90,6 @@ The following hotels are temporarily closed:
 * Tryp by Wyndham
 * Villa Montaña Beach Resort
 * W Retreat & Spa in Vieques
-
-If you have a trip scheduled through October 15, we recommend you call your hotel or travel agent directly and consider rebooking for a later date.
 
 ** Here is some contact information that may prove useful: **
 
