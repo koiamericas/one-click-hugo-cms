@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-16T12:35:00-04:00
+date: 2017-10-16T16:16:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -38,7 +38,7 @@ The following hotels are open and able to take reservations for stays starting a
 * Canario Boutique Hotel (22-Oct-17)
 * Copamarina Resort & Spa (18-Oct-17)
 * Comfort Inn San Juan (22-Oct-17)
-* Coral Princess Hotel (22-Oct-17)
+* Coral Princess Hotel (01-Mar-18)
 * Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
 * Embassy Suites San Juan Hotel & Casino (31-Oct-17)
 * Hampton Inn & Suites San Juan (31-Oct-17)
