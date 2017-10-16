@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-14T15:15:00-04:00
+date: 2017-10-14T19:15:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -19,6 +19,8 @@ The following hotels are open and accepting reservations now:
 * Holiday Inn Mayagüez
 * Hotel El Convento
 * Howard Johnson Mayagüez
+* Hyatt Place Manatí
+* Hyatt Place San Juan / Bayamon
 * La Concha Resort
 * Mayagüez Resort & Casino
 * Parador Boquemar
@@ -79,7 +81,6 @@ The following hotels are temporarily closed:
 * Hotel Olimpo Court
 * Hotel Villa Herencia
 * Hyatt Hacienda del Mar
-* Hyatt Place Manatí
 * Las Casitas Village at El Conquistador
 * Número 1 on the Beach
 * Parador El Faro
