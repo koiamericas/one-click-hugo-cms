@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-16T10:39:00-04:00
+date: 2017-10-16T14:39:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are open and accepting reservations now:
@@ -20,7 +20,7 @@ The following hotels are open and accepting reservations now:
 * Hotel El Convento
 * Howard Johnson Mayagüez
 * Hyatt Place Manatí
-* Hyatt Place San Juan / Bayamon
+* Hyatt Place San Juan Bayamon
 * La Concha Resort
 * Mayagüez Resort & Casino
 * Parador Boquemar
@@ -46,7 +46,6 @@ The following hotels are open and able to take reservations for stays starting a
 * Hotel Villa Montaña & Spa (22-Oct-17)
 * Hyatt Hacienda del Mar, Dorado (22-Oct-17)
 * Hyatt House San Juan (15-Oct-17)
-* Hyatt Place San Juan (15-Oct-17)
 * InterContinental San Juan, Isla Verde (31-Oct-17)
 * San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
 * San Juan Water Beach Club (31-Oct-17)
