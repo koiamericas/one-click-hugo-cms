@@ -291,24 +291,28 @@
     }
 
     .info-bar {
-        height: 80px;
+        height: 100px;
     }
 
     .info-bar .dark-content {
         display: none;
     }
 
+    .info-bar .dark-arrow {
+        border-top: 50px solid transparent;
+        border-bottom: 50px solid transparent;
+        border-left: 25px solid #7B9D00;
+    }
+
     .info-bar .content {
         width: calc(100% - 40px);
+        height: 100px;
     }
 
     .info-bar .content p {
         font-size: 12px;
-        font-weight: 400;
-        width: 100%;
-        line-height: 12px;
-        padding: 5px;
-        margin: 10px 0 0 0;
+        height: 100px;
+        padding: 10px 10px 10px 0px;
     }
 
     .message-container {
