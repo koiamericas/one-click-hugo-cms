@@ -9,7 +9,7 @@ headerbutton:
   url: 'http://messenger.providesupport.com/messenger/eddinc.html'
 subheading: >-
   If you're thinking about visiting Puerto Rico or already have booked a trip,
-  we can help you
+  we can help you.
 bigheadermessage: 'Hotline: 787-522-5960'
 herobanner:
   first: >-
