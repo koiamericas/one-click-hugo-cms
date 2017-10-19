@@ -3,93 +3,106 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-16T16:16:00-04:00
+date: 2017-10-18T21:43:00-04:00
 image: /img/slider_hotel.png
 ---
-The following hotels are open and accepting reservations now:
+The following hotels are open and most are accepting future reservations:
 
-* Best Western Condado Palm Inn & Suites
-* Cielo Mar Hotel
-* Cofresí Beach Hotel
-* Combate Beach Hotel
-* Condado Vanderbilt Hotel
-* Courtyard by Marriott Isla Verde Beach
-* DoubleTree by Hilton Hotel San Juan
-* Estancia La Jamaica
-* ESJ Azul
-* Holiday Inn Mayagüez
-* Hotel El Convento
-* Howard Johnson Mayagüez
-* Hyatt House San Juan
-* Hyatt Place Manatí
-* Hyatt Place San Juan Bayamon
-* La Concha Resort
-* Mayagüez Resort & Casino
-* Parador Boquemar
-* Parador Guánica 1929
-* Parador Villa Parguera
-* San Juan Airport Hotel
-* Verdanza Hotel
-
-The following hotels are open and able to take reservations for stays starting after the date shown:
-
-* AC Hotel San Juan Condado (22-Oct-17)
-* At Wind Chimes Boutique Hotel (22-Oct-17)
-* Canario Boutique Hotel (22-Oct-17)
-* Copamarina Resort & Spa (18-Oct-17)
-* Comfort Inn San Juan (22-Oct-17)
-* Coral Princess Hotel (01-Mar-18)
-* Embassy Suites Dorado del Mar Beach Resort (31-Oct-17)
-* Embassy Suites San Juan Hotel & Casino (31-Oct-17)
-* Hampton Inn & Suites San Juan (31-Oct-17)
-* Hilton Ponce Golf & Casino Resort (31-Oct-17)
-* Holiday Inn Express San Juan Condado Hotel (22-Oct-17)
-* Hotel Miramar (22-Oct-17)
-* Hotel Villa Montaña & Spa (22-Oct-17)
-* Hyatt Hacienda del Mar, Dorado (22-Oct-17)
-* InterContinental San Juan, Isla Verde (31-Oct-17)
-* San Juan Marriott Resort & Stellaris Casino (01-Nov-17)
-* San Juan Water Beach Club (31-Oct-17)
-* Sheraton Old San Juan Hotel (01-Dec-17)
-* Sheraton Puerto Rico Hotel & Casino (09-Jan-18)
-* The Condado Plaza Hilton (31-Oct-17)
-* The Lazy Parrot Inn, Rincón (22-Oct-17)
-* The Wave Hotel (22-Oct-17)
-* Villa Montaña Beach Resort (15-Dec-17)
-
-The following hotels are temporarily closed:
-
-* Aquaris Club Boquerón
-* Caribe Hilton
-* Casa Isleña Inn
-* Casa Verde Hotel
-* Condado Lagoon Villas at Caribe Hilton
-* Condado Plaza Hilton
-* Coral by the Sea Hotel
-* Da’ House Hotel
-* Dorado Beach, a Ritz-Carlton Reserve
-* El Canario by the Lagoon
-* El Conquistador, a Waldorf Astoria Resort
-* El San Juan Hotel, Curio Collection
-* Gran Melia
-* Hix Island House
-* Hotel Decanter
-* Hotel Iberia
-* Hotel Milano
-* Hotel Miramar
-* Hotel Olimpo Court
-* Hotel Villa Herencia
-* Hyatt Hacienda del Mar, Dorado
-* Las Casitas Village at El Conquistador
-* Número 1 on the Beach
-* Parador El Faro
-* Parador Villas del Mar Hau
-* Plaza de Armas Hotel
-* Rainforest Inn
-* Rincón Beach Hotel
-* Tryp by Wyndham
-* Villa Montaña Beach Resort
-* W Retreat & Spa in Vieques
+* Parador Villas Sotomayor, Adjuntas
+* Courtyard by Marriott Aguadilla, Aguadilla
+* Hotel Cielo Mar, Aguadilla
+* Parador El Faro, Aguadilla
+* Hyatt Place Bayamon Hotel & Tropical Casino, Bayamón
+* San Miguel Plaza Hotel, Bayamón
+* Cofresí Beach Hotel, Cabo Rojo
+* Aquarius Vacation Club @Boquerón Beach Resort, Cabo Rojo
+* Boquemar Beach Hotel, Cabo Rojo	
+* Parador Boquemar, Cabo Rojo
+* Parador Combate Beach, Cabo Rojo
+* Four Points by Sheraton At Caguas Real Hotel & Casino, Caguas
+* Azul ESJ Collection, Carolina	
+* Courtyard by Marriott Isla Verde Beach Hotel, Carolina
+* Embassy Suites Hotel & Casino, Carolina
+* Hampton Inn & Suites by Hilton, Carolina
+* Hotel InterContinental San Juan, Carolina
+* Hotel La Playa, Carolina
+* San Juan Airport Hotel, Carolina
+* San Juan Water & Beach Club Hotel, Carolina
+* The Ritz-Carlton San Juan Hotel, Carolina
+* Verdanza Hotel, Carolina
+* Villa del Sol, Carolina
+* Dorado Beach Hotel- Plantation Village, Dorado
+* Aquarius Vacation Club Golden Sand Villas, Dorado
+* Embassy Suites Dorado del Mar Beach & Golf Resort, Dorado
+* Copamarina Resort & Spa, Guánica
+* Costa Bahía Hotel & Convention Center, Guayanilla
+* Parador El Buen Café, Hatillo 	
+* Royal Isabela, Isabela
+* Estancia La Jamaca, Lajas
+* Parador Turtle Bay Inn, Lajas
+* Parador Villa Parguera , Lajas	
+* Luquillo Sunrise Beach Inn, Luquillo
+* Hyatt Place Manati Hotel, Manatí
+* Parador Mauna Caribe, Maunabo
+* Hotel Colonial, Mayagüez
+* Howard Johnson Downtown Mayaguez, Mayagüez
+* Mayaguez Holiday Inn Tropical Casino, Mayagüez
+* Mayaguez Resort & Casino, Mayagüez
+* Hilton Ponce Golf & Casino Resort, Ponce
+* Holiday Inn Ponce & Tropical Casino, Ponce
+* Hotel Meliá Ponce, Ponce
+* Howard Johnson Hotel Ponce, Ponce
+* Ponce Plaza Hotel & Casino, Ponce
+* Beside the Pointe on the Beach, Rincón
+* Rincón of the Seas Grand Caribbean Hotel, Rincón
+* The Lazy Parrot Inn & Restaurant, Rincón
+* Villa Cofresí Hotel & Restaurant, Rincón
+* Rainforest Inn, Río Grande
+* Rincón of the Seas Grand Caribbean Hotel, Río Grande
+* Hotel St. Regis at Bahia Beach Resort, Río Grande
+* Wyndham Rio Mar, Río Grande
+* Casa Sol Bed and Breakfast, San Juan
+* Ciqala Luxury Home Suites, San Juan
+* AC Hotel San Juan Condado, San Juan
+* Acacia Seaside Inn, San Juan	
+* At Wind Chimes Inn, San Juan
+* Best Western Plus Condado Palm Inn & Suites, San Juan
+* Casa Blanca Hotel, San Juan	
+* Casa Condado Hotel, San Juan
+* Comfort Inn San Juan, San Juan
+* Condado Vanderbilt Hotel, San Juan
+* Coral Princess Inn, San Juan	
+* Courtyard by Marriott San Juan Miramar, San Juan
+* Double Tree by Hilton San Juan, San Juan
+* Dream Inn Puerto Rico, San Juan
+* Dream's Hotel, San Juan	
+* El Canario Inn, San Juan	
+* Holiday Inn Express San Juan, San Juan	
+* Hotel El Convento, San Juan	
+* Howard Johnson Centro Cardiovascular, San Juan	
+* Hyatt House, San Juan	
+* Hyatt Place San Juan City Center, San Juan
+* La Concha A Renaissance Resort, San Juan
+* La Terraza de San Juan, San Juan	
+* Olive Boutique Hotel, San Juan
+* San Juan Marriott Resort & Stellaris Casino, San Juan	
+* Sandy Beach, San Juan	
+* Sheraton Old San Juan, San Juan	
+* Sheraton Puerto Rico Hotel & Casino, San Juan
+* The Wave Hotel, San Juan	
+* Tres Palmas Inn, San Juan
+* The Gallery Inn, San Juan
+* Hacienda El Jibarito, San Sebastián
+* San Sebastián Bed & Breakfast, San Sebastián
+* Comfort Inn & Suites- Campomar, Toa Baja
+* Casa Amistad, Vieques
+* Hacienda Tamarindo, Vieques
+* The Wave, Vieques	
+* El Blok, Vieques	
+* Tropical Guest House, Vieques
+* Lucía Beach LLC, Yabucoa	
+* Parador Palmas De Lucía, Yabucoa	
+* Lazy Hostel		
 
 ** Here is some contact information that may prove useful: **
 
