@@ -1,0 +1,21 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+<div class="pv5 ph1 cover single-head" >
+  <div class="single-head-background bg-center cover" style="background-image: url('{{.Params.image }}')"></div>
+  <div class="single-head-text mw7 center">
+    <h1 class="single-head-title">
+      {{.Title}}
+    </h1>
+    <h6 class="single-head-subtitle">
+      {{.Params.subtitle}}
+    </h6>
+  </div>
+</div>
+
+{{ partial "hotels-table" .Params.hotels }}
+
+{{ partial "prefooter-banners" . }}
+
+{{ partial "footer" . }}
