@@ -37,5 +37,9 @@ hotels:
   - date: 05/05/18
     name: Bahía Hotel
     phone: 787-123-4567
+  - date: 10/10/17
+    name: Surfing Bay
+    open: true
+    phone: 787-787-1010
 ---
 
