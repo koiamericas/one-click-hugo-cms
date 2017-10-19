@@ -344,14 +344,13 @@ a:focus, button:focus, input:focus, textarea:focus {
 }
 
 .info-bar {
-    width: 80vw;
     max-width: 1170px;
     height: 80px;
     background: #92BA01;
     display: block;
     margin: 40px auto;
     color: white;
-    display: none;
+    display: block;
 }
 
 .info-bar .dark-content {
@@ -380,18 +379,19 @@ a:focus, button:focus, input:focus, textarea:focus {
     text-align: center;
     width: calc(85% - 60px);
     height: 80px;
+    text-align: left;
 }
 
 .info-bar .content p {
-    width: 30%;
+    width: 100%;
     text-align: left;
-    font-size: 13px;
-    display: inline-block;
+    font-size: 14px;
     height: 80px;
-    padding: 10px 5px;
-    vertical-align: top;
-    line-height: 13px;
-    font-weight: 600;
+    padding: 5px 15px 5px 0px;
+    font-weight: normal;
+    display: table-cell;
+    vertical-align: middle;
+    max-width: none;
 }
 
 .message-container {

@@ -1,0 +1,43 @@
+{{ if .open }}
+
+	<div class="hotel-row open">
+
+{{ else }}
+
+	<div class="hotel-row closed">
+
+{{ end }}
+
+	<div class="name">
+
+		{{.name}}
+
+	</div>
+
+	<div class="status">
+			
+		{{ if .open }}
+		
+			Open
+
+		{{ else }}
+
+			Closed
+
+		{{ end }}
+
+	</div>
+
+	<div class="date">
+
+		{{ .date }}
+
+	</div>
+
+	<div class="phone">
+
+		{{.phone}}
+
+	</div>
+
+</div>

@@ -1,0 +1,67 @@
+<div class="hotels-table-container">
+
+	<div class="table-top">
+
+		<div class="half first">
+
+			<img src="/img/icons/hotel-grey.svg"/>
+
+			<p>
+				The following hotels are only able to take new reservations for stays starting after the date shown.
+			</p>
+
+		</div>
+
+		<div class="half second">
+
+			<div class="buttons-container">
+
+				<p>
+					Show
+				</p>
+
+				<div class="buttons-row">
+
+					<div class="filter-button">
+						Open
+					</div>
+
+					<div class="filter-button">
+						Closed
+					</div>
+
+					<div class="filter-button selected">
+						All
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="update-time-row">
+
+				<p>
+					The latest updates as of
+				</p>
+
+				<div class="update-time">
+					{{ .Date.Format "Monday Jan 2, 2006" }}
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="hotels-table">
+
+		{{ range .Params.hotels }}
+
+			{{ partial "hotels-table-row" . }}
+
+		{{ end }}
+
+	</div>
+
+</div>

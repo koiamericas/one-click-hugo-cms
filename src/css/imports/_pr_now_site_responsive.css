@@ -115,17 +115,16 @@
     .navigation-burger {
         display: block;
         position: absolute;
-        z-index: 20;
-        right: 15px;
-        top: 55px;
-    }
-
-    .navigation-burger {
+        z-index: 100;
+        right: 0px;
+        top: 60px;
         overflow: hidden;
         max-height: 0;
         -webkit-transition: max-height 0.5s ease-in-out;
         -o-transition: max-height 0.5s ease-in-out;
         transition: max-height 0.5s ease-in-out;
+        background: #F7F7F7;
+        width: 100%;
     }
 
     .burger-check:checked ~ .navigation-burger {
@@ -135,26 +134,91 @@
         transition: max-height 0.5s ease-in-out;
     }
 
+    .new-header .header-row .header-buttons-container .header-buttons-container-row .navigation-burger .phone-box {
+        display: block;
+        margin: 15px auto 0 auto;
+        padding: 0;
+        width: calc(100% - 50px);
+    }
+
+    .new-header .header-row .header-buttons-container .header-buttons-container-row .navigation-burger .phone-box img {
+        width: 24px;
+        height: 24px;
+        margin: 0 2px -4px 0;
+        display: inline-block;
+    }
+
+    .new-header .header-row .header-buttons-container .header-buttons-container-row .navigation-burger .phone-box p {
+        display: inline-block;
+        color: #92BA01;
+        font-size: 20px;
+        font-weight: bold;
+        height: 38px;
+        line-height: 38px;
+    }
+
     .navigation-burger ul {
         margin: 0;
         padding: 10px 25px;
-        background: white;
-        border: 1px solid #92BA01;
+        background: transparent;
+        border: none;
     }
 
     .navigation-burger ul li {
         list-style: none;
-        font-size: 16px;
-        padding: 5px 0;
+        padding: 10px 0;
+        text-align: center;
     }
 
-    .navigation-burger ul a {
-        color: #92BA01;
-        text-decoration: none;
+    .navigation-burger ul li a {
+        color: #4E4E4E;
+        font-weight: bold;
+        font-size: 20px;
     }
 
-    .navigation-burger ul a:hover {
+    .navigation-burger ul li a:hover {
         text-decoration: underline;
+    }
+
+    .navigation-burger .border-top {
+        border-top: 1px solid #BFBFBF;
+    }
+
+    .navigation-burger .burger-nav-social-media {
+        padding: 10px 0 40px;
+        width: calc(100% - 50px);
+        margin: 0 auto;
+        display: block;
+    }
+
+    .navigation-burger .burger-nav-social-media p {
+        color: #4E4E4E;
+        font-weight: bold;
+        font-size: 16px;
+        text-align: center;
+        display: block;
+        margin: 0;
+    }
+
+    .navigation-burger .burger-nav-social-media .icons-row {
+        display: block;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .navigation-burger .burger-nav-social-media .icons-row a {
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    .navigation-burger .burger-nav-social-media .icons-row a img {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        margin: 0 5px;
+        vertical-align: middle;
     }
 
     .new-header {
@@ -176,7 +240,7 @@
     }
 
     .new-header .header-row .header-buttons-container {
-        margin: 10px 50px 0 0;
+        margin: 15px 50px 0 0;
         float: right;
         height: 40px;
     }
@@ -233,7 +297,7 @@
     }
 
     .new-footer .footer-row .footer-row-entry .footer-row-entry-img {
-        border-top: 1px solid #bfbfbf;
+        border-top: 1px solid #BFBFBF;
         padding: 15px 50px;
         margin: 0 auto;
         height: 67px;
@@ -291,24 +355,28 @@
     }
 
     .info-bar {
-        height: 80px;
+        height: 100px;
     }
 
     .info-bar .dark-content {
         display: none;
     }
 
+    .info-bar .dark-arrow {
+        border-top: 50px solid transparent;
+        border-bottom: 50px solid transparent;
+        border-left: 25px solid #7B9D00;
+    }
+
     .info-bar .content {
         width: calc(100% - 40px);
+        height: 100px;
     }
 
     .info-bar .content p {
         font-size: 12px;
-        font-weight: 400;
-        width: 100%;
-        line-height: 12px;
-        padding: 5px;
-        margin: 10px 0 0 0;
+        height: 100px;
+        padding: 10px 10px 10px 0px;
     }
 
     .message-container {
@@ -480,7 +548,7 @@
     }
 
     .new-header .header-row .header-buttons-container {
-        margin: 10px 30px 0 0;
+        margin: 15px 30px 0 0;
     }
 
 }
@@ -492,7 +560,7 @@
     }
 
     .new-header .header-row .header-buttons-container {
-        margin: 10px 10px 0 0;
+        margin: 15px 10px 0 0;
     }
 
 }
