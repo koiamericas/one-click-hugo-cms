@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-18T21:43:00-04:00
+date: 2017-10-18T22:20:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and most are accepting future reservations:
@@ -12,7 +12,7 @@ The following hotels are open and most are accepting future reservations:
 * Courtyard by Marriott Aguadilla, Aguadilla
 * Hotel Cielo Mar, Aguadilla
 * Parador El Faro, Aguadilla
-* Hyatt Place Bayamon Hotel & Tropical Casino, Bayamón
+* Hyatt Place Bayamón Hotel & Tropical Casino, Bayamón
 * San Miguel Plaza Hotel, Bayamón
 * Cofresí Beach Hotel, Cabo Rojo
 * Aquarius Vacation Club @Boquerón Beach Resort, Cabo Rojo
@@ -42,12 +42,12 @@ The following hotels are open and most are accepting future reservations:
 * Parador Turtle Bay Inn, Lajas
 * Parador Villa Parguera , Lajas	
 * Luquillo Sunrise Beach Inn, Luquillo
-* Hyatt Place Manati Hotel, Manatí
+* Hyatt Place Manatí Hotel, Manatí
 * Parador Mauna Caribe, Maunabo
 * Hotel Colonial, Mayagüez
-* Howard Johnson Downtown Mayaguez, Mayagüez
-* Mayaguez Holiday Inn Tropical Casino, Mayagüez
-* Mayaguez Resort & Casino, Mayagüez
+* Howard Johnson Downtown Mayagüez, Mayagüez
+* Mayagüez Holiday Inn Tropical Casino, Mayagüez
+* Mayagüez Resort & Casino, Mayagüez
 * Hilton Ponce Golf & Casino Resort, Ponce
 * Holiday Inn Ponce & Tropical Casino, Ponce
 * Hotel Meliá Ponce, Ponce
@@ -59,8 +59,8 @@ The following hotels are open and most are accepting future reservations:
 * Villa Cofresí Hotel & Restaurant, Rincón
 * Rainforest Inn, Río Grande
 * Rincón of the Seas Grand Caribbean Hotel, Río Grande
-* Hotel St. Regis at Bahia Beach Resort, Río Grande
-* Wyndham Rio Mar, Río Grande
+* Hotel St. Regis at Bahía Beach Resort, Río Grande
+* Wyndham Río Mar, Río Grande
 * Casa Sol Bed and Breakfast, San Juan
 * Ciqala Luxury Home Suites, San Juan
 * AC Hotel San Juan Condado, San Juan
