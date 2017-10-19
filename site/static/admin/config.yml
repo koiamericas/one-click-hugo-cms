@@ -51,11 +51,26 @@ collections: # A list of collections the CMS should be able to edit
           - {label: HeadingText, name: heading, widget: string}
           - {label: Image, name: image, widget: image, required: true}
           - {label: HeaderButton, name: headerbutton, widget: object, fields: [
-           {label: Text, name: text, widget: string},
-           {label: Url, name: url, widget: string}
-          ]}
+              {label: Text, name: text, widget: string},
+              {label: Url, name: url, widget: string}
+            ]}
           - {label: SubHeader, name: subheading, widget: string}
           - {label: Big Message, name: bigheadermessage, widget: string}
           - {label: HeroBanner, name: herobanner, widget: object, fields: [{label: Title, name: title, widget: string},{label: First paragraph(no hidde), name: first, widget: text},{label: Content, name: paragraph, widget: text},{label: SignatureName, name: signaturename, widget: string},{label: SignaturePosition, name: signatureposition, widget: string}
           ]}
-
+      - file: "site/content/hotels-test.md"
+        label: "Hotels List"
+        name: "hotels-list"
+        fields:
+          - {label: type, name: type, widget: hidden, default: hotels}
+          - {label: page, name: page, widget: hidden, default: "/hotels-test.html"}
+          - {label: title, name: title, widget: string}
+          - {label: subtitle, name: subtitle, widget: string}
+          - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
+          - {label: Image, name: image, widget: image, required: true}
+          - {label: Hotels, name: hotels, widget: list, fields: [
+              {label: Name, name: name, widget: string}, 
+              {label: Open, name: open, widget: boolean}, 
+              {label: Opening Date, name: date, widget: string}, 
+              {label: Phone(s), name: phone, widget: string}
+            ]}

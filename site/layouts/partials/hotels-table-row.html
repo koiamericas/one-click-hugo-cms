@@ -1,0 +1,36 @@
+
+<div class="" style="margin-top: 25px;">
+
+	<div class="">
+
+		{{.name}}
+
+	</div>
+
+	<div class="">
+			
+		{{ if .open }}
+		
+			Open
+
+		{{ else }}
+
+			Closed
+
+		{{ end }}
+
+	</div>
+
+	<div class="">
+
+		{{ .Date.Format "2006-01-02" }}
+
+	</div>
+
+	<div class="">
+
+		{{.phone}}
+
+	</div>
+
+</div>
