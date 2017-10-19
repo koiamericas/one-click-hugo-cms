@@ -1,13 +1,20 @@
+{{ if .open }}
 
-<div class="" style="margin-top: 25px;">
+	<div class="hotel-row open">
 
-	<div class="">
+{{ else }}
+
+	<div class="hotel-row closed">
+
+{{ end }}
+
+	<div class="name">
 
 		{{.name}}
 
 	</div>
 
-	<div class="">
+	<div class="status">
 			
 		{{ if .open }}
 		
@@ -21,13 +28,13 @@
 
 	</div>
 
-	<div class="">
+	<div class="date">
 
-		{{ .Date.Format "2006-01-02" }}
+		{{ .date }}
 
 	</div>
 
-	<div class="">
+	<div class="phone">
 
 		{{.phone}}
 
