@@ -97,7 +97,7 @@ The following hotels are open and most are accepting future reservations:
 * Sheraton Puerto Rico Hotel & Casino, San Juan
 * The Gallery Inn, San Juan	
 
-**Here is some contact information that may prove useful: **
+**Here is some contact information that may prove useful:**
 
 * Hilton Hotels | [1-800-445-8667](tel:+18004458667) | <a target="_blank" style="color: red !important;" href="http://www3.hilton.com/">hilton.com </a>
 * Marriott Hotels | [1-800-721-7033](tel:+18007217033) | <a target="_blank" style="color: red !important;" href="https://www.marriott.com">marriott.com</a>
