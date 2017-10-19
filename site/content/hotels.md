@@ -3,7 +3,7 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-19T16:58:00-04:00
+date: 2017-10-19T20:58:00.000Z
 image: /img/slider_hotel.png
 ---
 The following hotels are open and most are accepting future reservations:
@@ -95,7 +95,8 @@ The following hotels are open and most are accepting future reservations:
 * Sandy Beach, San Juan
 * Sheraton Old San Juan, San Juan
 * Sheraton Puerto Rico Hotel & Casino, San Juan
-* The Gallery Inn, San Juan		
+* The Gallery Inn, San Juan
+  		
 
 ** Here is some contact information that may prove useful: **
 
