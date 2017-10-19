@@ -17,7 +17,7 @@ hotels:
   - name: Hotel Cinco Estrellas
     open: true
     date: 10/12/17
-    phone: 787-787-2222
+    phone: 787-787-2222 / 787-878-2222
   - name: Hotel Increíble
     open: true
     date: 09/28/17
@@ -25,7 +25,7 @@ hotels:
   - name: White Line
     open: true
     date: 10/03/17
-    phone: 787-787-4444
+    phone: 787-787-4444 / 787-919-1234 / 787-555-9876
   - name: Hotel Maravilloso
     open: false
     date: 02/05/18
