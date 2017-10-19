@@ -3,106 +3,99 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-18T22:20:00-04:00
+date: 2017-10-19T16:58:00-04:00
 image: /img/slider_hotel.png
 ---
 The following hotels are open and most are accepting future reservations:
 
-* Parador Villas Sotomayor, Adjuntas
-* Courtyard by Marriott Aguadilla, Aguadilla
-* Hotel Cielo Mar, Aguadilla
-* Parador El Faro, Aguadilla
-* Hyatt Place Bayamón Hotel & Tropical Casino, Bayamón
-* San Miguel Plaza Hotel, Bayamón
-* Cofresí Beach Hotel, Cabo Rojo
+* AC Hotel San Juan Condado, San Juan
+* Acacia Seaside Inn, San Juan
 * Aquarius Vacation Club @Boquerón Beach Resort, Cabo Rojo
-* Boquemar Beach Hotel, Cabo Rojo	
-* Parador Boquemar, Cabo Rojo
-* Parador Combate Beach, Cabo Rojo
-* Four Points by Sheraton At Caguas Real Hotel & Casino, Caguas
-* Azul ESJ Collection, Carolina	
-* Courtyard by Marriott Isla Verde Beach Hotel, Carolina
-* Embassy Suites Hotel & Casino, Carolina
-* Hampton Inn & Suites by Hilton, Carolina
-* Hotel InterContinental San Juan, Carolina
-* Hotel La Playa, Carolina
-* San Juan Airport Hotel, Carolina
-* San Juan Water & Beach Club Hotel, Carolina
-* The Ritz-Carlton San Juan Hotel, Carolina
-* Verdanza Hotel, Carolina
-* Villa del Sol, Carolina
-* Dorado Beach Hotel- Plantation Village, Dorado
 * Aquarius Vacation Club Golden Sand Villas, Dorado
-* Embassy Suites Dorado del Mar Beach & Golf Resort, Dorado
-* Copamarina Resort & Spa, Guánica
-* Costa Bahía Hotel & Convention Center, Guayanilla
-* Parador El Buen Café, Hatillo 	
-* Royal Isabela, Isabela
-* Estancia La Jamaca, Lajas
-* Parador Turtle Bay Inn, Lajas
-* Parador Villa Parguera , Lajas	
-* Luquillo Sunrise Beach Inn, Luquillo
-* Hyatt Place Manatí Hotel, Manatí
-* Parador Mauna Caribe, Maunabo
-* Hotel Colonial, Mayagüez
-* Howard Johnson Downtown Mayagüez, Mayagüez
-* Mayagüez Holiday Inn Tropical Casino, Mayagüez
-* Mayagüez Resort & Casino, Mayagüez
-* Hilton Ponce Golf & Casino Resort, Ponce
-* Holiday Inn Ponce & Tropical Casino, Ponce
-* Hotel Meliá Ponce, Ponce
-* Howard Johnson Hotel Ponce, Ponce
-* Ponce Plaza Hotel & Casino, Ponce
+* At Wind Chimes Inn, San Juan
+* Azul ESJ Collection, Carolina
 * Beside the Pointe on the Beach, Rincón
-* Rincón of the Seas Grand Caribbean Hotel, Rincón
-* The Lazy Parrot Inn & Restaurant, Rincón
-* Villa Cofresí Hotel & Restaurant, Rincón
-* Rainforest Inn, Río Grande
-* Rincón of the Seas Grand Caribbean Hotel, Río Grande
-* Hotel St. Regis at Bahía Beach Resort, Río Grande
-* Wyndham Río Mar, Río Grande
+* Best Western Plus Condado Palm Inn & Suites, San Juan
+* Boquemar Beach Hotel, Cabo Rojo
+* Caribe Hilton, San Juan
+* Casa Amistad, Vieques
+* Casa Blanca Hotel, San Juan
+* Casa Condado Hotel, San Juan
 * Casa Sol Bed and Breakfast, San Juan
 * Ciqala Luxury Home Suites, San Juan
-* AC Hotel San Juan Condado, San Juan
-* Acacia Seaside Inn, San Juan	
-* At Wind Chimes Inn, San Juan
-* Best Western Plus Condado Palm Inn & Suites, San Juan
-* Casa Blanca Hotel, San Juan	
-* Casa Condado Hotel, San Juan
+* Cofresí Beach Hotel, Cabo Rojo
+* Comfort Inn & Suites- Campomar, Toa Baja
 * Comfort Inn San Juan, San Juan
+* Condado Plaza Hilton, San Juan
 * Condado Vanderbilt Hotel, San Juan
-* Coral Princess Inn, San Juan	
+* Copamarina Resort & Spa, Guánica
+* Coral Princess Inn, San Juan
+* Costa Bahía Hotel & Convention Center, Guayanilla
+* Courtyard by Marriott Aguadilla, Aguadilla
+* Courtyard by Marriott Isla Verde Beach Hotel, Carolina
 * Courtyard by Marriott San Juan Miramar, San Juan
-* Double Tree by Hilton San Juan, San Juan
+* Dorado Beach Hotel- Plantation Village, Dorado
+* DoubleTree by Hilton San Juan, San Juan
 * Dream Inn Puerto Rico, San Juan
-* Dream's Hotel, San Juan	
-* El Canario Inn, San Juan	
-* Holiday Inn Express San Juan, San Juan	
-* Hotel El Convento, San Juan	
-* Howard Johnson Centro Cardiovascular, San Juan	
-* Hyatt House, San Juan	
+* Dream’s Hotel, San Juan
+* El Blok, Vieques
+* El Canario Inn, San Juan
+* El Conquistador Resort, A Waldorf Astoria Resort, Fajardo
+* Embassy Suites by Hilton Dorado del Mar Beach & Golf Resort, Dorado
+* Embassy Suites by Hilton San Juan Hotel & Casino, Carolina
+* Four Points by Sheraton At Caguas Real Hotel & Casino, Caguas
+* Hacienda El Jibarito, San Sebastián
+* Hacienda Tamarindo, Vieques
+* Hampton Inn & Suites, Carolina
+* Hilton Ponce Golf & Casino Resort, Ponce
+* Holiday Inn Express San Juan, San Juan
+* Holiday Inn Ponce & Tropical Casino, Ponce
+* Hotel Cielo Mar, Aguadilla
+* Hotel Colonial, Mayagüez
+* Hotel El Convento, San Juan
+* Hotel InterContinental San Juan, Carolina
+* Hotel La Playa, Carolina
+* Hotel Meliá Ponce, Ponce
+* Hotel St. Regis at Bahía Beach Resort, Río Grande
+* Howard Johnson Centro Cardiovascular, San Juan
+* Howard Johnson Downtown Mayagüez, Mayagüez
+* Howard Johnson Hotel Ponce, Ponce
+* Hyatt House, San Juan
+* Hyatt Place Bayamón Hotel & Tropical Casino, Bayamón
+* Hyatt Place Manatí Hotel, Manatí
 * Hyatt Place San Juan City Center, San Juan
 * La Concha A Renaissance Resort, San Juan
-* La Terraza de San Juan, San Juan	
+* La Jamaca Hotel and Restaurant, Lajas
+* La Terraza de San Juan, San Juan
+* Lazy Hostel, Vieques
+* Lucía Beach LLC, Yabucoa
+* Luquillo Sunrise Beach Inn, Luquillo
+* Mayagüez Holiday Inn Tropical Casino, Mayagüez
+* Mayagüez Resort & Casino, Mayagüez
 * Olive Boutique Hotel, San Juan
-* San Juan Marriott Resort & Stellaris Casino, San Juan	
-* Sandy Beach, San Juan	
-* Sheraton Old San Juan, San Juan	
-* Sheraton Puerto Rico Hotel & Casino, San Juan
-* The Wave Hotel, San Juan	
-* Tres Palmas Inn, San Juan
-* The Gallery Inn, San Juan
-* Hacienda El Jibarito, San Sebastián
+* Parador Boquemar, Cabo Rojo
+* Parador Combate Beach, Cabo Rojo
+* Parador El Buen Café, Hatillo
+* Parador El Faro, Aguadilla
+* Parador Mauna Caribe, Maunabo
+* Parador Palmas De Lucía, Yabucoa
+* Parador Turtle Bay Inn, Lajas
+* Parador Villa Parguera , Lajas
+* Parador Villas Sotomayor, Adjuntas
+* Ponce Plaza Hotel & Casino, Ponce
+* Rainforest Inn, Río Grande
+* Rincón of the Seas Grand Caribbean Hotel, Rincón
+* Rincón of the Seas Grand Caribbean Hotel, Río Grande
+* Royal Isabela, Isabela
+* San Juan Airport Hotel, Carolina
+* San Juan Marriott Resort & Stellaris Casino, San Juan
+* San Juan Water & Beach Club Hotel, Carolina
+* San Miguel Plaza Hotel, Bayamón
 * San Sebastián Bed & Breakfast, San Sebastián
-* Comfort Inn & Suites- Campomar, Toa Baja
-* Casa Amistad, Vieques
-* Hacienda Tamarindo, Vieques
-* The Wave, Vieques	
-* El Blok, Vieques	
-* Tropical Guest House, Vieques
-* Lucía Beach LLC, Yabucoa	
-* Parador Palmas De Lucía, Yabucoa	
-* Lazy Hostel		
+* Sandy Beach, San Juan
+* Sheraton Old San Juan, San Juan
+* Sheraton Puerto Rico Hotel & Casino, San Juan
+* The Gallery Inn, San Juan		
 
 ** Here is some contact information that may prove useful: **
 
