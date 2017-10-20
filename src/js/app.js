@@ -172,3 +172,36 @@ if (filters.length > 0) {
   };
 
 };
+
+/*
+-------------------------------------------------------------------------------
+Hotels table show more on mobile
+-------------------------------------------------------------------------------
+*/
+
+var moreInfoButton = document.getElementsByClassName("view-info");
+
+if (moreInfoButton.length > 0) {
+
+  var showMoreInfoOnTable = function() {
+    var info = this.nextElementSibling;
+    if (this.classList.contains("down")) {
+      this.classList.remove("down");
+      this.classList.add("up");
+      if (info.classList.contains("collapsed")) {
+        info.classList.remove("collapsed");
+      };
+    } else {
+      this.classList.remove("up");
+      this.classList.add("down");
+      if (!info.classList.contains("collapsed")) {
+        info.classList.add("collapsed");
+      };
+    };
+  };
+
+  for (var i = 0; i < moreInfoButton.length; i++) {
+    moreInfoButton[i].addEventListener('click', showMoreInfoOnTable, false);
+  };
+
+}
