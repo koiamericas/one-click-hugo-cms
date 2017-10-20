@@ -3,75 +3,82 @@ type: internal
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-19T20:58:00.000Z
+date: 2017-10-20T09:27:00-04:00
 image: /img/slider_hotel.png
 ---
-The following hotels are open and most are accepting future reservations:
+The following hotels are open and most are accepting reservations:
 
-* AC Hotel San Juan Condado, San Juan
+* AC Hotel San Juan Condado
 * Acacia Seaside Inn, San Juan
-* Aquarius Vacation Club @Boquerón Beach Resort, Cabo Rojo
+* Aquarius Vacation Club Boquerón Beach Resort, Cabo Rojo
 * Aquarius Vacation Club Golden Sand Villas, Dorado
 * At Wind Chimes Inn, San Juan
 * Azul ESJ Collection, Carolina
 * Beside the Pointe on the Beach, Rincón
-* Best Western Plus Condado Palm Inn & Suites, San Juan
+* Best Western Plus Condado Palm Inn & Suites
 * Boquemar Beach Hotel, Cabo Rojo
+* Borinquen Beach Inn
 * Caribe Hilton, San Juan
 * Casa Amistad, Vieques
 * Casa Blanca Hotel, San Juan
-* Casa Condado Hotel, San Juan
+* Casa Condado Hotel
 * Casa Sol Bed and Breakfast, San Juan
+* Casa de Tortuga, Vieques
 * Ciqala Luxury Home Suites, San Juan
 * Cofresí Beach Hotel, Cabo Rojo
-* Comfort Inn & Suites- Campomar, Toa Baja
-* Comfort Inn San Juan, San Juan
-* Condado Plaza Hilton, San Juan
-* Condado Vanderbilt Hotel, San Juan
+* Comfort Inn & Suites Campomar, Toa Baja
+* Comfort Inn San Juan
+* Condado Vanderbilt Hotel
 * Copamarina Resort & Spa, Guánica
 * Coral Princess Inn, San Juan
 * Costa Bahía Hotel & Convention Center, Guayanilla
-* Courtyard by Marriott Aguadilla, Aguadilla
-* Courtyard by Marriott Isla Verde Beach Hotel, Carolina
-* Courtyard by Marriott San Juan Miramar, San Juan
-* Dorado Beach Hotel- Plantation Village, Dorado
-* DoubleTree by Hilton San Juan, San Juan
+* Courtyard by Marriott Aguadilla
+* Courtyard by Marriott Isla Verde Beach Hotel
+* Courtyard by Marriott San Juan Miramar
+* Dorado Beach Hotel Plantation Village
+* DoubleTree by Hilton San Juan
 * Dream Inn Puerto Rico, San Juan
 * Dream’s Hotel, San Juan
-* El Blok, Vieques
+* El Canario by the Lagoon, San Juan
 * El Canario Inn, San Juan
 * El Conquistador Resort, A Waldorf Astoria Resort, Fajardo
-* Embassy Suites by Hilton Dorado del Mar Beach & Golf Resort, Dorado
-* Embassy Suites by Hilton San Juan Hotel & Casino, Carolina
-* Four Points by Sheraton At Caguas Real Hotel & Casino, Caguas
+* Embassy Suites by Hilton Dorado del Mar Beach & Golf Resort
+* Embassy Suites by Hilton San Juan Hotel & Casino
+* Four Points by Sheraton At Caguas Real Hotel & Casino
 * Hacienda El Jibarito, San Sebastián
 * Hacienda Tamarindo, Vieques
 * Hampton Inn & Suites, Carolina
-* Hilton Ponce Golf & Casino Resort, Ponce
+* Hilton Ponce Golf & Casino Resort
 * Holiday Inn Express San Juan, San Juan
-* Holiday Inn Ponce & Tropical Casino, Ponce
+* Holiday Inn Ponce & Tropical Casino
+* Hostería del Mar, San Juan
+* Hotel Bélgica, Ponce
 * Hotel Cielo Mar, Aguadilla
 * Hotel Colonial, Mayagüez
 * Hotel El Convento, San Juan
-* Hotel InterContinental San Juan, Carolina
+* Hotel El Guajataca, Quebradillas
+* Hotel Fajardo Inn
+* Hotel InterContinental San Juan
 * Hotel La Playa, Carolina
-* Hotel Meliá Ponce, Ponce
+* Hotel Lucía Beach, Yabucoa
+* Hotel Meliá Ponce
+* Hotel Miramar
 * Hotel St. Regis at Bahía Beach Resort, Río Grande
+* Hotel Villa Forín, Aguadilla
 * Howard Johnson Centro Cardiovascular, San Juan
-* Howard Johnson Downtown Mayagüez, Mayagüez
-* Howard Johnson Hotel Ponce, Ponce
+* Howard Johnson Downtown Mayagüez
+* Howard Johnson Hotel Ponce
 * Hyatt House, San Juan
-* Hyatt Place Bayamón Hotel & Tropical Casino, Bayamón
-* Hyatt Place Manatí Hotel, Manatí
-* Hyatt Place San Juan City Center, San Juan
-* La Concha A Renaissance Resort, San Juan
+* Hyatt Place Bayamón Hotel & Tropical Casino
+* Hyatt Place Manatí Hotel
+* Hyatt Place San Juan City Center
+* La Concha a Renaissance Resort, San Juan
 * La Jamaca Hotel and Restaurant, Lajas
-* La Terraza de San Juan, San Juan
-* Lazy Hostel, Vieques
+* La Terraza de San Juan
 * Lucía Beach LLC, Yabucoa
-* Luquillo Sunrise Beach Inn, Luquillo
-* Mayagüez Holiday Inn Tropical Casino, Mayagüez
-* Mayagüez Resort & Casino, Mayagüez
+* Luquillo Sunrise Beach Inn
+* Mayagüez Holiday Inn Tropical Casino
+* Mayagüez Resort & Casino
 * Olive Boutique Hotel, San Juan
 * Parador Boquemar, Cabo Rojo
 * Parador Combate Beach, Cabo Rojo
@@ -80,26 +87,31 @@ The following hotels are open and most are accepting future reservations:
 * Parador Mauna Caribe, Maunabo
 * Parador Palmas De Lucía, Yabucoa
 * Parador Turtle Bay Inn, Lajas
-* Parador Villa Parguera , Lajas
+* Parador Villa Parguera, Lajas
 * Parador Villas Sotomayor, Adjuntas
-* Ponce Plaza Hotel & Casino, Ponce
+* Parador Yunque Mar, Luquillo
+* Ponce Plaza Hotel & Casino
+* Punta Maracayo Resort, Hatillo
 * Rainforest Inn, Río Grande
 * Rincón of the Seas Grand Caribbean Hotel, Rincón
-* Rincón of the Seas Grand Caribbean Hotel, Río Grande
-* Royal Isabela, Isabela
-* San Juan Airport Hotel, Carolina
-* San Juan Marriott Resort & Stellaris Casino, San Juan
-* San Juan Water & Beach Club Hotel, Carolina
+* Royal Isabela
+* San Juan Airport Hotel
+* San Juan Marriott Resort & Stellaris Casino
+* San Juan Water & Beach Club Hotel
 * San Miguel Plaza Hotel, Bayamón
-* San Sebastián Bed & Breakfast, San Sebastián
-* Sandy Beach, San Juan
-* Sheraton Old San Juan, San Juan
+* San Sebastián Bed & Breakfast
+* Sandy Beach Hotel, San Juan
+* Sheraton Old San Juan
 * Sheraton Puerto Rico Hotel & Casino, San Juan
-* The Gallery Inn, San Juan	
-
-**Here is some contact information that may prove useful:**
-
-* Hilton Hotels | [1-800-445-8667](tel:+18004458667) | <a target="_blank" style="color: red !important;" href="http://www3.hilton.com/">hilton.com </a>
-* Marriott Hotels | [1-800-721-7033](tel:+18007217033) | <a target="_blank" style="color: red !important;" href="https://www.marriott.com">marriott.com</a>
-* Hyatt Hotels | [1-800-323-7249](tel:+18003237249) | <a target="_blank" style="color: red !important;" href="https://www.hyatt.com/">hyatt.com</a>
-* Wyndham Hotels | [1-800-466-1589](tel:+18004661589) | <a target="_blank" style="color: red !important;" href="https://www.wyndhamhotels.com/">wyndhamhotels.com </a>
+* The Condado Paza Hilton
+* The Gallery Inn, San Juan
+* The Lazy Parrot Inn & Restaurant, Rincón
+* The Ritz-Carlton San Juan Hotel
+* The Wave Hotel, San Juan
+* Tres Palmas Inn, San Juan
+* Tryp by Wyndham, Carolina
+* Verdanza Hotel, Carolina
+* Villa Cofresí Hotel & Restaurant, Rincón
+* Villa del Sol, Carolina
+* Villa Verde Inn, Carolina
+* Wyndham Río Mar, Río Grande
