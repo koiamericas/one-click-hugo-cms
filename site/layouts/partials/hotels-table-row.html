@@ -1,10 +1,10 @@
 {{ if .open }}
 
-	<div class="hotel-row open">
+	<div class="hotel-row listed open">
 
 {{ else }}
 
-	<div class="hotel-row closed">
+	<div class="hotel-row listed closed">
 
 {{ end }}
 
@@ -34,7 +34,7 @@
 
 	</div>
 
-	<div class="phone">
+	<div class="phone hidden">
 
 		{{.phone}}
 
@@ -50,7 +50,7 @@
 	
 		</div>
 	
-		<div class="phone">
+		<div class="phone hidden">
 	
 			{{.phone}}
 	
