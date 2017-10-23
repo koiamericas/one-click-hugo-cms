@@ -139,7 +139,7 @@ if (filters.length > 0) {
 
     var value = this.innerText;
 
-    var tableRows = document.getElementsByClassName("hotel-row");
+    var tableRows = document.getElementsByClassName("hotel-row listed");
 
     for (var j = 0; j < tableRows.length; j++) {
       
