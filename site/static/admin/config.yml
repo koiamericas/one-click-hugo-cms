@@ -19,17 +19,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
           - {label: Image, name: image, widget: image, required: true}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/hotels.md"
-        label: "Hotels Page"
-        name: "hotels"
-        fields: # The fields each document in this collection have
-          - {label: type, name: type, widget: hidden, default: internal}
-          - {label: page, name: page, widget: hidden, default: "/hotels.html"}
-          - {label: title, name: title, widget: string}
-          - {label: subtitle, name: subtitle, widget: string}
-          - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma" }
-          - {label: Image, name: image, widget: image, required: true}
-          - {label: Body, name: body, widget: markdown}
       - file: "site/content/airports.md"
         label: "Airports Page"
         name: "airports"
@@ -58,12 +47,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Big Message, name: bigheadermessage, widget: string}
           - {label: HeroBanner, name: herobanner, widget: object, fields: [{label: Title, name: title, widget: string},{label: First paragraph(no hidde), name: first, widget: text},{label: Content, name: paragraph, widget: text},{label: SignatureName, name: signaturename, widget: string},{label: SignaturePosition, name: signatureposition, widget: string}
           ]}
-      - file: "site/content/hotels-test.md"
-        label: "Hotels List"
-        name: "hotels-list"
+      - file: "site/content/hotels.md"
+        label: "Hotels"
+        name: "hotels"
         fields:
           - {label: type, name: type, widget: hidden, default: hotels}
-          - {label: page, name: page, widget: hidden, default: "/hotels-test.html"}
+          - {label: page, name: page, widget: hidden, default: "/hotels.html"}
           - {label: title, name: title, widget: string}
           - {label: subtitle, name: subtitle, widget: string}
           - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
