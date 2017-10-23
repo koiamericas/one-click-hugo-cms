@@ -3,8 +3,7 @@ type: hotels
 page: /hotels-test.html
 title: Hotels
 subtitle: >-
-  Here is the operating status of over 100 hotels in Puerto Rico, including the
-  date by which they're accepting reservations
+  Explore available accommodations.
 date: 2017-10-23T19:30:00.000Z
 image: /img/slider_hotel.png
 hotels:
