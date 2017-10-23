@@ -153,121 +153,193 @@ hotels:
   - name: Hotel Melia Ponce
     open: true
   - name: Hotel Milano
+    date: 'Pending'
   - name: Hotel Miramar
+    date: 'Booking'
     open: true
   - name: Hotel Ocean Front
+    date: 'Pending'
   - name: Hotel Olimpo Court
+    date: 'Pending'
   - name: Hotel St. Regis at Bahia Beach Resort
+    date: 'Pending'
     open: true
   - name: Hotel Villa Forín
+    date: 'Booking'
     open: true
   - name: Hotel Villa Herencia
-  - name: Howard Johnson Centro Cardiovsacular
+    date: 'Pending'
+  - name: Howard Johnson Centro Cardiovascular
+    date: 'Booking'
     open: true
   - name: Howard Johnson Hotel Ponce
+    date: '01-Feb-18'
     open: true
   - name: Howard Johnson Inn Downtown Mayagüez
+    date: 'Booking'
     open: true
   - name: Hyatt Hacienda del Mar
+    date: 'Booking'
     open: true
   - name: Hyatt House San Juan
+    date: 'Booking'
     open: true
   - name: Hyatt Place Bayamon Hotel & Tropical Casino
+    date: 'Booking'
     open: true
   - name: Hyatt Place Manatí Hotel
+    date: 'Booking'
     open: true
   - name: Hyatt Place San Juan City Center
+    date: 'Booking'
     open: true
   - name: 'La Concha, A Renaissance Resort'
-    open: true
-  - name: 'La Concha, A Renaissance Resort'
+    date: '01-Nov-17'
     open: true
   - name: La Terraza de San Juan
+    date: 'Booking'
     open: true
   - name: Le Consulat
+    date: 'Booking'
     open: true
   - name: Lucía Beach
+    date: 'Booking'
     open: true
   - name: Luquillo Sunrise Beach Inn
+    date: 'Booking'
     open: true
-  - name: Malecón Hous
+  - name: Malecón House
+    date: 'Pending'
     open: false
   - name: Mayagüez Resort & Casino
+    date: 'Booking'
     open: true
   - name: Número 1 on the Beach
+    date: '01-Nov-17'
   - name: Olive Boutique Hotel
+    date: 'Booking'
     open: true
   - name: Paradise Guest House
+    date: 'Pending'
   - name: Parador Boquemar
+    date: 'Booking'
     open: true
   - name: Parador Costa del Mar
+    date: 'Pending'
   - name: Parador El Buen Café
+    date: 'Booking'
     open: true
+  - name: Parador El Faro
+    open: true
+    date: 'Booking'
   - name: Parador Guánica 1929
+    date: 'Pending'
   - name: Parador Mauna Caribe
+    date: 'Booking'
     open: true
   - name: Parador Palmas De Lucía
+    date: 'Booking'
     open: true
   - name: Parador Turtle Bay Inn
+    date: 'Booking'
     open: true
   - name: Parador Villa Parguera
+    date: 'Booking'
     open: true
   - name: Parador Villas Del Mar Hau
+    date: 'Pending'
   - name: Parador Villas Sotomayor
+    date: 'Booking'
     open: true
   - name: Parador Yunque Mar
+    date: 'Booking'
     open: true
   - name: Plaza de Armas Hotel
+    date: 'Pending'
   - name: Ponce Plaza Hotel & Casino
+    date: 'Booking'
+  - name: Posada Qué Chévere
+    date: 'Pending'
+    open: false
+  - name: Punta Maracayo Resort
+    date: 'Booking'
+    open: true  
   - name: Rainforest Inn
+    date: 'Booking'
     open: true
   - name: Rincón Beach Hotel
+    date: 'Pending'
   - name: Rincón of the Seas Grand Caribbean Hotel
+    date: 'Booking'
     open: true
   - name: Royal Isabela
+    date: 'Booking'
     open: true
   - name: San Juan Airport Hotel
+    date: 'Booking'
     open: true
   - name: San Juan Marriott Resort & Stellaris Casino
+    date: '01-Nov-17'
     open: true
   - name: San Juan Water & Beach Club Hotel
+    date: '31-Oct-17'
     open: true
   - name: San Miguel Plaza Hotel
+    date: 'Booking'
     open: true
   - name: San Sebastián Bed & Breakfast
+    date: 'Booking'
     open: true
   - name: Sandy Beach
+    date: 'Booking'
     open: true
   - name: Sheraton Old San Juan
+    date: '01-Dec-17'
     open: true
   - name: Sheraton Puerto Rico Hotel & Casino
+    date: '09-Jan-18'
     open: true
   - name: The Condado Plaza Hilton
+    date: '31-Dec-17'
     open: true
   - name: The Gallery Inn
+    date: 'Booking'
     open: true
   - name: The Lazy Parrot Inn & Restaurant
+    date: 'Booking'
     open: true
   - name: The Ritz-Carlton San Juan Hotel
+    date: 'Pending'
     open: true
   - name: The Wave Hotel
+    date: 'Booking'
     open: true
   - name: Tres Palmas Inn
+    date: 'Booking'
     open: true
   - name: Tryp by Wyndham
+    date: 'Booking'
     open: true
   - name: Verdanza Hotel
+    date: 'Booking'
     open: true
   - name: Villa Coral Guest House
+    date: 'Pending'
   - name: Villa del Sol
+    date: 'Booking'
     open: true
   - name: Villa Montaña Beach Resort
+    date: '15-Dec-17'
   - name: Villa Verde Inn
+    date: 'Booking'
     open: true
   - name: W Retreat & Spa Vieques
+    date: 'Pending'
   - name: Western Bay Boquerón Beach Hotel
+    date: 'Pending'
   - name: Wyndham Garden at Palmas del Mar
+    date: 'Pending'
   - name: Wyndham Rio Mar
     open: true
+    date: '18-Oct-17'
 ---
-
