@@ -47,7 +47,7 @@ hotels:
   - date: Booking
     name: Borinquen Beach Inn
     open: true
-  - date: 31-Dic-17
+  - date: 31-Dec-17
     name: Caribe Hilton
     open: true
   - date: Booking
@@ -146,13 +146,13 @@ hotels:
   - date: 01-Apr-2018
     name: 'El Conquistador, A Waldorf Astoria Resort'
     open: true
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: 'El Conquistador, Las Casitas'
   - date: 31-Jan-2018
     name: 'El San Juan Hotel, Curio Collection by Hilton'
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: Embassy Suites Dorado del Mar Beach & Golf Resort
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: Embassy Suites San Juan Hotel & Casino
     open: true
   - date: Booking
@@ -167,10 +167,10 @@ hotels:
   - date: Booking
     name: Hacienda Tamarindo
     open: true
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: Hampton Inn & Suites by Hilton
     open: true
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: Hilton Ponce Golf & Casino Resort
     open: true
   - date: Pending
@@ -208,7 +208,7 @@ hotels:
     name: Hotel Gran Melia Coco Beach
   - date: Pending
     name: Hotel Iberia
-  - date: 31-Dic-2017
+  - date: 31-Dec-2017
     name: Hotel InterContinental San Juan
     open: true
   - name: Hotel Milano
