@@ -219,6 +219,55 @@ hotels:
     open: true
   - name: Plaza de Armas Hotel
   - name: Ponce Plaza Hotel & Casino
-  - {}
+  - name: Rainforest Inn
+    open: true
+  - name: Rincón Beach Hotel
+  - name: Rincón of the Seas Grand Caribbean Hotel
+    open: true
+  - name: Royal Isabela
+    open: true
+  - name: San Juan Airport Hotel
+    open: true
+  - name: San Juan Marriott Resort & Stellaris Casino
+    open: true
+  - name: San Juan Water & Beach Club Hotel
+    open: true
+  - name: San Miguel Plaza Hotel
+    open: true
+  - name: San Sebastián Bed & Breakfast
+    open: true
+  - name: Sandy Beach
+    open: true
+  - name: Sheraton Old San Juan
+    open: true
+  - name: Sheraton Puerto Rico Hotel & Casino
+    open: true
+  - name: The Condado Plaza Hilton
+    open: true
+  - name: The Gallery Inn
+    open: true
+  - name: The Lazy Parrot Inn & Restaurant
+    open: true
+  - name: The Ritz-Carlton San Juan Hotel
+    open: true
+  - name: The Wave Hotel
+    open: true
+  - name: Tres Palmas Inn
+    open: true
+  - name: Tryp by Wyndham
+    open: true
+  - name: Verdanza Hotel
+    open: true
+  - name: Villa Coral Guest House
+  - name: Villa del Sol
+    open: true
+  - name: Villa Montaña Beach Resort
+  - name: Villa Verde Inn
+    open: true
+  - name: W Retreat & Spa Vieques
+  - name: Western Bay Boquerón Beach Hotel
+  - name: Wyndham Garden at Palmas del Mar
+  - name: Wyndham Rio Mar
+    open: true
 ---
 
