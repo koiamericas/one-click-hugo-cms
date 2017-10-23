@@ -5,7 +5,7 @@ title: Hotels
 subtitle: >-
   Here is the operating status of over 100 hotels in Puerto Rico, including the
   date by which they're accepting reservations
-date: 2017-10-23T15:30:00-04:00
+date: 2017-10-23T19:30:00.000Z
 image: /img/slider_hotel.png
 hotels:
   - date: ''
@@ -125,6 +125,58 @@ hotels:
   - name: Hampton Inn & Suites by Hilton
     open: true
   - name: Hilton Ponce Golf & Casino Resort
+    open: true
+  - name: Hix Island House
+  - name: Holiday Inn Express San Juan Condado
+    open: true
+  - name: Holiday Inn Mayagüez & Tropical Casino
+    open: true
+  - name: Holiday Inn Ponce & Tropical Casino
+    open: true
+  - name: Hostería Del Mar
+    open: true
+  - name: Hotel Bélgica
+    open: true
+  - name: Hotel Colonial
+    open: true
+  - name: Hotel Decanter
+  - name: Hotel El Convento
+    open: true
+  - name: Hotel El Guajataca
+    open: true
+  - name: Hotel Fajardo Inn
+    open: true
+  - name: Hotel Gran Melia Coco Beach
+  - name: Hotel Iberia
+  - name: Hotel InterContinental San Juan
+    open: true
+  - name: Hotel Melia Ponce
+    open: true
+  - name: Hotel Milano
+  - name: Hotel Miramar
+    open: true
+  - name: Hotel Ocean Front
+  - name: Hotel Olimpo Court
+  - name: Hotel St. Regis at Bahia Beach Resort
+    open: true
+  - name: Hotel Villa Forín
+    open: true
+  - name: Hotel Villa Herencia
+  - name: Howard Johnson Centro Cardiovsacular
+    open: true
+  - name: Howard Johnson Hotel Ponce
+    open: true
+  - name: Howard Johnson Inn Downtown Mayagüez
+    open: true
+  - name: Hyatt Hacienda del Mar
+    open: true
+  - name: Hyatt House San Juan
+    open: true
+  - name: Hyatt Place Bayamon Hotel & Tropical Casino
+    open: true
+  - name: Hyatt Place Manatí Hotel
+    open: true
+  - name: Hyatt Place San Juan City Center
     open: true
 ---
 
