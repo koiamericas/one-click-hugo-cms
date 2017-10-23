@@ -178,5 +178,47 @@ hotels:
     open: true
   - name: Hyatt Place San Juan City Center
     open: true
+  - name: 'La Concha, A Renaissance Resort'
+    open: true
+  - name: 'La Concha, A Renaissance Resort'
+    open: true
+  - name: La Terraza de San Juan
+    open: true
+  - name: Le Consulat
+    open: true
+  - name: Lucía Beach
+    open: true
+  - name: Luquillo Sunrise Beach Inn
+    open: true
+  - name: Malecón Hous
+    open: false
+  - name: Mayagüez Resort & Casino
+    open: true
+  - name: Número 1 on the Beach
+  - name: Olive Boutique Hotel
+    open: true
+  - name: Paradise Guest House
+  - name: Parador Boquemar
+    open: true
+  - name: Parador Costa del Mar
+  - name: Parador El Buen Café
+    open: true
+  - name: Parador Guánica 1929
+  - name: Parador Mauna Caribe
+    open: true
+  - name: Parador Palmas De Lucía
+    open: true
+  - name: Parador Turtle Bay Inn
+    open: true
+  - name: Parador Villa Parguera
+    open: true
+  - name: Parador Villas Del Mar Hau
+  - name: Parador Villas Sotomayor
+    open: true
+  - name: Parador Yunque Mar
+    open: true
+  - name: Plaza de Armas Hotel
+  - name: Ponce Plaza Hotel & Casino
+  - {}
 ---
 
