@@ -8,149 +8,208 @@ subtitle: >-
 date: 2017-10-23T19:30:00.000Z
 image: /img/slider_hotel.png
 hotels:
-  - date: ''
+  - date: Booking
     name: AC Hotel San Juan Condado
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Acacia Seaside Inn
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Aquarius Vacation Club at Boqueron Beach Resort
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Aquarius Vacation Club Golden Sand Villas
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: At Wind Chimes Inn
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Azul ESJ Collection
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Beside the Pointe on the Beach
     open: true
     phone: ''
-  - date: ''
+  - date: 15-Nov-17
     name: Best Western Plus Condado Palm Inn & Suites
     open: true
     phone: ''
-  - date: ''
+  - date: Booking
     name: Boquemar Beach Hotel
     open: true
     phone: ''
-  - name: Borinquen Beach Inn
+  - date: Booking
+    name: Borinquen Beach Inn
     open: true
-  - name: Caribe Hilton
+  - date: 31-Dic-17
+    name: Caribe Hilton
     open: true
-  - name: Casa Amistad
+  - date: Booking
+    name: Casa Amistad
     open: true
-  - name: Casa Blanca Hotel
+  - date: Booking
+    name: Casa Blanca Hotel
     open: true
-  - name: Casa Condado Hotel
+  - date: Booking
+    name: Casa Condado Hotel
     open: true
-  - name: Casa Flamboyant
+  - date: Pending
+    name: Casa Flamboyant
     open: false
-  - name: Casa Isabel Bed and Breakfast
+  - date: Pending
+    name: Casa Isabel Bed and Breakfast
     open: false
-  - name: Casa Isleña Inn
+  - date: Pending
+    name: Casa Isleña Inn
     open: false
-  - name: Casa Sol Bed and Breakfast
+  - date: Booking
+    name: Casa Sol Bed and Breakfast
     open: true
-  - name: Casa Verde Hotel
-  - name: Cielo Mar Hotel
+  - date: Pending
+    name: Casa Verde Hotel
+  - date: Booking
+    name: Cielo Mar Hotel
     open: true
-  - name: Ciqala Luxury Home Suites
+  - date: Booking
+    name: Ciqala Luxury Home Suites
     open: true
-  - name: Coconut Palms Inn
+  - date: Pending
+    name: Coconut Palms Inn
     open: false
-  - name: Cofresí Beach Hotel
+  - date: Booking
+    name: Cofresí Beach Hotel
     open: true
-  - name: Combate Beach Hotel
+  - date: Booking
+    name: Combate Beach Hotel
     open: true
-  - name: 'Comfort Inn & Suites, Campomar'
+  - date: Booking
+    name: 'Comfort Inn & Suites, Campomar'
     open: true
-  - name: Comfort Inn San Juan
+  - date: Booking
+    name: Comfort Inn San Juan
     open: true
-  - name: Condado Lagoon Villas at Caribe Hilton
-  - name: Condado Vanderbilt Hotel
+  - date: Pending
+    name: Condado Lagoon Villas at Caribe Hilton
+  - date: Booking
+    name: Condado Vanderbilt Hotel
     open: true
-  - name: Copamarina Resort & Spa
+  - date: Booking
+    name: Copamarina Resort & Spa
     open: true
-  - name: Coral by the Sea
-  - name: Coral Princess Inn
-  - name: Costa Bahía Hotel & Convention Center
+  - date: Pending
+    name: Coral by the Sea
+  - date: 1-Mar-18
+    name: Coral Princess Inn
     open: true
-  - name: Courtyard by Marriott Aguadilla
+  - date: Booking
+    name: Costa Bahía Hotel & Convention Center
     open: true
-  - name: Courtyard by Marriott Isla Verde Beach
+  - date: Booking
+    name: Courtyard by Marriott Aguadilla
     open: true
-  - name: Courtyard by Marriott San Juan Miramar
+  - date: Booking
+    name: Courtyard by Marriott Isla Verde Beach
     open: true
-  - name: Da' House Hotel
-  - name: Dorado Beach A Ritz-Carlton Reserve
-  - name: 'Dorado Beach Hotel, Plantation Village'
+  - date: Booking
+    name: Courtyard by Marriott San Juan Miramar
     open: true
-  - name: Dos Angeles del Mar Guest House
-  - name: DoubleTree by Hilton San Juan
+  - date: Pending
+    name: Da' House Hotel
+  - date: Pending
+    name: Dorado Beach A Ritz-Carlton Reserve
+  - date: 31-Oct-2017
+    name: 'Dorado Beach Hotel, Plantation Village'
     open: true
-  - name: Dream Inn Puerto Rico
+  - date: Pending
+    name: Dos Angeles del Mar Guest House
+  - date: 30-Oct-2017
+    name: DoubleTree by Hilton San Juan
     open: true
-  - name: Dream's Hotel
+  - date: Booking
+    name: Dream Inn Puerto Rico
     open: true
-  - name: El Canario By The Lagoon Hotel
+  - date: Booking
+    name: Dream's Hotel
     open: true
-  - name: El Canario Inn
+  - date: Booking
+    name: El Canario By The Lagoon Hotel
     open: true
-  - name: 'El Conquistador, A Waldorf Astoria Resort'
+  - date: Booking
+    name: El Canario Inn
     open: true
-  - name: 'El Conquistador, Las Casitas'
-  - name: 'El San Juan Hotel, Curio Collection by Hilton'
-  - name: Embassy Suites Dorado del Mar Beach & Golf Resort
-  - name: Embassy Suites San Juan Hotel & Casino
+  - date: 01-Apr-2018
+    name: 'El Conquistador, A Waldorf Astoria Resort'
     open: true
-  - name: Estancia La Jamaca
+  - date: 31-Dic-2017
+    name: 'El Conquistador, Las Casitas'
+  - date: 31-Jan-2018
+    name: 'El San Juan Hotel, Curio Collection by Hilton'
+  - date: 31-Dic-2017
+    name: Embassy Suites Dorado del Mar Beach & Golf Resort
+  - date: 31-Dic-2017
+    name: Embassy Suites San Juan Hotel & Casino
     open: true
-  - name: Four Points by Sheraton At Caguas Real
+  - date: Booking
+    name: Estancia La Jamaca
     open: true
-  - name: Hacienda El Jibarito
+  - date: Booking
+    name: Four Points by Sheraton At Caguas Real
     open: true
-  - name: Hacienda Tamarindo
+  - date: Booking
+    name: Hacienda El Jibarito
     open: true
-  - name: Hampton Inn & Suites by Hilton
+  - date: Booking
+    name: Hacienda Tamarindo
     open: true
-  - name: Hilton Ponce Golf & Casino Resort
+  - date: 31-Dic-2017
+    name: Hampton Inn & Suites by Hilton
     open: true
-  - name: Hix Island House
-  - name: Holiday Inn Express San Juan Condado
+  - date: 31-Dic-2017
+    name: Hilton Ponce Golf & Casino Resort
     open: true
-  - name: Holiday Inn Mayagüez & Tropical Casino
+  - date: Pending
+    name: Hix Island House
+  - date: Booking
+    name: Holiday Inn Express San Juan Condado
     open: true
-  - name: Holiday Inn Ponce & Tropical Casino
+  - date: Booking
+    name: Holiday Inn Mayagüez & Tropical Casino
     open: true
-  - name: Hostería Del Mar
+  - date: Booking
+    name: Holiday Inn Ponce & Tropical Casino
     open: true
-  - name: Hotel Bélgica
+  - date: Booking
+    name: Hostería Del Mar
     open: true
-  - name: Hotel Colonial
+  - date: Booking
+    name: Hotel Bélgica
     open: true
-  - name: Hotel Decanter
-  - name: Hotel El Convento
+  - date: Booking
+    name: Hotel Colonial
     open: true
-  - name: Hotel El Guajataca
+  - date: Pending
+    name: Hotel Decanter
+  - date: Booking
+    name: Hotel El Convento
     open: true
-  - name: Hotel Fajardo Inn
+  - date: Booking
+    name: Hotel El Guajataca
     open: true
-  - name: Hotel Gran Melia Coco Beach
-  - name: Hotel Iberia
-  - name: Hotel InterContinental San Juan
+  - date: Booking
+    name: Hotel Fajardo Inn
     open: true
-  - name: Hotel Melia Ponce
+  - date: Pending
+    name: Hotel Gran Melia Coco Beach
+  - date: Pending
+    name: Hotel Iberia
+  - date: 31-Dic-2017
+    name: Hotel InterContinental San Juan
     open: true
   - name: Hotel Milano
     date: 'Pending'
