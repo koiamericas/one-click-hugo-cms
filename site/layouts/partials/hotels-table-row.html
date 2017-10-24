@@ -45,9 +45,21 @@
 	<div class="more-info collapsed">
 
 		<div class="date">
+
+			{{ if eq .date "Booking" }}
+
+				<strong>Hotel is booking new reservations.</strong>
+
+			{{ else if eq .date "Pending" }}
+
+				<strong>Next reservation date is pending.</strong>
+
+			{{ else }}
+
+				<strong>Next Reservation:</strong> {{ .date }}
+
+			{{ end }}
 			
-			<strong>Next Reservation:</strong> {{ .date }}
-	
 		</div>
 	
 		<div class="phone hidden">
