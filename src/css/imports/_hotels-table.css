@@ -136,10 +136,7 @@
     border-bottom: 1px solid #E9E9E9;
 }
 
-.hotels-table-container .hotels-table .hotel-row.closed div {
-    background: #E9E9E9;
-    border-bottom: 1px solid white;
-}
+.hotels-table-container .hotels-table .hotel-row.closed div {}
 
 .hotels-table-container .hotels-table .hotel-row .name {
     display: inline-block;
@@ -289,10 +286,7 @@
         border: none;
     }
     
-    .hotels-table-container .hotels-table .hotel-row.closed div {
-        background: white;
-        border: none;
-    }
+    .hotels-table-container .hotels-table .hotel-row.closed div {}
     
     .hotels-table-container .hotels-table .hotel-row .name {
         width: calc(100% - 150px);
