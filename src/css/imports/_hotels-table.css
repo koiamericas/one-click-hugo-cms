@@ -138,6 +138,7 @@
 
 .hotels-table-container .hotels-table .hotel-row.closed div {
     background: #E9E9E9;
+    border-bottom: 1px solid white;
 }
 
 .hotels-table-container .hotels-table .hotel-row .name {
@@ -290,6 +291,7 @@
     
     .hotels-table-container .hotels-table .hotel-row.closed div {
         background: white;
+        border: none;
     }
     
     .hotels-table-container .hotels-table .hotel-row .name {
