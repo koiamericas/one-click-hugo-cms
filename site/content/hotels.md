@@ -2,9 +2,8 @@
 type: hotels
 page: /hotels.html
 title: Hotels
-subtitle: >-
-  Explore available accommodations.
-date: 2017-10-23T18:15:00.000Z
+subtitle: Explore available accommodations.
+date: 2017-10-26T13:15:00-05:00
 image: /img/slider_hotel.png
 hotels:
   - date: Booking
@@ -104,7 +103,7 @@ hotels:
     open: true
     phone: 000-000-0000
   - date: Booking
-    name: Comfort Inn & Suites, Campomar
+    name: 'Comfort Inn & Suites, Campomar'
     open: true
     phone: 000-000-0000
   - date: Booking
@@ -156,7 +155,7 @@ hotels:
     open: false
     phone: 000-000-0000
   - date: 31-Oct-17
-    name: Dorado Beach Hotel, Plantation Village
+    name: 'Dorado Beach Hotel, Plantation Village'
     open: true
     phone: 000-000-0000
   - date: Pending
@@ -184,15 +183,15 @@ hotels:
     open: true
     phone: 000-000-0000
   - date: 01-Apr-18
-    name: El Conquistador, A Waldorf Astoria Resort
+    name: 'El Conquistador, A Waldorf Astoria Resort'
     open: true
     phone: 000-000-0000
   - date: 01-Apr-18
-    name: Las Casitas Village, A Waldorf Astoria Resort
+    name: 'Las Casitas Village, A Waldorf Astoria Resort'
     open: true
     phone: 000-000-0000
   - date: 31-Jan-18
-    name: El San Juan Hotel, Curio Collection by Hilton
+    name: 'El San Juan Hotel, Curio Collection by Hilton'
     open: false
     phone: 000-000-0000
   - date: 31-Dec-17
@@ -229,8 +228,8 @@ hotels:
     phone: 000-000-0000
   - date: Pending
     name: Hix Island House
-    phone: 000-000-0000
     open: false
+    phone: 000-000-0000
   - date: Booking
     name: Holiday Inn Express San Juan Condado
     open: true
@@ -283,280 +282,281 @@ hotels:
     name: Hotel InterContinental San Juan
     open: true
     phone: 000-000-0000
-  - name: Hotel Milano
-    date: Pending
+  - date: Pending
+    name: Hotel Milano
     open: false
     phone: 000-000-0000
-  - name: Hotel Miramar
-    date: Booking
+  - date: Booking
+    name: Hotel Miramar
     open: true
     phone: 000-000-0000
-  - name: Hotel Ocean Front
-    date: Pending
+  - date: Pending
+    name: Hotel Ocean Front
     open: false
     phone: 000-000-0000
-  - name: Hotel Olimpo Court
-    date: Pending
+  - date: Pending
+    name: Hotel Olimpo Court
     open: false
     phone: 000-000-0000
-  - name: Hotel St. Regis at Bahia Beach Resort
-    date: Pending
+  - date: Pending
+    name: Hotel St. Regis at Bahia Beach Resort
     open: true
     phone: 000-000-0000
-  - name: Hotel Villa Forín
-    date: Booking
+  - date: Booking
+    name: Hotel Villa Forín
     open: true
     phone: 000-000-0000
-  - name: Hotel Villa Herencia
-    date: Pending
+  - date: Pending
+    name: Hotel Villa Herencia
     open: false
     phone: 000-000-0000
-  - name: Howard Johnson Centro Cardiovascular
-    date: Booking
+  - date: Booking
+    name: Howard Johnson Centro Cardiovascular
     open: true
     phone: 000-000-0000
-  - name: Howard Johnson Hotel Ponce
-    date: 01-Feb-18
+  - date: 01-Feb-18
+    name: Howard Johnson Hotel Ponce
     open: true
     phone: 000-000-0000
-  - name: Howard Johnson Inn Downtown Mayagüez
-    date: Booking
+  - date: Booking
+    name: Howard Johnson Inn Downtown Mayagüez
     open: true
     phone: 000-000-0000
-  - name: Hyatt Hacienda del Mar
-    date: Booking
+  - date: Booking
+    name: Hyatt Hacienda del Mar
     open: true
     phone: 000-000-0000
-  - name: Hyatt House San Juan
-    date: Booking
+  - date: Booking
+    name: Hyatt House San Juan
     open: true
     phone: 000-000-0000
-  - name: Hyatt Place Bayamon Hotel & Tropical Casino
-    date: Booking
+  - date: Booking
+    name: Hyatt Place Bayamon Hotel & Tropical Casino
     open: true
     phone: 000-000-0000
-  - name: Hyatt Place Manatí Hotel
-    date: Booking
+  - date: Booking
+    name: Hyatt Place Manatí Hotel
     open: true
     phone: 000-000-0000
-  - name: Hyatt Place San Juan City Center
-    date: Booking
+  - date: Booking
+    name: Hyatt Place San Juan City Center
     open: true
     phone: 000-000-0000
-  - name: La Concha, A Renaissance Resort
-    date: 01-Nov-17
+  - date: 01-Nov-17
+    name: 'La Concha, A Renaissance Resort'
     open: true
     phone: 000-000-0000
-  - name: La Terraza de San Juan
-    date: Booking
+  - date: Booking
+    name: La Terraza de San Juan
     open: true
     phone: 000-000-0000
-  - name: Le Consulat
-    date: Booking
+  - date: Booking
+    name: Le Consulat
     open: true
     phone: 000-000-0000
-  - name: Lucía Beach
-    date: Booking
+  - date: Booking
+    name: Lucía Beach
     open: true
     phone: 000-000-0000
-  - name: Luquillo Sunrise Beach Inn
-    date: Booking
+  - date: Booking
+    name: Luquillo Sunrise Beach Inn
     open: true
     phone: 000-000-0000
-  - name: Malecón House
-    date: Pending
+  - date: Pending
+    name: Malecón House
     open: false
     phone: 000-000-0000
-  - name: Mayagüez Resort & Casino
-    date: Booking
+  - date: Booking
+    name: Mayagüez Resort & Casino
     open: true
     phone: 000-000-0000
-  - name: Número 1 on the Beach
-    date: 01-Nov-17
+  - date: 01-Nov-17
+    name: Número 1 on the Beach
     open: false
     phone: 000-000-0000
-  - name: Olive Boutique Hotel
-    date: Booking
+  - date: Booking
+    name: Olive Boutique Hotel
     open: true
     phone: 000-000-0000
-  - name: Paradise Guest House
-    date: Pending
+  - date: Pending
+    name: Paradise Guest House
     open: false
     phone: 000-000-0000
-  - name: Parador Boquemar
-    date: Booking
+  - date: Booking
+    name: Parador Boquemar
     open: true
     phone: 000-000-0000
-  - name: Parador Costa del Mar
-    date: Pending
+  - date: Pending
+    name: Parador Costa del Mar
     open: false
     phone: 000-000-0000
-  - name: Parador El Buen Café
-    date: Booking
+  - date: Booking
+    name: Parador El Buen Café
     open: true
     phone: 000-000-0000
-  - name: Parador El Faro
+  - date: Booking
+    name: Parador El Faro
     open: true
-    date: Booking
     phone: 000-000-0000
-  - name: Parador Guánica 1929
-    date: Pending
+  - date: Pending
+    name: Parador Guánica 1929
     open: false
     phone: 000-000-0000
-  - name: Parador Mauna Caribe
-    date: Booking
+  - date: Booking
+    name: Parador Mauna Caribe
     open: true
     phone: 000-000-0000
-  - name: Parador Palmas De Lucía
-    date: Booking
+  - date: Booking
+    name: Parador Palmas De Lucía
     open: true
     phone: 000-000-0000
-  - name: Parador Turtle Bay Inn
-    date: Booking
+  - date: Booking
+    name: Parador Turtle Bay Inn
     open: true
     phone: 000-000-0000
-  - name: Parador Villa Parguera
-    date: Booking
+  - date: Booking
+    name: Parador Villa Parguera
     open: true
     phone: 000-000-0000
-  - name: Parador Villas Del Mar Hau
-    date: Pending
+  - date: Pending
+    name: Parador Villas Del Mar Hau
     open: false
     phone: 000-000-0000
-  - name: Parador Villas Sotomayor
-    date: Booking
+  - date: Booking
+    name: Parador Villas Sotomayor
     open: true
     phone: 000-000-0000
-  - name: Parador Yunque Mar
-    date: Booking
+  - date: Booking
+    name: Parador Yunque Mar
     open: true
     phone: 000-000-0000
-  - name: Plaza de Armas Hotel
-    date: Pending
+  - date: Pending
+    name: Plaza de Armas Hotel
     open: false
     phone: 000-000-0000
-  - name: Ponce Plaza Hotel & Casino
-    date: Booking
-    phone: 000-000-0000
-    open: false
-  - name: Posada Qué Chévere
-    date: Pending
+  - date: Booking
+    name: Ponce Plaza Hotel & Casino
     open: false
     phone: 000-000-0000
-  - name: Punta Maracayo Resort
-    date: Booking
-    open: true  
-    phone: 000-000-0000
-  - name: Rainforest Inn
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Rincón Beach Hotel
-    date: Pending
+  - date: Pending
+    name: Posada Qué Chévere
     open: false
     phone: 000-000-0000
-  - name: Rincón of the Seas Grand Caribbean Hotel
-    date: Booking
+  - date: Booking
+    name: Punta Maracayo Resort
     open: true
     phone: 000-000-0000
-  - name: Royal Isabela
-    date: Booking
+  - date: Booking
+    name: Rainforest Inn
     open: true
     phone: 000-000-0000
-  - name: San Juan Airport Hotel
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: San Juan Marriott Resort & Stellaris Casino
-    date: 01-Nov-17
-    open: true
-    phone: 000-000-0000
-  - name: San Juan Water & Beach Club Hotel
-    date: 31-Oct-17
-    open: true
-    phone: 000-000-0000
-  - name: San Miguel Plaza Hotel
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: San Sebastián Bed & Breakfast
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Sandy Beach
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Sheraton Old San Juan
-    date: 01-Dec-17
-    open: true
-    phone: 000-000-0000
-  - name: Sheraton Puerto Rico Hotel & Casino
-    date: 09-Jan-18
-    open: true
-    phone: 000-000-0000
-  - name: The Condado Plaza Hilton
-    date: 31-Dec-17
-    open: true
-    phone: 000-000-0000
-  - name: The Gallery Inn
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: The Lazy Parrot Inn & Restaurant
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: The Ritz-Carlton San Juan Hotel
-    date: Pending
-    open: true
-    phone: 000-000-0000
-  - name: The Wave Hotel
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Tres Palmas Inn
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Tryp by Wyndham
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Verdanza Hotel
-    date: Booking
-    open: true
-    phone: 000-000-0000
-  - name: Villa Coral Guest House
-    date: Pending
+  - date: Pending
+    name: Rincón Beach Hotel
     open: false
     phone: 000-000-0000
-  - name: Villa del Sol
-    date: Booking
+  - date: Booking
+    name: Rincón of the Seas Grand Caribbean Hotel
     open: true
     phone: 000-000-0000
-  - name: Villa Montaña Beach Resort
-    date: 15-Dec-17
-    open: false
-    phone: 000-000-0000
-  - name: Villa Verde Inn
-    date: Booking
+  - date: Booking
+    name: Royal Isabela
     open: true
     phone: 000-000-0000
-  - name: W Retreat & Spa Vieques
-    date: Pending
-    open: false
-    phone: 000-000-0000
-  - name: Western Bay Boquerón Beach Hotel
-    date: Pending
-    open: false
-    phone: 000-000-0000
-  - name: Wyndham Garden at Palmas del Mar
-    date: Pending
-    open: false
-    phone: 000-000-0000
-  - name: Wyndham Rio Mar
+  - date: Booking
+    name: San Juan Airport Hotel
     open: true
-    date: 18-Oct-17
+    phone: 000-000-0000
+  - date: 01-Nov-17
+    name: San Juan Marriott Resort & Stellaris Casino
+    open: true
+    phone: 000-000-0000
+  - date: 31-Oct-17
+    name: San Juan Water & Beach Club Hotel
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: San Miguel Plaza Hotel
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: San Sebastián Bed & Breakfast
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: Sandy Beach
+    open: true
+    phone: 000-000-0000
+  - date: 01-Dec-17
+    name: Sheraton Old San Juan
+    open: true
+    phone: 000-000-0000
+  - date: 09-Jan-18
+    name: Sheraton Puerto Rico Hotel & Casino
+    open: true
+    phone: 000-000-0000
+  - date: 31-Dec-17
+    name: The Condado Plaza Hilton
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: The Gallery Inn
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: The Lazy Parrot Inn & Restaurant
+    open: true
+    phone: 000-000-0000
+  - date: Pending
+    name: The Ritz-Carlton San Juan Hotel
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: The Wave Hotel
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: Tres Palmas Inn
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: Tryp by Wyndham
+    open: true
+    phone: 000-000-0000
+  - date: Booking
+    name: Verdanza Hotel
+    open: true
+    phone: 000-000-0000
+  - date: Pending
+    name: Villa Coral Guest House
+    open: false
+    phone: 000-000-0000
+  - date: Booking
+    name: Villa del Sol
+    open: true
+    phone: 000-000-0000
+  - date: 15-Dec-17
+    name: Villa Montaña Beach Resort
+    open: false
+    phone: 000-000-0000
+  - date: Booking
+    name: Villa Verde Inn
+    open: true
+    phone: 000-000-0000
+  - date: Pending
+    name: W Retreat & Spa Vieques
+    open: false
+    phone: 000-000-0000
+  - date: Pending
+    name: Western Bay Boquerón Beach Hotel
+    open: false
+    phone: 000-000-0000
+  - date: Pending
+    name: Wyndham Garden at Palmas del Mar
+    open: false
+    phone: 000-000-0000
+  - date: 18-Oct-17
+    name: Wyndham Rio Mar
+    open: true
     phone: 000-000-0000
 ---
+
