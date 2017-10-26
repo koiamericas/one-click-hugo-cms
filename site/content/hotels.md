@@ -161,7 +161,7 @@ hotels:
     phone: 000-000-0000
   - date: Pending
     name: Dos Angeles del Mar Guest House
-    open: open
+    open: false
     phone: 000-000-0000
   - date: 30-Oct-17
     name: DoubleTree by Hilton San Juan
@@ -197,7 +197,7 @@ hotels:
     phone: 000-000-0000
   - date: 31-Dec-17
     name: Embassy Suites Dorado del Mar Beach & Golf Resort
-    open: false
+    open: true
     phone: 000-000-0000
   - date: 31-Dec-17
     name: Embassy Suites San Juan Hotel & Casino
