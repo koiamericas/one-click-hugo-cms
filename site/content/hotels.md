@@ -113,7 +113,7 @@ hotels:
     phone: ''
   - date: 31-Dec-17
     name: Condado Lagoon Villas at Caribe Hilton
-    open: false
+    open: true
     phone: ''
   - date: Booking
     name: Condado Vanderbilt Hotel
@@ -161,7 +161,7 @@ hotels:
     phone: ''
   - date: Pending
     name: Dos Angeles del Mar Guest House
-    open: false
+    open: open
     phone: ''
   - date: 30-Oct-17
     name: DoubleTree by Hilton San Juan
@@ -184,12 +184,12 @@ hotels:
     open: true
     phone: ''
   - date: 01-Apr-18
-    name: 'El Conquistador, A Waldorf Astoria Resort'
+    name: El Conquistador, A Waldorf Astoria Resort
     open: true
     phone: ''
   - date: 01-Apr-18
-    name: 'El Conquistador, Las Casitas'
-    open: false
+    name: Las Casitas Village, A Waldorf Astoria Resort
+    open: true
     phone: ''
   - date: 31-Jan-18
     name: 'El San Juan Hotel, Curio Collection by Hilton'
