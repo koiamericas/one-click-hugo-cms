@@ -25,76 +25,76 @@ export default class PostPreview extends React.Component {
             </h6>
             </div>
         </div>
-        <div class="hotels-table-container">
-            <div class="table-top">
-                <div class="half first">
+        <div className="hotels-table-container">
+            <div className="table-top">
+                <div className="half first">
                     <img src="/img/icons/hotel-grey.svg"/>
                     <p>
                         Here is the operating status of over 100 hotels in Puerto Rico, including the date by which they're accepting reservations.
                     </p>
                 </div>
-                <div class="half second">
-                    <div class="buttons-container">
+                <div className="half second">
+                    <div className="buttons-container">
                         <p>
                             Show
                         </p>
-                        <div class="buttons-row">
-                            <div class="filter-button">
+                        <div className="buttons-row">
+                            <div className="filter-button">
                                 Open
                             </div>
-                            <div class="filter-button">
+                            <div className="filter-button">
                                 Closed
                             </div>
-                            <div class="filter-button selected">
+                            <div className="filter-button selected">
                                 All
                             </div>
                         </div>
                     </div>
-                    <div class="update-time-row">
+                    <div className="update-time-row">
                         <p>
                             Updated on:
                         </p>
-                        <div class="update-time">
+                        <div className="update-time">
                             { format(entry.getIn(["data", "date"]), "dddd MMM D, YY") }
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="hotels-table">
-                <div class="hotel-row table-header">
-                    <div class="name">
+            <div className="hotels-table">
+                <div className="hotel-row table-header">
+                    <div className="name">
                         Hotel Name
                     </div>
-                    <div class="status">
+                    <div className="status">
                         Status
                     </div>
-                    <div class="date">
+                    <div className="date">
                         Next Reservation
                     </div>
-                    <div class="more-info">
+                    <div className="more-info">
                         More info
                     </div>
                 </div>
                 {(entry.getIn(['data', 'hotels']) || []).map((hotel, index) => 
                     <div className={'hotel-row listed ' + (hotel.get('open') ? 'open' : 'closed')} key={index}>
-                        <div class="name">
+                        <div className="name">
                             {hotel.get('name')}
                         </div>
-                        <div class="status">    
+                        <div className="status">    
                             {hotel.get('open') ? 'Open' : 'Closed'}
                         </div>
-                        <div class="date">
+                        <div className="date">
                             {hotel.get('date')}
                         </div>
-                        <div class="phone hidden">
+                        <div className="phone hidden">
                             {hotel.get('phone')}
                         </div>
-                        <div class="view-info down"></div>
-                        <div class="more-info collapsed">
-                            <div class="date">
-                                {hotel.get('date') == 'Booking' ? <strong>Hotel is booking new reservations.</strong> : (hotel.get('date') == 'Booking' ? <strong>Next reservation date is pending.</strong> : <strong>Next Reservation: </strong> + hotel.get('date') )}
+                        <div className="view-info down"></div>
+                        <div className="more-info collapsed">
+                            <div className="date">
+                                {hotel.get('date')}
                             </div>
-                            <div class="phone hidden">
+                            <div className="phone hidden">
                                 {hotel.get('phone')}
                             </div>
                         </div>
