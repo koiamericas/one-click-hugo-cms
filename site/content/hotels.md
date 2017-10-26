@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-26T13:15:00-05:00
+date: 2017-10-26T17:54:00-04:00
 image: /img/slider_hotel.png
 hotels:
   - date: Booking
@@ -436,7 +436,7 @@ hotels:
     phone: 000-000-0000
   - date: Booking
     name: Ponce Plaza Hotel & Casino
-    open: false
+    open: true
     phone: 000-000-0000
   - date: Pending
     name: Posada Qué Chévere
