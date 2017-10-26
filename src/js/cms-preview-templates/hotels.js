@@ -105,4 +105,3 @@ export default class PostPreview extends React.Component {
     </div>;
   }
 }
-
