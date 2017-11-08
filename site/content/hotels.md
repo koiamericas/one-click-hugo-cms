@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-10-31T23:01:00.000Z
+date: 2017-11-08T18:01:00-05:00
 image: /img/slider_hotel.png
 hotels:
   - date: Booking
