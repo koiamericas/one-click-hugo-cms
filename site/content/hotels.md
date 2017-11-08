@@ -46,7 +46,7 @@ hotels:
     name: Borinquen Beach Inn
     open: true
     phone: 000-000-0000
-  - date: 31-Dec-17
+  - date: 01-Apr-18
     name: Caribe Hilton
     open: true
     phone: 000-000-0000
