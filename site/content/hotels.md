@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-11-08T18:00:00-05:00
+date: 2017-11-08T23:00:00.000Z
 image: /img/slider_hotel.png
 hotels:
   - date: Booking
@@ -46,7 +46,7 @@ hotels:
     name: Borinquen Beach Inn
     open: true
     phone: 000-000-0000
-  - date: 01-Apr-18
+  - date: 31-Dec-17
     name: Caribe Hilton
     open: true
     phone: 000-000-0000
