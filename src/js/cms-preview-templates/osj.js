@@ -47,7 +47,7 @@ export default class OSJPreview extends React.Component {
             <div className="sites-table">
                 <div className="site-row table-header">
                     <div className="name">
-                        site Name
+                        Name
                     </div>
                     <div className="type">
                         Status
