@@ -5,8 +5,7 @@ title: Old San Juan
 subtitle: Lorem ipsum...
 date: 2017-11-10T04:00:00.000Z
 image: /img/slider_hotel.png
-tablecopy: >-
-  Lorem ipsum...
+tablecopy: Lorem ipsum...
 sites:
   - name: 311 Trois Cent Onze
     type: Restaurant
