@@ -4,7 +4,7 @@
 
 		<div class="half first">
 
-			<img src="/img/icons/site-grey.svg"/>
+			<img src="/img/icons/hotel-grey.svg"/>
 
 			<p>
 				Lorem ipsum...
@@ -38,11 +38,17 @@
 				Name
 			</div>
 
-			<div class="status">
+			<div class="type">
 				Type
 			</div>
 
 		</div>	
+
+		{{ range .Params.sites }}
+
+			{{ partial "sites-table-row" . }}
+
+		{{ end }}
 
 	</div>
 
