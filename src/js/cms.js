@@ -5,6 +5,7 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import InternalPreview from "./cms-preview-templates/internal";
 import HotelsPreview from "./cms-preview-templates/hotels";
+import OSJPreview from "./cms-preview-templates/osj";
 import HomePreview from "./cms-preview-templates/home";
 
 // Example of creating a custom color widget
