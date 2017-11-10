@@ -63,3 +63,17 @@ collections: # A list of collections the CMS should be able to edit
               {label: Opening Date, name: date, widget: string}, 
               {label: Phone(s), name: phone, widget: string}
             ]}
+      - file: "site/content/osj.md"
+        label: "Old San Juan"
+        name: "osj"
+        fields:
+          - {label: type, name: type, widget: hidden, default: osj}
+          - {label: page, name: page, widget: hidden, default: "/osj.html"}
+          - {label: title, name: title, widget: string}
+          - {label: subtitle, name: subtitle, widget: string}
+          - {label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mma"}
+          - {label: Image, name: image, widget: image, required: true}
+          - {label: Sites, name: sites, widget: list, fields: [
+              {label: Name, name: name, widget: string}, 
+              {label: Type, name: type, widget: string}
+            ]}

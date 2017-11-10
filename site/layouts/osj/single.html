@@ -14,6 +14,12 @@
   </div>
 </div>
 
+<script>
+  if (window.location.search.substr(1) != "test-only") {
+    window.location = window.location.origin;
+  }
+</script>
+
 {{ partial "sites-table" . }}
 
 {{ partial "prefooter-banners" . }}
