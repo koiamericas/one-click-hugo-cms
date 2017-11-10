@@ -99,25 +99,25 @@ sites:
     type: Bar
   - name: Mariel Arts and Crafts
     type: Shop
-  - name: MAVI
+  - name: Mavi
     type: Restaurant
-  - name: MI PEQUENO SAN JUAN
+  - name: Mi Pequeño San Juan
     type: Shop
-  - name: MONASTERY ART SUITES
+  - name: Monastery Art Suites
     type: Lodging
-  - name: MORENOS SPOT
+  - name: Morenos Spot
     type: Restaurant
   - name: MY Lodging
     type: Lodging
-  - name: NT PRECISION
+  - name: NT Precision
     type: Shop
-  - name: NY RICAN CAFÉ
+  - name: NY Rican Café
     type: Bar
-  - name: OH LA LA
+  - name: Oh La La
     type: Shop
-  - name: OH OUI
+  - name: Oh Oui
     type: Shop
-  - name: OLÉ CURIOSIDADES
+  - name: Olé Curiosidades
     type: Shop
   - name: Otra Cosa
     type: Restaurant
@@ -170,3 +170,4 @@ sites:
   - name: 'Zafiro Clothing, Inc'
     type: Shop
 ---
+
