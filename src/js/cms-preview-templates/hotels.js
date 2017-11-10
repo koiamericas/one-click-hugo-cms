@@ -30,7 +30,7 @@ export default class HotelsPreview extends React.Component {
                 <div className="half first">
                     <img src="/img/icons/hotel-grey.svg"/>
                     <p>
-                        Here is the operating status of over 100 hotels in Puerto Rico, including the date by which they're accepting reservations.
+                        { entry.getIn(["data", "copy_table"]) }
                     </p>
                 </div>
                 <div className="half second">

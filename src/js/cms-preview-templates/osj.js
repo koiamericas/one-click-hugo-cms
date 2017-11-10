@@ -30,7 +30,7 @@ export default class OSJPreview extends React.Component {
                 <div className="half first">
                     <img src="/img/icons/hotel-grey.svg"/>
                     <p>
-                    Lorem ipsum...
+                        { entry.getIn(["data", "copy_table"]) }
                     </p>
                 </div>
                 <div className="half second">
