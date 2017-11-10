@@ -1,0 +1,55 @@
+<div class="sites-table-container">
+
+	<div class="table-top">
+
+		<div class="half first">
+
+			<img src="/img/icons/hotel-grey.svg"/>
+
+			<p>
+				Lorem ipsum...
+			</p>
+
+		</div>
+
+		<div class="half second">
+	
+			<div class="update-time-row">
+
+				<p>
+					Updated on:
+				</p>
+
+				<div class="update-time">
+					{{ .Date.Format "Monday Jan 2, 2006" }}
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sites-table">
+
+		<div class="site-row table-header">
+
+			<div class="name">
+				Name
+			</div>
+
+			<div class="type">
+				Type
+			</div>
+
+		</div>	
+
+		{{ range .Params.sites }}
+
+			{{ partial "sites-table-row" . }}
+
+		{{ end }}
+
+	</div>
+
+</div>
