@@ -1,7 +1,7 @@
 import React from "react";
 import format from "date-fns/format";
 
-export default class SitesPreview extends React.Component {
+export default class OSJPreview extends React.Component {
   render() {
     const {entry, getAsset, widgetFor} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));

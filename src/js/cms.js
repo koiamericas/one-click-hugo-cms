@@ -25,6 +25,6 @@ CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("ports", InternalPreview);
 CMS.registerPreviewTemplate("airports", InternalPreview);
 CMS.registerPreviewTemplate("hotels", HotelsPreview);
-CMS.registerPreviewTemplate("sites", SitesPreview);
+CMS.registerPreviewTemplate("osj", OSJPreview);
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerWidget("color", ColorControl);
