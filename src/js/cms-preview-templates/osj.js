@@ -50,16 +50,27 @@ export default class OSJPreview extends React.Component {
                         Name
                     </div>
                     <div className="type">
-                        Status
+                        Type
+                    </div>
+                    <div className="phone">
+                        Phone
+                    </div>
+
+                    <div className="more-info">
+                        More info
                     </div>
                 </div>
                 {(entry.getIn(['data', 'sites']) || []).map((site, index) => 
-                    <div className={'site-row listed ' + (site.get('open') ? 'open' : 'closed')} key={index}>
+                    <div className="site-row listed" key={index}>
                         <div className="name">
                             {site.get('name')}
                         </div>
                         <div className="type">    
                             {site.get('type')}
+                        </div>
+                        <div className="view-info down"></div>
+                        <div className="phone">
+                            {site.get('phone')}
                         </div>
                     </div>
                 )}

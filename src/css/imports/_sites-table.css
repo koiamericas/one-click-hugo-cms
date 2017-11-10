@@ -89,6 +89,10 @@
     padding: 5px 10px;
 }
 
+.sites-table-container .sites-table .site-row.table-header .more-info {
+    display: none;
+}
+
 .sites-table-container .sites-table .site-row div {
     flex-grow: 1;
     padding: 20px 10px;
@@ -100,8 +104,8 @@
 .sites-table-container .sites-table .site-row .name {
     display: inline-block;
     text-align: left;
-    width: 60%;
-    max-width: 60%;
+    width: 40%;
+    max-width: 40%;
     color: #92BA01;
     font-weight: bold;
 }
@@ -109,8 +113,19 @@
 .sites-table-container .sites-table .site-row .type {
     display: inline-block;
     text-align: center;
-    width: 30%;
-    max-width: 30%;
+    width: 25%;
+    max-width: 25%;
+}
+
+.sites-table-container .sites-table .site-row .phone {
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    max-width: 25%;
+}
+
+.sites-table-container .sites-table .site-row .view-info {
+    display: none;
 }
 
 @media (max-width: 1080px) {
@@ -193,12 +208,21 @@
         border: none;
     }
 
+    .sites-table-container .sites-table .site-row.table-header .more-info {
+        display: inline-block;
+        font-size: 12px;
+        width: 55px;
+        vertical-align: middle;
+        text-align: center;
+        padding: 0;
+    }
+
     .sites-table-container .sites-table .site-row div {
         border: none;
     }
         
     .sites-table-container .sites-table .site-row .name {
-        width: 60%;
+        width: calc(100% - 185px);
         max-width: none;
         vertical-align: middle;
         padding: 15px 10px;
@@ -206,11 +230,56 @@
     
     .sites-table-container .sites-table .site-row .type {
         border: 3px solid #414141 !important;
-        padding: 5px 10px;
+        padding: 5px 0;
         text-align: center;
-        width: 35%;
+        width: 115px;
         max-width: none;
         vertical-align: middle;
+        font-size: 14px;
+    }
+
+    .sites-table-container .sites-table .site-row .phone {
+        display: none;
+    }
+
+    .sites-table-container .sites-table .site-row .phone.active {
+        display: block;
+        padding: 0 0 10px 10px;
+        width: 100%;
+        max-width: none;
+        text-align: left;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .sites-table-container .sites-table .site-row .phone.active::before {
+        content: 'Phone:';
+        position: relative;
+        font-size: 14px;
+        line-height: 14px;
+        font-weight: bold;
+        transform: translateY(1px);
+    }
+
+    .sites-table-container .sites-table .site-row .view-info {
+        display: inline-block;
+        margin: 0 0 0 25px;
+        width: 0; 
+        height: 0; 
+        padding: 0;
+        cursor: pointer;
+    }
+
+    .sites-table-container .sites-table .site-row .view-info.up {
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-bottom: 10px solid #92BA01;
+    }
+
+    .sites-table-container .sites-table .site-row .view-info.down {
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #92BA01;
     }
     
 }

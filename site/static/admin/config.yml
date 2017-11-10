@@ -77,5 +77,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Table Copy, name: tablecopy, widget: string}
           - {label: Sites, name: sites, widget: list, fields: [
               {label: Name, name: name, widget: string}, 
-              {label: Type, name: type, widget: string}
+              {label: Type, name: type, widget: string},
+              {label: Phone(s), name: phone, widget: string}
             ]}
