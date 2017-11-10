@@ -6,97 +6,97 @@ subtitle: Lorem ipsum...
 date: 2017-11-10T04:00:00.000Z
 image: /img/slider_hotel.png
 sites:
-  - name: 311 TROIS CENT ONZE
+  - name: 311 Trois Cent Onze
     type: Restaurant
-  - name: 7 SEAS GIFT SHOP
+  - name: 7 Seas Gift Shop
     type: Shop
-  - name: A LA SOL
+  - name: A La Sol
     type: Lodging
-  - name: ART AND SOUVENIRS
+  - name: Art and Souvenirs
     type: Shop
-  - name: ARTESANIAS DE PR
+  - name: Artesanías de P.R.
     type: Shop
-  - name: BLUE DIAMOND
+  - name: Blue Diamond
     type: Shop
-  - name: BORINCANO SOUVENIR
+  - name: Borincano Souvenir
     type: Shop
-  - name: CAFÉ FORTALEZA
+  - name: Café Fortaleza
     type: Restaurant
-  - name: CAFÉ MANOLIN
+  - name: Café Manolín
     type: Restaurant
-  - name: CASA CHOCOLATE CORTES
+  - name: Casa Chocolate Cortés
     type: Restaurant
-  - name: CHARRUA BISTRO
+  - name: Charrúa Bistro
     type: Restaurant
-  - name: CLUB JIBARITO
+  - name: Club Jibarito
     type: Shop
-  - name: COACH
+  - name: Coach
     type: Shop
-  - name: COLLECTIVE REQUEST
+  - name: Collective Request
     type: Shop
-  - name: CONNECTION TRAVEL
+  - name: Connection Travel
     type: Travel Service
-  - name: COSTA AZUL
+  - name: Costa Azul
     type: Restaurant
-  - name: CROCS
+  - name: Crocs
     type: Shop
-  - name: CUATRO PUERTAS GIFT SHOP
+  - name: Cuatro Puertas Gift Shop
     type: Shop
-  - name: DA HOUSE Lodging
+  - name: Da House Lodging
     type: Lodging
-  - name: DIAMOND INTERNATIONAL
+  - name: Diamond International
     type: Shop
-  - name: ECLEKCTICA JEWERY
+  - name: Eclecktica Jewelry
     type: Shop
-  - name: EFFY JEWERYS
+  - name: Effy Jewelry
     type: Shop
-  - name: EL JIBARITO
+  - name: El Jibarito
     type: Restaurant
-  - name: EL BATEY
+  - name: El Batey
     type: Bar
-  - name: EL CHIVIRICO
+  - name: El Chivirico
     type: Shop
-  - name: EL PARNASO RESTAURANT
+  - name: El Parnaso Restaurant
     type: Restaurant
-  - name: ELISCA SOUVENIRS
+  - name: Elisca Souvenirs
     type: Shop
-  - name: FAMILY STORE
+  - name: Family Store
     type: Shop
-  - name: FARMACIA LUMA
+  - name: Farmacia Luma
     type: Pharmacy
-  - name: FORTALEZA GUEST HOUSE
+  - name: Fortaleza Guest House
     type: Lodging
-  - name: FORTALEZA SOUVENIR
+  - name: Fortaleza Souvenir
     type: Shop
-  - name: GRACIAS SKATEBOARD
+  - name: Gracias Skateboard
     type: Shop
-  - name: GUESS
+  - name: Guess
     type: Shop
-  - name: GUIDE ASSOCIATION
+  - name: Guide Association
     type: Travel Service
-  - name: HAITIAN GALLERY
+  - name: Haitian Gallery
     type: Shop
-  - name: JS JEWERY WORKSHOP
+  - name: JS Jewelry Workshop
     type: Shop
-  - name: KIOSKO REVISTAS
+  - name: Kiosko Revistas
     type: Shop
-  - name: KOKOYER RESTAURANT
+  - name: Kokoyer Restaurant
     type: Restaurant
-  - name: LA CUEVA DEL MAR
+  - name: La Cueva del Mar
     type: Restaurant
-  - name: LA FACTORIA
+  - name: La Factoría
     type: Bar
-  - name: LA GARITA SOUVENIRS
+  - name: La Garita Souvenirs
     type: Shop
-  - name: LA MADRE RESTAURANT
+  - name: La Madre Restaurant
     type: Restaurant
-  - name: LA MALLORQUINA
+  - name: La Mallorquina
     type: Restaurant
-  - name: LA O RESTAURANT
+  - name: La O Restaurant
     type: Restaurant
-  - name: LA SOMBRILLA ROSA
+  - name: La Sombrilla Rosa
     type: Bar
-  - name: MARIEL ART AND CRAFTS
+  - name: Mariel Arts and Crafts
     type: Shop
   - name: MAVI
     type: Restaurant
