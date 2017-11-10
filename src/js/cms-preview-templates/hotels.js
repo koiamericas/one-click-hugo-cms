@@ -30,7 +30,7 @@ export default class HotelsPreview extends React.Component {
                 <div className="half first">
                     <img src="/img/icons/hotel-grey.svg"/>
                     <p>
-                        { entry.getIn(["data", "copy_table"]) }
+                        { entry.getIn(["data", "tablecopy"]) }
                     </p>
                 </div>
                 <div className="half second">

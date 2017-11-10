@@ -5,7 +5,7 @@ title: Hotels
 subtitle: Explore available accommodations.
 date: 2017-11-08T23:00:00.000Z
 image: /img/slider_hotel.png
-table_copy: Here is the operating status of over 100 hotels in Puerto Rico, including the date by which they're accepting reservations.
+tablecopy: Here is the operating status of over 100 hotels in Puerto Rico, including the date by which they're accepting reservations.
 hotels:
   - date: Booking
     name: AC Hotel San Juan Condado
