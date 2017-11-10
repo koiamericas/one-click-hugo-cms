@@ -2,252 +2,255 @@
 type: osj
 page: /osj.html
 title: Old San Juan
-subtitle: Lorem ipsum...
+subtitle: Local Businesses Open Their Doors
 date: 2017-11-10T04:00:00.000Z
 image: /img/slider_hotel.png
-tablecopy: Lorem ipsum...
+tablecopy: >-
+  There's something for everyone at Old San Juan. Check out which spots are back
+  in business in our historic Old San Juan.
 sites:
   - name: 311 Trois Cent Onze
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: 7 Seas Gift Shop
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: A La Sol
-    type: Lodging
     phone: 000-000-0000
+    type: Lodging
   - name: Art and Souvenirs
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Artesanías de P.R.
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Blue Diamond
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Borincano Souvenir
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Café Fortaleza
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Café Manolín
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Casa Chocolate Cortés
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Charrúa Bistro
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Club Jibarito
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Coach
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Collective Request
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Connection Travel
-    type: Travel Service
     phone: 000-000-0000
+    type: Travel Service
   - name: Costa Azul
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Crocs
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Cuatro Puertas Gift Shop
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Da House Lodging
-    type: Lodging
     phone: 000-000-0000
+    type: Lodging
   - name: Diamond International
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Eclecktica Jewelry
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Effy Jewelry
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: El Jibarito
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: El Batey
-    type: Bar
     phone: 000-000-0000
+    type: Bar
   - name: El Chivirico
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: El Parnaso Restaurant
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Elisca Souvenirs
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Family Store
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Farmacia Luma
+    phone: 000-000-0000
     type: Pharmacy
-    phone: 000-000-0000
   - name: Fortaleza Guest House
-    type: Lodging
     phone: 000-000-0000
+    type: Lodging
   - name: Fortaleza Souvenir
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Gracias Skateboard
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Guess
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Guide Association
-    type: Travel Service
     phone: 000-000-0000
+    type: Travel Service
   - name: Haitian Gallery
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: JS Jewelry Workshop
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Kiosko Revistas
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Kokoyer Restaurant
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: La Cueva del Mar
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: La Factoría
-    type: Bar
     phone: 000-000-0000
+    type: Bar
   - name: La Garita Souvenirs
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: La Madre Restaurant
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: La Mallorquina
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: La O Restaurant
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: La Sombrilla Rosa
-    type: Bar
     phone: 000-000-0000
+    type: Bar
   - name: Mariel Arts and Crafts
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Mavi
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Mi Pequeño San Juan
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Monastery Art Suites
-    type: Lodging
     phone: 000-000-0000
+    type: Lodging
   - name: Morenos Spot
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: MY Lodging
+    phone: 000-000-0000
     type: Lodging
-    phone: 000-000-0000
   - name: NT Precision
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: NY Rican Café
+    phone: 000-000-0000
     type: Bar
-    phone: 000-000-0000
   - name: Oh La La
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Oh Oui
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Olé Curiosidades
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Otra Cosa
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: P.R. Arts and Crafts
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Palmas Restaurant
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Pandora
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Pirana Joe
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Placard
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Portofino
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Resveralife
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Romalco
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: See You Soon
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Spicy Caribee
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Spoon and Food Tours
+    phone: 000-000-0000
     type: Travel Service
-    phone: 000-000-0000
   - name: Stuff Avocado
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Sunglass Hut
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Taller y Joyería Frank
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: The Linen House
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: The Poets Passage
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: The Wafflera
-    type: Restaurant
     phone: 000-000-0000
+    type: Restaurant
   - name: Tommy Bahama
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Tommy Hillfigher
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Valor Souvenir
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Verde Luz Restaurant
+    phone: 000-000-0000
     type: Restaurant
-    phone: 000-000-0000
   - name: Vivan Boutique
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: Vodda
-    type: Shop
     phone: 000-000-0000
+    type: Shop
   - name: 'Zafiro Clothing, Inc'
-    type: Shop
     phone: 000-000-0000
+    type: Shop
 ---
+
