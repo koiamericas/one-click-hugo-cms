@@ -4,7 +4,7 @@ page: /osj.html
 title: Old San Juan
 subtitle: Local Businesses Open Their Doors
 date: 2017-11-10T04:00:00.000Z
-image: /img/slider_hotel.png
+image: /img/slider_osj.jpg
 tablecopy: >-
   There's something for everyone at Old San Juan. Check out which spots are back
   in business in our historic Old San Juan.
