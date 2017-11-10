@@ -487,33 +487,36 @@ a:focus, button:focus, input:focus, textarea:focus {
 
 .green-cards-container .gren-cards-wrapper .green-card {
     background: #92BA01;
-    height: 347px;
+    height: 350px;
     padding: 0;
-    width: 378px;
+    width: calc(25% - 10px);
     margin: 0;
 }
 
 .green-cards-container .gren-cards-wrapper .green-card img {
-    width: 200px;
-    height: 100px;
+    width: 160px;
+    height: 80px;
     display: block;
-    margin: 30px auto 20px auto;
+    margin: 25px auto 20px auto;
 }
 
 .green-cards-container .gren-cards-wrapper .green-card p {
-    width: 75%;
+    width: 80%;
     display: block;
     margin: 0 auto;
     text-align: center;
 }
 
 .green-cards-container .gren-cards-wrapper .green-card p.card-title {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
+    line-height: 22px;
+    height: 44px;
+    margin: 0px auto 10px auto;
 }
 
 .green-cards-container .gren-cards-wrapper .green-card p.card-text {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: normal;
     height: 60px;
 }
