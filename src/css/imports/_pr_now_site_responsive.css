@@ -159,7 +159,7 @@
 
     .navigation-burger ul {
         margin: 0;
-        padding: 10px 25px;
+        padding: 10px 25px 0 25px;
         background: transparent;
         border: none;
     }
