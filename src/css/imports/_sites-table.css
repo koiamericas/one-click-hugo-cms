@@ -122,6 +122,12 @@
     text-align: center;
     width: 25%;
     max-width: 25%;
+    font-weight: bold;
+}
+
+.sites-table-container .sites-table .site-row .phone a:hover {
+    -webkit-box-shadow: 0px 2px 0px #92BA01;
+            box-shadow: 0px 2px 0px #92BA01;
 }
 
 .sites-table-container .sites-table .site-row .view-info {
@@ -253,7 +259,7 @@
     }
 
     .sites-table-container .sites-table .site-row .phone.active::before {
-        content: 'Phone:';
+        content: 'Phone (click to call):';
         position: relative;
         font-size: 14px;
         line-height: 14px;
