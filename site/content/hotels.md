@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 11/22/2017 3:00 PM
+date: 2017-11-22T00:00:00-05:00
 image: /img/slider_hotel.png
 tablecopy: >-
   Here is the operating status of over 100 hotels in Puerto Rico, including the
