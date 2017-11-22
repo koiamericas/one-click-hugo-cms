@@ -3,9 +3,11 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-11-08T23:00:00.000Z
+date: 11/22/2017 3:18 PM
 image: /img/slider_hotel.png
-tablecopy: Here is the operating status of over 100 hotels in Puerto Rico, including the date by which they're accepting reservations.
+tablecopy: >-
+  Here is the operating status of over 100 hotels in Puerto Rico, including the
+  date by which they're accepting reservations.
 hotels:
   - date: Booking
     name: AC Hotel San Juan Condado
@@ -47,7 +49,7 @@ hotels:
     name: Borinquen Beach Inn
     open: true
     phone: 000-000-0000
-  - date: 31-Dec-17
+  - date: 01-Apr-18
     name: Caribe Hilton
     open: true
     phone: 000-000-0000
@@ -111,7 +113,7 @@ hotels:
     name: Comfort Inn San Juan
     open: true
     phone: 000-000-0000
-  - date: 31-Dec-17
+  - date: 01-Apr-18
     name: Condado Lagoon Villas at Caribe Hilton
     open: true
     phone: 000-000-0000
@@ -495,7 +497,7 @@ hotels:
     name: Sheraton Puerto Rico Hotel & Casino
     open: true
     phone: 000-000-0000
-  - date: 31-Dec-17
+  - date: 01-Apr-18
     name: The Condado Plaza Hilton
     open: true
     phone: 000-000-0000
