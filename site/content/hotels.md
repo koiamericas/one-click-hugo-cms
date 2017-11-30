@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-11-22T00:00:00-05:00
+date: 2017-11-30T00:00:00-05:00
 image: /img/slider_hotel.png
 tablecopy: >-
   Here is the operating status of over 100 hotels in Puerto Rico, including the
@@ -153,7 +153,7 @@ hotels:
     name: Da' House Hotel
     open: false
     phone: 000-000-0000
-  - date: Pending
+  - date: 10-Jan-18
     name: Dorado Beach A Ritz-Carlton Reserve
     open: false
     phone: 000-000-0000
@@ -301,7 +301,7 @@ hotels:
     name: Hotel Olimpo Court
     open: false
     phone: 000-000-0000
-  - date: Pending
+  - date: 10-Jan-18
     name: Hotel St. Regis at Bahia Beach Resort
     open: true
     phone: 000-000-0000
@@ -345,7 +345,7 @@ hotels:
     name: Hyatt Place San Juan City Center
     open: true
     phone: 000-000-0000
-  - date: 01-Nov-17
+  - date: Booking
     name: 'La Concha, A Renaissance Resort'
     open: true
     phone: 000-000-0000
@@ -469,7 +469,7 @@ hotels:
     name: San Juan Airport Hotel
     open: true
     phone: 000-000-0000
-  - date: 01-Nov-17
+  - date: Bookng
     name: San Juan Marriott Resort & Stellaris Casino
     open: true
     phone: 000-000-0000
@@ -489,11 +489,11 @@ hotels:
     name: Sandy Beach
     open: true
     phone: 000-000-0000
-  - date: 01-Dec-17
+  - date: Booking
     name: Sheraton Old San Juan
     open: true
     phone: 000-000-0000
-  - date: 09-Jan-18
+  - date: Booking
     name: Sheraton Puerto Rico Hotel & Casino
     open: true
     phone: 000-000-0000
@@ -509,7 +509,7 @@ hotels:
     name: The Lazy Parrot Inn & Restaurant
     open: true
     phone: 000-000-0000
-  - date: Pending
+  - date: 10-Jan-18
     name: The Ritz-Carlton San Juan Hotel
     open: true
     phone: 000-000-0000
@@ -545,7 +545,7 @@ hotels:
     name: Villa Verde Inn
     open: true
     phone: 000-000-0000
-  - date: Pending
+  - date: 31-Dec-18
     name: W Retreat & Spa Vieques
     open: false
     phone: 000-000-0000
