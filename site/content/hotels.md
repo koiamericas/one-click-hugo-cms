@@ -153,7 +153,7 @@ hotels:
     name: Da' House Hotel
     open: false
     phone: 000-000-0000
-  - date: 10-Jan-18
+  - date: 01-Oct-18
     name: Dorado Beach A Ritz-Carlton Reserve
     open: false
     phone: 000-000-0000
@@ -301,7 +301,7 @@ hotels:
     name: Hotel Olimpo Court
     open: false
     phone: 000-000-0000
-  - date: 10-Jan-18
+  - date: 01-Oct-18
     name: Hotel St. Regis at Bahia Beach Resort
     open: true
     phone: 000-000-0000
@@ -509,7 +509,7 @@ hotels:
     name: The Lazy Parrot Inn & Restaurant
     open: true
     phone: 000-000-0000
-  - date: 10-Jan-18
+  - date: 01-Oct-18
     name: The Ritz-Carlton San Juan Hotel
     open: true
     phone: 000-000-0000
