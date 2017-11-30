@@ -3,7 +3,7 @@ type: hotels
 page: /hotels.html
 title: Hotels
 subtitle: Explore available accommodations.
-date: 2017-11-30T00:00:00-05:00
+date: 2017-11-30T05:00:00.000Z
 image: /img/slider_hotel.png
 tablecopy: >-
   Here is the operating status of over 100 hotels in Puerto Rico, including the
@@ -469,7 +469,7 @@ hotels:
     name: San Juan Airport Hotel
     open: true
     phone: 000-000-0000
-  - date: Bookng
+  - date: Booking
     name: San Juan Marriott Resort & Stellaris Casino
     open: true
     phone: 000-000-0000
