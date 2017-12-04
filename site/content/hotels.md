@@ -557,9 +557,9 @@ hotels:
     name: Wyndham Garden at Palmas del Mar
     open: false
     phone: 000-000-0000
-  - date: 18-Oct-17
+  - date: Pending
     name: Wyndham Rio Mar
-    open: true
+    open: false
     phone: 000-000-0000
 ---
 
