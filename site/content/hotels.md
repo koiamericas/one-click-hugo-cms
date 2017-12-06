@@ -301,9 +301,9 @@ hotels:
     name: Hotel Olimpo Court
     open: false
     phone: 000-000-0000
-  - date: 01-Oct-18
+  - date: Pending
     name: Hotel St. Regis at Bahia Beach Resort
-    open: true
+    open: false
     phone: 000-000-0000
   - date: Booking
     name: Hotel Villa Forín
