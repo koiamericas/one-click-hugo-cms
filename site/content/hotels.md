@@ -257,9 +257,9 @@ hotels:
     name: Hotel Colonial
     open: true
     phone: 000-000-0000
-  - date: Pending
+  - date: Booking
     name: Hotel Decanter
-    open: false
+    open: true
     phone: 000-000-0000
   - date: Booking
     name: Hotel El Convento
