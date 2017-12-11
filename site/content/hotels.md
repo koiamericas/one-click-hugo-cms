@@ -193,7 +193,7 @@ hotels:
     name: 'Las Casitas Village, A Waldorf Astoria Resort'
     open: true
     phone: 000-000-0000
-  - date: 31-Jan-18
+  - date: Pending
     name: 'El San Juan Hotel, Curio Collection by Hilton'
     open: false
     phone: 000-000-0000
